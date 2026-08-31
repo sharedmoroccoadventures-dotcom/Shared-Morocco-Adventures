@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Us | Shared Morocco Adventures</title>
+<meta name="description" content="Get in touch to reserve a seat on a group tour, ask about departure dates, or request a custom route.">
+<link rel="canonical" href="https://www.sharedmoroccoadventures.com/contact.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="images/logo-icon.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="logo"><img src="images/logo-full-transparent.png" alt="" width="34" height="34">Shared<span>Morocco</span>Adventures</a>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="tours.html">Group Tours</a>
+      <a href="day-trips.html">Day Trips</a>
+      <a href="blog.html">Blog</a>
+      <a href="airport-transfers.html">Transfers</a>
+      <a href="about.html">About</a>
+      <a href="faqs.html">FAQs</a>
+      <a href="contact.html">Contact</a>
+      <a href="contact.html" class="btn btn-solid">Book Now</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero-sub" style="background-image:linear-gradient(135deg, rgba(27,143,134,0.78) 0%, rgba(20,111,104,0.82) 100%), url('images/blog-riad-courtyard.jpg');background-size:cover;background-position:center;">
+  <div class="container">
+    <span class="eyebrow" style="color:#fff;">Contact</span>
+    <h1>Reserve your seat or ask a question</h1>
+    <p class="lead" style="margin:0 auto;color:rgba(255,255,255,0.9);">We reply within 24 hours.</p>
+  </div>
+</section>
+
+<section class="section-sand">
+  <div class="container">
+    <div class="split">
+      <div class="contact-panel">
+        <h2>Send us a message</h2>
+        <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="thank-you.html">
+          <input type="hidden" name="form-name" value="contact">
+          <p style="display:none;">
+            <label>Don't fill this out if you're human: <input name="bot-field"></label>
+          </p>
+          <div class="form-row">
+            <div>
+              <label for="name">Full Name</label>
+              <input type="text" id="name" name="name" required>
+            </div>
+            <div>
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" required>
+            </div>
+          </div>
+          <div class="form-row">
+            <div>
+              <label for="trip">Trip of Interest</label>
+              <select id="trip" name="trip">
+                <option value="4-Day Sahara Desert Group Tour">4-Day Sahara Desert Group Tour</option>
+                <option value="7-Day Morocco Highlights Group Tour">7-Day Morocco Highlights Group Tour</option>
+                <option value="Marrakech Day Trip">Marrakech Day Trip</option>
+                <option value="Fes Day Trip">Fes Day Trip</option>
+                <option value="Airport Transfer">Airport Transfer</option>
+                <option value="Not sure yet">Not sure yet</option>
+              </select>
+            </div>
+            <div>
+              <label for="date">Preferred Departure Date</label>
+              <input type="text" id="date" name="date" placeholder="e.g. October 2026">
+            </div>
+          </div>
+          <label for="message">Message</label>
+          <textarea id="message" name="message" required placeholder="Tell us about your travel dates, group size, or any questions."></textarea>
+          <button type="submit" class="btn btn-solid" style="margin-top:20px;">Send Message</button>
+        </form>
+      </div>
+      <div>
+        <span class="eyebrow">Other Ways to Reach Us</span>
+        <h2>We're here to help</h2>
+        <p>Whether you're ready to book or just weighing your options, drop us a line — we're happy to help you pick the right route and departure date.</p>
+        <p><strong>Email:</strong> <a href="mailto:hello@sharedmoroccoadventures.com">hello@sharedmoroccoadventures.com</a></p>
+        <p><strong>Response time:</strong> within 24 hours</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo"><img src="images/logo-full-transparent.png" alt="" width="30" height="30">Shared<span>Morocco</span>Adventures</div>
+        <p>Budget-friendly, small-group tours across Morocco. Fixed departures, sociable travelers, real savings.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="tours.html">Group Tours</a></li>
+          <li><a href="day-trips.html">Day Trips</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="airport-transfers.html">Airport Transfers</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="faqs.html">FAQs</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Popular Trips</h4>
+        <ul>
+          <li><a href="tour-4-day-sahara-desert-group-tour.html">4-Day Sahara Desert Tour</a></li>
+          <li><a href="tour-7-day-morocco-highlights-group-tour.html">7-Day Morocco Highlights</a></li>
+          <li><a href="tours.html">All Group Tours</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="mailto:hello@sharedmoroccoadventures.com">hello@sharedmoroccoadventures.com</a></li>
+          <li><a href="contact.html">Contact Form</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 Shared Morocco Adventures. All rights reserved. · <a href="photo-credits.html" style="color:inherit;">Photo Credits</a></span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>

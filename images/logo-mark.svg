@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shared Morocco Adventures logo">
+  <defs>
+    <linearGradient id="smaBadge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f2a93b"/>
+      <stop offset="55%" stop-color="#d9622b"/>
+      <stop offset="100%" stop-color="#b84e1e"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="31" fill="url(#smaBadge)"/>
+
+  <!-- Morocco: a five-pointed star -->
+  <polygon points="32,13 34.53,20.52 42.46,20.60 36.09,25.33 38.47,32.90 32,28.3 25.53,32.90 27.91,25.33 21.54,20.60 29.47,20.52" fill="#fbf4e8"/>
+
+  <!-- Adventures: one shared road -->
+  <path d="M14 48 Q32 59 50 48" fill="none" stroke="#146f68" stroke-width="2.8" stroke-linecap="round" stroke-dasharray="0.1 6.2"/>
+
+  <!-- Shared: two travelers on it -->
+  <circle cx="14" cy="48" r="3" fill="#146f68"/>
+  <circle cx="50" cy="48" r="3" fill="#146f68"/>
+</svg>
