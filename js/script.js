@@ -19,6 +19,18 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // Preselect the requested tour when a visitor arrives from a tour page.
+  var tripSelect = document.querySelector('#trip');
+  if (tripSelect) {
+    var requestedTrip = new URLSearchParams(window.location.search).get('trip');
+    if (requestedTrip) {
+      var matchingOption = Array.from(tripSelect.options).find(function (option) {
+        return option.value === requestedTrip;
+      });
+      if (matchingOption) tripSelect.value = requestedTrip;
+    }
+  }
+
   // Sticky header: solidify once the visitor scrolls past the hero fold
   if (siteHeader) {
     var applyHeaderState = function () {
