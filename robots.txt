@@ -1,4 +1,67 @@
+# Shared Morocco Adventures
+# Search engines and AI assistants are welcome to crawl and cite this site.
+
 User-agent: *
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: Googlebot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: Bingbot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: GPTBot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: Claude-User
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: Applebot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /thank-you.html
+
+User-agent: YandexBot
 Allow: /
 Disallow: /thank-you.html
 

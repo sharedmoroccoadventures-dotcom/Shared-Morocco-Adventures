@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "sharedmoroccoadventures.com" }],
+      "destination": "https://www.sharedmoroccoadventures.com/:path*",
+      "permanent": true
+    }
+  ]
+}
