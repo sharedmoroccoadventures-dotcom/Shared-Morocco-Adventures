@@ -309,7 +309,7 @@ function buildHome() {
   </div>
 </section>`;
 
-  const body = [hero, marquee, rail, journey, experiences, dayTrips, story, chat, steps, journal, seats].join('\n');
+  const body = [hero, rail, journey, experiences, dayTrips, story, chat, steps, journal, seats].join('\n');
   const website = { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Shared Morocco Adventures', url: SITE + '/' };
   out('index.html', page({ ...common, meta: P.index.meta, section: 'home', body, preload: 'images/blog-camel-trek-closeup.jpg', extraLd: [website], rail: true }));
 }
@@ -330,7 +330,7 @@ function buildTours() {
       ${f('start', 'From', [['', 'Anywhere'], ['start-marrakech', 'Marrakech'], ['start-fes', 'Fes'], ['start-casablanca', 'Casablanca']])}
       <span class="fcount" aria-live="polite">${tours.length} trips</span>
     </div>
-    <div class="grid g-3" id="tour-grid">${tours.map((t, i) => tcard(t, { eager: i < 3 })).join('\n')}</div>
+    <div class="grid g-3" id="tour-grid">${tours.map((t, i) => tcard(t)).join('\n')}</div>
   </div>
 </section>
 ${soon ? band({ eyebrow: 'Coming soon', title: esc(strip(soon.title)), text: soon.blurb, href: 'contact.html', label: 'Get notified', tone: 't-blue' }) : ''}

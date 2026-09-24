@@ -43,7 +43,7 @@ export function moroccoMap(stops, { id = 'jm' } = {}) {
   const land = line(coast) + `L1000 ${proj(-1.9, 35.1)[1]}L1000 940L${proj(-10.17, 29.38)[0]} 940Z`;
   const xy = stops.map(s => proj(s.lon, s.lat));
   const [ex, ey] = proj(-4.0, 31.15);
-  return `<svg viewBox="0 0 1000 940" role="img" aria-label="Map of the route: ${stops.map(s => s.name).join(', ')}">
+  return `<svg class="map__base" viewBox="0 0 1000 940" role="img" aria-label="Map of the route: ${stops.map(s => s.name).join(', ')}">
   <defs>
     <linearGradient id="${id}Fade" x1="0" y1="0" x2="1" y2="1"><stop offset=".45" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
     <mask id="${id}Mask"><rect width="1000" height="940" fill="url(#${id}Fade)"/></mask>
@@ -60,6 +60,7 @@ export function moroccoMap(stops, { id = 'jm' } = {}) {
   <text class="label-sea" x="${proj(-10.3, 32.6)[0]}" y="${proj(-10.3, 32.6)[1]}" transform="rotate(-62 ${proj(-10.3, 32.6).join(' ')})">ATLANTIC</text>
   <text class="label-sea" x="${proj(-4.6, 35.72)[0]}" y="${proj(-4.6, 35.72)[1]}">MEDITERRANEAN</text>
   <g class="compass" transform="translate(900 120)"><circle r="38"/><path d="M0 -30 L7 0 L0 30 L-7 0Z"/><text y="-46" text-anchor="middle" style="fill:rgba(243,233,218,.4);font:600 14px var(--f-body)">N</text></g>
+</svg><svg class="map__live" viewBox="0 0 1000 940" aria-hidden="true">
   <path class="route-bg" d="${smooth(xy)}"/>
   <path class="route" d="${smooth(xy)}"/>
   ${stops.map((s, i) => {

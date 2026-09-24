@@ -84,6 +84,12 @@
   W.addEventListener('scroll', request, { passive: true });
   W.addEventListener('resize', () => { vh = W.innerHeight; vw = W.innerWidth; resizers.forEach(f => f()); request(); });
   const resizers = [];
+  // only do per-frame work for things that are near the viewport
+  const near = new WeakSet();
+  const nearIO = new IntersectionObserver(es => es.forEach(e => e.isIntersecting ? near.add(e.target) : near.delete(e.target)), { rootMargin: '60% 0px' });
+  // pause decorative CSS animations while their section is off-screen
+  const offIO = new IntersectionObserver(es => es.forEach(e => e.target.classList.toggle('off-screen', !e.isIntersecting)), { rootMargin: '120px 0px' });
+  $$('main > section, main > article, main > div, .ftr').forEach(s => offIO.observe(s));
 
   /* ---------- header ---------- */
   const hdr = $('.hdr');
@@ -142,23 +148,26 @@
 
   /* ---------- horizontal pinned rails ---------- */
   $$('.hscroll').forEach(sec => {
-    const pin = $('.hscroll__pin', sec), track = $('.hscroll__track', sec), stage = $('.hscroll__stage', sec);
+    const pin = $('.hscroll__pin', sec), track = $('.hscroll__track', sec), bar = $('.hscroll__bar', sec);
+    let lastX = -1;
     let dist = 0, on = false;
     const setup = () => {
       on = !reduce && vw >= 900;
       sec.classList.toggle('hscroll--native', !on);
-      if (!on) { pin.style.removeProperty('--h'); track.style.removeProperty('--x'); return; }
+      if (!on) { pin.style.removeProperty('--h'); track.style.transform = ''; return; }
       dist = Math.max(0, track.scrollWidth - vw);
       pin.style.setProperty('--h', (dist + vh) + 'px');
     };
-    setup(); resizers.push(setup);
+    setup(); resizers.push(setup); nearIO.observe(pin);
     W.addEventListener('load', setup);
     handlers.push(() => {
-      if (!on) return;
+      if (!on || !near.has(pin)) return;
       const r = pin.getBoundingClientRect();
       const p = clamp(-r.top / Math.max(1, r.height - vh));
-      track.style.setProperty('--x', (p * dist).toFixed(1));
-      stage.style.setProperty('--p', p.toFixed(4));
+      const x = Math.round(p * dist);
+      if (x === lastX) return; lastX = x;
+      track.style.transform = `translate3d(${-x}px,0,0)`;
+      bar.style.setProperty('--p', p.toFixed(4));
     });
   });
 
@@ -175,8 +184,9 @@
       return best;
     });
     route.style.strokeDasharray = L; route.style.strokeDashoffset = L;
-    let current = -1;
+    let current = -1, lastP = -1;
     const show = p => {
+      p = Math.round(p * 1000) / 1000; if (p === lastP) return; lastP = p;
       route.style.strokeDashoffset = (L * (1 - p)).toFixed(1);
       const pt = route.getPointAtLength(L * p); trav.setAttribute('cx', pt.x); trav.setAttribute('cy', pt.y);
       let idx = 0; at.forEach((a, i) => { if (p >= a - 0.004) idx = i; });
@@ -185,13 +195,15 @@
       bars.forEach((b, i) => { const a = at[i], z = at[i + 1] ?? 1; b.style.setProperty('--f', clamp((p - a) / Math.max(.001, z - a)).toFixed(3)); });
     };
     if (reduce) { journey.classList.add('journey--static'); show(1); }
-    else handlers.push(() => { const r = pin.getBoundingClientRect(); show(clamp((-r.top) / Math.max(1, r.height - vh) * 1.08)); });
+    else { nearIO.observe(pin); handlers.push(() => { if (!near.has(pin)) return; const r = pin.getBoundingClientRect(); show(clamp((-r.top) / Math.max(1, r.height - vh) * 1.08)); }); }
   }
 
   /* ---------- itinerary timeline ---------- */
   $$('.timeline').forEach(tl => {
     const days = $$('.day', tl);
+    nearIO.observe(tl);
     handlers.push(() => {
+      if (!near.has(tl)) return;
       const r = tl.getBoundingClientRect();
       const p = clamp((vh * 0.55 - r.top) / Math.max(1, r.height));
       tl.style.setProperty('--p', p.toFixed(4));
@@ -217,14 +229,6 @@
     const ws = $$('.word', q);
     handlers.push(() => { const r = q.getBoundingClientRect(); const p = clamp((vh * 0.85 - r.top) / (vh * 0.6)); const n = Math.round(p * ws.length); ws.forEach((w, i) => w.classList.toggle('on', reduce || i < n)); });
   });
-
-  /* ---------- marquee reacts to scroll speed ---------- */
-  const marqs = $$('.marquee__track');
-  if (marqs.length && !reduce && 'getAnimations' in Element.prototype) {
-    let rate = 1;
-    handlers.push((y, v) => { rate += (clamp(1 + Math.abs(v) * 0.08, 1, 5) - rate) * 0.25; marqs.forEach(m => m.getAnimations().forEach(a => a.playbackRate = rate)); });
-    setInterval(() => { if (rate > 1.02) { rate += (1 - rate) * 0.2; marqs.forEach(m => m.getAnimations().forEach(a => a.playbackRate = rate)); } }, 60);
-  }
 
   /* ---------- group chat ---------- */
   $$('.chat').forEach(chat => {
@@ -263,8 +267,9 @@
     let tx = -100, ty = -100, cx = -100, cy = -100;
     W.addEventListener('pointermove', e => { tx = e.clientX; ty = e.clientY; cur.classList.add('is-on'); }, { passive: true });
     d.addEventListener('pointerleave', () => cur.classList.remove('is-on'));
-    const loop = () => { cx += (tx - cx) * 0.2; cy += (ty - cy) * 0.2; cur.style.setProperty('--cx', cx.toFixed(1) + 'px'); cur.style.setProperty('--cy', cy.toFixed(1) + 'px'); requestAnimationFrame(loop); };
-    loop();
+    let looping = false;
+    const loop = () => { cx += (tx - cx) * 0.2; cy += (ty - cy) * 0.2; cur.style.setProperty('--cx', cx.toFixed(1) + 'px'); cur.style.setProperty('--cy', cy.toFixed(1) + 'px'); if (Math.abs(tx - cx) + Math.abs(ty - cy) > 0.4) requestAnimationFrame(loop); else looping = false; };
+    W.addEventListener('pointermove', () => { if (!looping) { looping = true; requestAnimationFrame(loop); } }, { passive: true });
     $$('[data-cursor]').forEach(el => {
       el.addEventListener('pointerenter', () => { $('span', cur).textContent = el.dataset.cursor; cur.classList.add('is-big'); });
       el.addEventListener('pointerleave', () => cur.classList.remove('is-big'));

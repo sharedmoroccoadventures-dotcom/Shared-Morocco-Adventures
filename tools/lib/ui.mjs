@@ -1,4 +1,12 @@
 // Shared layout + components for every generated page.
+import fs from 'node:fs';
+let OPT = {};
+try { OPT = JSON.parse(fs.readFileSync(new URL('../../images/opt/manifest.json', import.meta.url), 'utf8')); } catch { /* no optimized images yet */ }
+const optOf = src => OPT[String(src).replace(/^images\//, '')] || null;
+const srcsetOf = src => { const m = optOf(src); if (!m) return ''; const b = String(src).replace(/^images\//, '').replace(/\.[^.]+$/, ''); return m.sizes.map(w => `images/opt/${b}-${w}.webp ${w}w`).join(', '); };
+export const SIZES_CARD = '(min-width: 1100px) 420px, (min-width: 700px) 45vw, 92vw';
+export const SIZES_HALF = '(min-width: 900px) 50vw, 92vw';
+export const preloadTag = src => { const ss = srcsetOf(src); return `<link rel="preload" as="image" href="${attr(src)}"${ss ? ` imagesrcset="${ss}" imagesizes="100vw"` : ''} fetchpriority="high">`; };
 export const SITE = 'https://www.sharedmoroccoadventures.com';
 export const EMAIL = 'sharedmoroccoadventures@gmail.com';
 
@@ -83,7 +91,7 @@ export function footer(popular) {
 </footer>`;
 }
 
-const FONTS = 'https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Instrument+Serif:ital@0;1&display=swap';
+const FONTS = 'https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400..800&family=Instrument+Serif:ital@1&display=swap';
 
 export function page({ meta, section, body, preload, solid = false, bodyClass = '', extraLd = [], popular, noindex = false, rail = false }) {
   const og = meta.ogImage || `${SITE}/images/hero-sahara-dunes.jpg`;
@@ -108,8 +116,9 @@ ${meta.canonical ? `<meta property="og:url" content="${attr(meta.canonical)}">` 
 <meta name="twitter:image" content="${attr(og)}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="${FONTS}">
-${preload ? `<link rel="preload" as="image" href="${attr(preload)}" fetchpriority="high">` : ''}
+<link rel="preload" as="style" href="${FONTS}" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="${FONTS}"></noscript>
+${preload ? preloadTag(preload) : ''}
 <link rel="icon" type="image/svg+xml" href="images/logo-mark.svg">
 <link rel="icon" type="image/png" href="images/logo-icon.png">
 <link rel="apple-touch-icon" href="images/logo-icon.png">
@@ -133,8 +142,12 @@ ${footer(popular)}
 const STAGES = ['Move', 'Discover', 'Explore', 'Experience', 'Share', 'Travel'];
 const railMarkup = () => `<nav class="rail" aria-hidden="true"><ul>${STAGES.map(s => `<li data-stage="${s}"><span>${s.toUpperCase()}</span><i></i></li>`).join('')}</ul></nav>`;
 
-export const img = (src, alt = '', { eager = false, cls = '', w = 1400, h = 933, sizes = '' } = {}) =>
-  `<img src="${attr(src)}" alt="${attr(alt)}" width="${w}" height="${h}"${eager ? ' fetchpriority="high"' : ' loading="lazy"'} decoding="async"${cls ? ` class="${cls}"` : ''}${sizes ? ` sizes="${sizes}"` : ''}>`;
+export const img = (src, alt = '', { eager = false, cls = '', sizes = '' } = {}) => {
+  const m = optOf(src), ss = srcsetOf(src);
+  const w = m?.w || 1400, h = m?.h || 933;
+  const sz = sizes || (eager ? '100vw' : SIZES_HALF);
+  return `<img src="${attr(src)}"${ss ? ` srcset="${ss}" sizes="${sz}"` : ''} alt="${attr(alt)}" width="${w}" height="${h}"${eager ? ' fetchpriority="high"' : ' loading="lazy"'} decoding="async"${cls ? ` class="${cls}"` : ''}>`;
+};
 
 export function routeChain(str) {
   const stops = strip(str).split(/\s*(?:→|->)\s*/).filter(Boolean);
@@ -166,7 +179,7 @@ export function band({ eyebrow = '', title, text = '', href = 'tours.html', labe
 export function tcard(t, { eager = false } = {}) {
   const route = t.route.map(s => `<span>${esc(s)}</span>`).join('<i></i>');
   return `<a class="tcard" href="${t.file}" data-cursor="View trip" data-tags="${attr(t.tags.join(' '))}">
-  <div class="tcard__media">${img(t.image, '', { eager })}${t.badge ? `<span class="tag tcard__badge">${esc(t.badge)}</span>` : ''}<span class="tcard__days">${t.days}<small>days</small></span><div class="tcard__route">${route}</div></div>
+  <div class="tcard__media">${img(t.image, '', { eager, sizes: SIZES_CARD })}${t.badge ? `<span class="tag tcard__badge">${esc(t.badge)}</span>` : ''}<span class="tcard__days">${t.days}<small>days</small></span><div class="tcard__route">${route}</div></div>
   <div class="tcard__body"><h3 class="tcard__title">${t.title}</h3><p class="tcard__blurb">${t.blurb}</p>
   <div class="tcard__foot"><div class="tcard__price"><small>From</small><b>€${t.price}</b><span>pp</span></div><span class="tcard__go">${I.arrow}</span></div></div>
 </a>`;
@@ -174,7 +187,7 @@ export function tcard(t, { eager = false } = {}) {
 
 export function ecard(c, { feature = false, tag = '', meta = [], price = '' } = {}) {
   return `<a class="ecard${feature ? ' ecard--feature' : ''}" href="${c.href}" data-cursor="Read"${c.tags ? ` data-tags="${attr(c.tags)}"` : ''} data-r="up">
-  <div class="ecard__media">${img(c.image, '')}${tag ? `<span class="tag">${esc(tag)}</span>` : ''}</div>
+  <div class="ecard__media">${img(c.image, '', { sizes: feature ? SIZES_HALF : SIZES_CARD })}${tag ? `<span class="tag">${esc(tag)}</span>` : ''}</div>
   <div style="display:grid;gap:10px">${meta.length ? `<div class="ecard__meta">${meta.map(m => `<span>${esc(m)}</span>`).join('')}</div>` : ''}<h3>${c.title}</h3>${c.blurb ? `<p>${c.blurb}</p>` : ''}${price ? `<span class="ecard__price">${esc(price)}</span>` : ''}</div>
 </a>`;
 }
