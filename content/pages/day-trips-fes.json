@@ -1,0 +1,202 @@
+{
+  "file": "day-trips-fes.html",
+  "slug": "day-trips-fes",
+  "meta": {
+    "title": "Budget Day Trips from Fes | Shared Group Tours Morocco",
+    "description": "Shared, budget group day trips from Fes — Chefchaouen Blue City, Meknes & Volubilis, Ifrane cedar forest, and Sefrou & Bhalil. From €19pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/day-trips-fes.html",
+    "ogTitle": "Budget Day Trips from Fes | Shared Group Tours Morocco",
+    "ogDescription": "Shared, small-group, fixed-departure day trips from Fes — Chefchaouen, Roman ruins, cedar forest, and hidden-gem towns. From €19pp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/tour-chefchaouen.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"ItemList\",\r\n  \"name\": \"Budget Day Trips from Fes\",\r\n  \"itemListElement\": [\r\n    { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Sefrou & Bhalil Half-Day Trip\", \"url\": \"daytrip-sefrou-bhalil.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"19\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Meknes, Volubilis & Moulay Idriss Day Trip\", \"url\": \"daytrip-meknes-volubilis-moulay-idriss.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"29\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Ifrane & Middle Atlas Cedar Forest Day Trip\", \"url\": \"daytrip-ifrane-cedar-forest.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"29\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Chefchaouen Blue City Day Trip\", \"url\": \"daytrip-chefchaouen-blue-city.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"39\" } } }\r\n  ]\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Budget Day Trips · Fes",
+    "h1": "All shared group day trips from Fes",
+    "lead": "Every budget day trip we run from Fes, on one page — the Blue City of Chefchaouen, Roman ruins at Volubilis, alpine Ifrane, and the hidden-gem towns of Sefrou and Bhalil. Shared small-group transport, fixed daily departures, from €19 per person.",
+    "image": "images/tour-chefchaouen.jpg"
+  },
+  "trips": [
+    {
+      "id": "chefchaouen",
+      "eyebrow": "From €39pp · Full Day · Best Seller",
+      "h2": "Chefchaouen Blue City Day Trip",
+      "route": "Fes → Rif Mountains → Chefchaouen Medina → Free Time → Fes",
+      "lead": "≈400 km round trip · about 7 hrs driving",
+      "paras": [
+        "Chefchaouen's blue-washed lanes are the single most-booked day trip from Fes. A shared minivan covers the roughly 3.5-hour drive each way through the green hills of the Rif Mountains, with a full afternoon to wander the town's photogenic streets.",
+        "A guided walk covers the winding blue alleyways, the Kasbah Museum, and the main square (Plaza Uta el-Hammam), followed by free time for rooftop cafés and local weaving workshops."
+      ],
+      "chips": [
+        "Blue-Washed Medina",
+        "Kasbah Museum",
+        "Rif Mountains"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, English/French driver-guide, guided medina walk, hotel/riad pickup. <strong>Not included:</strong> lunch, Kasbah Museum entrance fee, travel insurance."
+      ],
+      "price": "From €39",
+      "priceSub": "per person · departs daily, book ahead in high season",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Day Trip"
+        },
+        {
+          "href": "daytrip-chefchaouen-blue-city.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/tour-chefchaouen.jpg"
+    },
+    {
+      "id": "meknes-volubilis",
+      "eyebrow": "From €29pp · Full Day · Best Value",
+      "h2": "Meknes, Volubilis &amp; Moulay Idriss Day Trip",
+      "route": "Fes → Meknes → Volubilis Roman Ruins → Moulay Idriss Zerhoun → Fes",
+      "lead": "≈190 km round trip · about 3.5 hrs driving",
+      "paras": [
+        "The single most popular history day trip from Fes and our best-value route — three sites in one shared group day: the imperial city of Meknes, the exceptionally preserved Roman ruins at Volubilis, and the hillside holy town of Moulay Idriss Zerhoun.",
+        "Because all three stops sit close together, this is also our shortest full-day route from Fes — a lower price for a route packed with history, including Volubilis's remarkably intact 2,000-year-old floor mosaics."
+      ],
+      "chips": [
+        "Bab Mansour Gate",
+        "Volubilis Mosaics",
+        "Moulay Idriss Zerhoun"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, driver-guide, guided stops at all three sites, hotel/riad pickup. <strong>Not included:</strong> Volubilis entrance fee, lunch, travel insurance."
+      ],
+      "price": "From €29",
+      "priceSub": "per person · departs daily",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Day Trip"
+        },
+        {
+          "href": "daytrip-meknes-volubilis-moulay-idriss.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/daytrip-meknes-volubilis.jpg"
+    },
+    {
+      "id": "ifrane-cedar-forest",
+      "eyebrow": "From €29pp · Full Day · Nature",
+      "h2": "Ifrane &amp; Middle Atlas Cedar Forest Day Trip",
+      "route": "Fes → Ifrane → Azrou Cedar Forest → Barbary Macaques → Fes",
+      "lead": "≈145 km round trip · about 2.5 hrs driving",
+      "paras": [
+        "Nicknamed the \"Switzerland of Morocco,\" Ifrane is a world away from the Fes medina — sloped roofs, pine-lined streets, and cool mountain air year-round. The route continues into the Middle Atlas cedar forests near Azrou, home to wild Barbary macaques.",
+        "A shorter, lower-cost route than our other Fes day trips, and an easy pick for nature lovers or anyone wanting a change of scenery from the imperial cities."
+      ],
+      "chips": [
+        "Ifrane \"Alpine\" Town",
+        "Cedar Forest",
+        "Barbary Macaques"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, driver-guide, guided stops in Ifrane and the cedar forest, hotel/riad pickup. <strong>Not included:</strong> lunch, travel insurance."
+      ],
+      "price": "From €29",
+      "priceSub": "per person · departs daily",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Day Trip"
+        },
+        {
+          "href": "daytrip-ifrane-cedar-forest.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/daytrip-ifrane-cedar-forest.jpg"
+    },
+    {
+      "id": "sefrou-bhalil",
+      "eyebrow": "From €19pp · Half Day · Hidden Gem",
+      "h2": "Sefrou &amp; Bhalil Half-Day Trip",
+      "route": "Fes → Bhalil Cave Houses → Sefrou Old Town → Fes",
+      "lead": "≈65 km round trip · about 1.5 hrs driving",
+      "paras": [
+        "Our cheapest and most local day trip. Bhalil is known for its troglodyte cave houses, some still inhabited today, while Sefrou is a relaxed former capital famous for cherry orchards, pottery, and a walled medina that feels like a smaller, quieter Fes.",
+        "At roughly 3.5 hours round trip, this is a great budget add-on alongside a longer day trip or a few days exploring the Fes medina — it wraps up around lunchtime."
+      ],
+      "chips": [
+        "Cave Houses",
+        "Sefrou Medina",
+        "Pottery Workshops"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, driver-guide, guided visits to Bhalil and Sefrou, hotel/riad pickup. <strong>Not included:</strong> lunch, travel insurance."
+      ],
+      "price": "From €19",
+      "priceSub": "per person · departs daily",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Half-Day Trip"
+        },
+        {
+          "href": "daytrip-sefrou-bhalil.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/fes-medina-tannery.jpg"
+    }
+  ],
+  "tail": [
+    {
+      "kind": "faq",
+      "eyebrow": "FAQs",
+      "h2": "Fes Day Trip Questions",
+      "items": [
+        {
+          "q": "Are these shared or private tours?",
+          "a": "<p>All the trips above are shared, small-group departures — you'll travel with other budget travelers in the same minivan, which is what keeps prices low. Private versions are available on request for most routes.</p>"
+        },
+        {
+          "q": "Which day trip should I book first?",
+          "a": "<p>Chefchaouen is our most popular, but if you're short on time or budget, Sefrou &amp; Bhalil or Meknes, Volubilis &amp; Moulay Idriss are shorter and cheaper without sacrificing much.</p>"
+        },
+        {
+          "q": "How far in advance should I book Chefchaouen?",
+          "a": "<p>It's our most-booked route, so seats can sell out several days ahead in high season (October–April). Booking early is recommended.</p>"
+        },
+        {
+          "q": "Can I combine two day trips in the same visit?",
+          "a": "<p>Yes — Sefrou &amp; Bhalil pairs well with a free afternoon in the Fes medina, and many travelers do Meknes/Volubilis on one day and Chefchaouen the next.</p>"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "kind": "cta",
+      "h2": "Prefer a multi-day route instead?",
+      "p": "Browse our fixed-departure group tours across the Sahara, imperial cities, and the Atlas Mountains.",
+      "href": "tours.html",
+      "label": "See Group Tours"
+    }
+  ],
+  "jump": [
+    {
+      "text": "🔵 Chefchaouen Blue City",
+      "href": "#chefchaouen"
+    },
+    {
+      "text": "🏛️ Meknes & Volubilis",
+      "href": "#meknes-volubilis"
+    },
+    {
+      "text": "🌲 Ifrane & Cedar Forest",
+      "href": "#ifrane-cedar-forest"
+    },
+    {
+      "text": "🏘️ Sefrou & Bhalil",
+      "href": "#sefrou-bhalil"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "file": "blog-marrakech-airport-guide.html",
+  "slug": "blog-marrakech-airport-guide",
+  "meta": {
+    "title": "Marrakech Menara Airport: Arrival Guide | Shared Morocco Adventures",
+    "description": "What to expect at Marrakech Menara Airport — immigration, cash, SIM cards, getting into the city, and avoiding the common arrival scams.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-marrakech-airport-guide.html",
+    "ogTitle": "Marrakech Menara Airport: Arrival Guide & First 24 Hours",
+    "ogDescription": "Immigration, cash, SIM cards, and getting into the city from Marrakech Menara Airport.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-marrakech-airport.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Planning",
+    "h1": "Marrakech Menara Airport: Arrival Guide &amp; First 24 Hours",
+    "lead": "A small, efficient airport just 6km from the medina — here's how to get through it smoothly and into the city without overpaying.",
+    "image": "images/blog-marrakech-airport.jpg"
+  },
+  "body": "<p>Marrakech Menara Airport (RAK) is Morocco's busiest tourist gateway, known for its striking lattice-patterned terminal roof and, less charmingly, for queues at immigration during peak arrival windows. It's small enough that once you're through passport control, everything else — baggage, exit, transport — is a short walk, not a trek.</p>\r\n\r\n      <h2>Immigration and Baggage</h2>\r\n      <p>Have your passport and completed arrival card ready (often handed out on the plane); if not, forms are available just before the immigration desks. Peak season mornings and evenings can mean 30–60 minute queues, so build a buffer into any tight onward connection. Baggage claim is straightforward and generally fast once you're through passport control.</p>\r\n\r\n      <h2>Getting Cash and a SIM</h2>\r\n      <p>ATMs and currency exchange desks sit in the arrivals hall before and after customs — rates are broadly comparable to in-town options, so there's no strong reason to wait if you need cash immediately. SIM card kiosks for Maroc Telecom, Orange, and inwi are also in arrivals; see our <a href=\"blog-morocco-sim-card-internet.html\">SIM card and internet guide</a> for what to expect on pricing.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Withdraw slightly more cash than you think you'll need for day one — taxis, tips, and your first meal are all cash transactions, and you don't want to be hunting for an ATM at 11pm on arrival night.</p>\r\n      </div>\r\n\r\n      <h2>Getting into the City</h2>\r\n      <p>The medina is only about 6km away, roughly a 15–20 minute drive depending on traffic. Official petit taxis operate from a rank just outside arrivals — insist on the metered rate or agree a fixed price before getting in, since airport taxi drivers are the most likely to quote inflated \"tourist\" fares. A pre-booked private or shared transfer, arranged before you fly, removes this negotiation entirely and typically costs about the same as a fair taxi fare.</p>\r\n\r\n      <h2>Avoiding Arrival Scams</h2>\r\n      <p>The two most common issues at Marrakech airport: taxi drivers quoting 2–3x the fair rate to unsuspecting arrivals, and unofficial \"porters\" who grab your bag uninvited and then demand a tip. Politely but firmly decline unsolicited help with your luggage, and don't feel awkward walking past the first taxi tout you meet to find a metered one or your pre-booked driver instead.</p>\r\n\r\n      <h2>Your First Evening</h2>\r\n      <p>Most riads are inside the medina, where vehicles can't reach the door — your driver will typically drop you at the nearest accessible point, and someone from the riad meets you to walk you in the last stretch. Confirm this pickup arrangement with your accommodation in advance so you're not standing confused at an unfamiliar gate after a long flight.</p>",
+  "cta": {
+    "h2": "Skip the Taxi-Rank Guesswork",
+    "p": "Book a fixed-price shared or private transfer from Marrakech Menara Airport straight to your riad.",
+    "href": "airport-transfers.html",
+    "label": "See Airport Transfers"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Staying Connected: SIM Cards &amp; Internet",
+      "meta": [],
+      "blurb": "Where to get data the moment you land.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-sim-card-internet.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-connectivity-sim.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Is Morocco Safe? A Practical Safety Guide",
+      "meta": [],
+      "blurb": "Common scams and how to avoid them from arrival onward.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-is-morocco-safe.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-safety-guide.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "First-Timer's Guide to Traveling Morocco on a Budget",
+      "meta": [],
+      "blurb": "Visas, money, safety, and simplifying the logistics.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-first-timers-guide-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-imperial-gate.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

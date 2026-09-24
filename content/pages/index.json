@@ -1,0 +1,236 @@
+{
+  "file": "index.html",
+  "meta": {
+    "title": "Shared Morocco Adventures | Budget Group Tours Across Morocco",
+    "description": "Join a small group and explore Morocco without the private-tour price tag — fixed departures, sociable travelers, Sahara desert camps. From €249.",
+    "canonical": "https://www.sharedmoroccoadventures.com/",
+    "ogTitle": "Shared Morocco Adventures | Budget Group Tours Across Morocco",
+    "ogDescription": "Join a small group and explore Morocco without the private-tour price tag. Fixed-date departures, sociable travelers, Sahara desert camps, and imperial cities.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/hero-sahara-dunes.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\":\"https://schema.org\",\r\n  \"@type\":\"TravelAgency\",\r\n  \"name\":\"Shared Morocco Adventures\",\r\n  \"url\":\"https://www.sharedmoroccoadventures.com/\",\r\n  \"logo\":\"https://www.sharedmoroccoadventures.com/images/logo-full-transparent.png\",\r\n  \"description\":\"Small-group, fixed-date Morocco tours for solo travelers, couples and friends.\",\r\n  \"email\":\"sharedmoroccoadventures@gmail.com\",\r\n  \"areaServed\":\"Morocco\",\r\n  \"sameAs\":[]\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Small Groups · Fixed Departures · Real Savings",
+    "h1": "See Morocco together, for less.",
+    "lead": "Join fellow travelers on fixed-date group tours across the Sahara, the Atlas Mountains, and Morocco's imperial cities — shared rides, shared riads, shared memories, and none of the private-tour markup.",
+    "image": "images/hero-sahara-dunes.jpg"
+  },
+  "sections": [
+    {
+      "kind": "other",
+      "id": "",
+      "eyebrow": "",
+      "h2": "",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "other",
+      "id": "",
+      "eyebrow": "Start planning",
+      "h2": "Find your kind of Morocco",
+      "lead": "Choose a trip length and starting city. Every route is designed for easy solo booking and sociable group travel.",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "other",
+      "id": "",
+      "eyebrow": "",
+      "h2": "",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "other",
+      "id": "",
+      "eyebrow": "The Morocco you came for",
+      "h2": "Desert sunsets, blue medinas, mountain roads",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "stay",
+      "id": "",
+      "eyebrow": "Why Travel Shared",
+      "h2": "All the adventure, none of the private-tour price tag",
+      "lead": "We run the same iconic routes as private operators — Sahara camel treks, the Atlas Mountains, the blue streets of Chefchaouen — but you share the vehicle, the guide, and the cost with a small group of fellow travelers.",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "cards",
+      "id": "",
+      "eyebrow": "Popular Right Now",
+      "h2": "Group tours departing this month",
+      "lead": "",
+      "cards": [
+        {
+          "badge": "Best Seller",
+          "title": "4-Day Sahara Desert Group Tour",
+          "meta": [
+            "📍 Marrakech → Merzouga",
+            "🗓 4 Days"
+          ],
+          "blurb": "Ait Benhaddou, Dades &amp; Todra Gorges, a camel trek into the dunes, and a night under the stars at a shared desert camp.",
+          "price": "From €249",
+          "priceSub": "per person",
+          "href": "tour-4-day-sahara-desert-group-tour.html",
+          "cta": "View Trip",
+          "image": "images/hero-sahara-dunes.jpg",
+          "tone": "dune"
+        },
+        {
+          "badge": "Fan Favorite",
+          "title": "7-Day Morocco Highlights Group Tour",
+          "meta": [
+            "📍 Casablanca → Fes",
+            "🗓 7 Days"
+          ],
+          "blurb": "Marrakech, the High Atlas, Sahara dunes, Fes medina, and the blue lanes of Chefchaouen — Morocco's greatest hits in one loop.",
+          "price": "From €499",
+          "priceSub": "per person",
+          "href": "tour-7-day-morocco-highlights-group-tour.html",
+          "cta": "View Trip",
+          "image": "images/tour-chefchaouen.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Coming Soon",
+          "title": "More routes joining the calendar",
+          "meta": [
+            "📍 Multiple cities",
+            "🗓 Various"
+          ],
+          "blurb": "We're adding new shared departures from Fes, Agadir, and Tangier. Get in touch and we'll let you know the moment they open.",
+          "price": "Notify me",
+          "priceSub": "",
+          "href": "contact.html",
+          "cta": "Get in Touch",
+          "image": "images/daytrip-essaouira.jpg",
+          "tone": "teal"
+        }
+      ],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "cards",
+      "id": "",
+      "eyebrow": "Budget Day Trips",
+      "h2": "Shared group day trips from Marrakech &amp; Fes",
+      "lead": "Short on time or budget? Join a shared minivan day trip — or just a shared local guide on foot — instead. Same small-group savings, no overnight required. Departs daily from €15.",
+      "cards": [
+        {
+          "badge": "Cheapest · Marrakech",
+          "title": "Marrakech Medina Walking Tour",
+          "meta": [
+            "📍 Marrakech",
+            "🗓 Half Day"
+          ],
+          "blurb": "Jemaa el-Fnaa, the souks, Bahia Palace, and the Koutoubia Mosque with a local guide, on foot.",
+          "price": "From €15",
+          "priceSub": "per person",
+          "href": "daytrip-marrakech-medina-walking-tour.html",
+          "cta": "View Walking Tour",
+          "image": "images/marrakech-jemaa-el-fnaa.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Best Seller · Fes",
+          "title": "Chefchaouen Blue City Day Trip",
+          "meta": [
+            "📍 From Fes",
+            "🗓 Full Day"
+          ],
+          "blurb": "Morocco's iconic blue-washed streets in the Rif Mountains, our most-booked day trip from Fes.",
+          "price": "From €39",
+          "priceSub": "per person",
+          "href": "daytrip-chefchaouen-blue-city.html",
+          "cta": "View Day Trip",
+          "image": "images/tour-chefchaouen.jpg",
+          "tone": "blue"
+        },
+        {
+          "badge": "Sunset · Marrakech",
+          "title": "Agafay Desert Sunset Day Trip",
+          "meta": [
+            "📍 From Marrakech",
+            "🗓 Half/Full Day"
+          ],
+          "blurb": "Camel ride and golden-hour views over the stone desert, just 40 minutes from the city.",
+          "price": "From €35",
+          "priceSub": "per person",
+          "href": "daytrip-agafay-desert-sunset.html",
+          "cta": "View Day Trip",
+          "image": "images/daytrip-agafay-desert.jpg",
+          "tone": "dune"
+        }
+      ],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "other",
+      "id": "",
+      "eyebrow": "How It Works",
+      "h2": "Booking a shared trip is simple",
+      "lead": "",
+      "cards": [],
+      "steps": [
+        {
+          "title": "Pick a route",
+          "text": "Browse fixed-date group departures and find one that fits your dates."
+        },
+        {
+          "title": "Reserve your seat",
+          "text": "Secure your spot with a small deposit — no need to fill the group yourself."
+        },
+        {
+          "title": "Meet the group",
+          "text": "We'll add you to a pre-departure chat so you can meet your travel companions."
+        },
+        {
+          "title": "Hit the road",
+          "text": "A local guide and driver handle the logistics — you just show up and enjoy it."
+        }
+      ],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "other",
+      "id": "",
+      "eyebrow": "Traveler Stories",
+      "h2": "What the group is saying",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    }
+  ],
+  "cta": {
+    "h2": "Ready to join the next group?",
+    "p": "Fixed departures fill up fast, especially in peak season. Grab your seat today.",
+    "href": "tours.html",
+    "label": "Browse Group Tours"
+  }
+}

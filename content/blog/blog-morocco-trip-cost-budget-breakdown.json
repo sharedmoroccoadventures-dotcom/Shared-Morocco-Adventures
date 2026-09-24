@@ -1,0 +1,65 @@
+{
+  "file": "blog-morocco-trip-cost-budget-breakdown.html",
+  "slug": "blog-morocco-trip-cost-budget-breakdown",
+  "meta": {
+    "title": "Morocco Trip Cost: A Budget Breakdown | Shared Morocco Adventures",
+    "description": "A realistic cost breakdown for a Morocco trip: accommodation, food, transport, tours, and souvenirs, with sample totals for a 7-10 day budget itinerary.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-morocco-trip-cost-budget-breakdown.html",
+    "ogTitle": "How Much Does a Trip to Morocco Cost? A Budget Breakdown",
+    "ogDescription": "A realistic cost breakdown for a Morocco trip: accommodation, food, transport, tours, and souvenirs, with sample totals for a 7-10 day budget itinerary.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-moroccan-spices-souk.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Budget Tips",
+    "h1": "How Much Does a Trip to Morocco Cost? A Budget Breakdown",
+    "lead": "Real category-by-category costs so you can plan a Morocco trip without any budgeting surprises.",
+    "image": "images/blog-moroccan-spices-souk.jpg"
+  },
+  "body": "<p>Morocco has a reputation as an affordable destination, and it largely earns it — but \"affordable\" still means different things depending on how you travel. Here's a realistic breakdown by category, based on how budget-conscious travelers actually spend, so you can build a number that matches your own trip.</p>\r\n\r\n      <h2>Accommodation</h2>\r\n      <p>Hostel dorm beds in Marrakech, Fes, and Chefchaouen run €7-15 a night. A budget riad room, which gets you a proper private room with a courtyard and often breakfast, runs €20-40 a night for two people split, and is genuinely one of the best value experiences in Morocco — the buildings themselves are part of the appeal. Mid-range hotels sit around €35-60. Across a 7-10 day trip mixing dorms and the occasional riad splurge, expect to average roughly €15-25 per person per night.</p>\r\n\r\n      <h2>Food</h2>\r\n      <p>This is where Morocco is genuinely cheap. Street food and simple local restaurants let you eat well for €5-10 a day — a tagine, bread, and mint tea rarely tops €5-6 total at a no-frills spot. Add a sit-down dinner with a view or a nicer restaurant once or twice on the trip and you're still averaging €8-15 a day. Bottled water and snacks add another €2-3 daily.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Budget an extra €15-20 total for one \"splurge\" meal — a rooftop restaurant with a Jemaa el-Fnaa view or a proper seafood dinner in Essaouira is worth breaking the budget for once.</p>\r\n      </div>\r\n\r\n      <h2>Transport</h2>\r\n      <p>Intercity trains (Marrakech-Fes-Casablanca-Rabat-Tangier) are comfortable and cost €8-20 depending on distance and class. CTM buses reach towns trains don't, for similar prices. This is also the category where joining a shared group tour actually beats independent travel on cost — a multi-day group tour bundles transport, a driver, and a guide for a fixed price that usually works out cheaper per day than arranging private transfers and drivers yourself, especially for routes like the Sahara loop through Ouarzazate and Merzouga where public transport options are limited and slow.</p>\r\n      <p>Budget roughly €10-15 a day for transport if moving between cities every few days, or a fixed tour price of around €150-250 for a multi-day desert tour that includes transport, accommodation, and most meals.</p>\r\n\r\n      <h2>Tours and Activities</h2>\r\n      <p>Entrance fees to sites like Bahia Palace or the Saadian Tombs run 50-80 MAD (roughly €5-7) each. A shared half-day city walking tour typically costs €15-25 per person. Multi-day group tours, like a 4-day Sahara desert trip, bundle far more value — transport, guide, most meals, and camel trekking — for a price that's usually a fraction of arranging the same itinerary privately, since the cost of the driver, guide, and vehicle splits across the whole group instead of falling on one traveler or couple.</p>\r\n\r\n      <h2>Souvenirs and Extras</h2>\r\n      <p>This varies wildly by self-control at the souks, but budget €20-40 for spices, a small rug or leather item, or a lantern if you plan to buy anything. Hammam visits (a real Moroccan tradition worth doing at least once) run €8-15 for a basic scrub-and-steam session.</p>\r\n\r\n      <h2>Sample 7-10 Day Total</h2>\r\n      <p>Putting it together, a budget-conscious 7-10 day trip mixing hostels/riads, local food, a couple of intercity trains, and one multi-day group tour typically lands around €350-550 per person total, excluding international flights. Travel with a partner or in a small group and shared costs (rooms, tours, taxis) bring that down further — which is really the core logic behind shared travel in Morocco: almost every cost category gets cheaper the moment it's split.</p>",
+  "cta": {
+    "h2": "Get More Trip for Your Budget",
+    "p": "Browse our shared group tours and see fixed, all-in pricing before you book.",
+    "href": "tours.html",
+    "label": "Browse Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "How to Backpack Morocco on a Budget",
+      "meta": [],
+      "blurb": "Practical strategies for stretching every dirham across the country.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-budget-backpacking-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-medina-alley.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Shared vs Private Tours in Morocco: Which Saves More",
+      "meta": [],
+      "blurb": "A real look at the cost and experience differences.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-shared-vs-private-tours.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "A Guide to Riads: Budget-Friendly Accommodation in Morocco",
+      "meta": [],
+      "blurb": "What riads are, what they cost, and how to book a good one.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-riads-budget-accommodation.html",
+      "cta": "Read Article",
+      "image": "images/blog-riad-courtyard.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

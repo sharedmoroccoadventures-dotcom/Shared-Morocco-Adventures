@@ -1,0 +1,65 @@
+{
+  "file": "blog-morocco-visa-requirements.html",
+  "slug": "blog-morocco-visa-requirements",
+  "meta": {
+    "title": "Morocco Visa Requirements: Do You Need One? | Shared Morocco Adventures",
+    "description": "Morocco visa requirements explained — which nationalities travel visa-free, passport validity rules, entry stamps, and how to extend a stay.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-morocco-visa-requirements.html",
+    "ogTitle": "Morocco Visa Requirements: Do You Need One?",
+    "ogDescription": "Which nationalities can enter Morocco visa-free, passport rules, and how to extend a stay once you're there.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-morocco-visa-passport.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Planning",
+    "h1": "Morocco Visa Requirements: Do You Need One?",
+    "lead": "Good news for most visitors — Morocco is one of the easier North African countries to enter without pre-arranged paperwork.",
+    "image": "images/blog-morocco-visa-passport.jpg"
+  },
+  "body": "<p>Morocco has one of the more relaxed entry policies in the region: citizens of over 60 countries, including the EU, UK, US, Canada, Australia, and most of Latin America, can enter visa-free for tourism and stay up to 90 days. If you're unsure whether your passport qualifies, check the current list on Morocco's Ministry of Foreign Affairs website before booking, since exemption lists do occasionally change.</p>\r\n\r\n      <h2>What You Actually Need at the Border</h2>\r\n      <p>Assuming you're visa-exempt, entry is straightforward: a passport valid for at least six months beyond your arrival date, a return or onward ticket (rarely checked but good to have on hand), and sometimes proof of accommodation for your first few nights. You'll fill out a short arrival card on the plane or at immigration and get a passport stamp — there's no separate visa sticker or fee to arrange in advance.</p>\r\n\r\n      <h2>If You're Not Visa-Exempt</h2>\r\n      <p>Travelers from countries not on the exemption list need to apply for a visa in advance through a Moroccan consulate or embassy in their home country. This typically requires a completed application form, passport photos, proof of accommodation and return travel, and processing can take one to two weeks, so it's not something to leave until the week before departure.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Photograph or photocopy the photo page of your passport and your entry stamp once you arrive — useful if you ever need to prove your entry date for a visa extension or a lost-passport report.</p>\r\n      </div>\r\n\r\n      <h2>Extending Your Stay</h2>\r\n      <p>Want to stay longer than 90 days? Officially, extensions are handled through a local police station (bureau des étrangers) or immigration office, though the process can be slow and inconsistent depending on the city. Many long-stay travelers instead do a short \"visa run\" to Spain, the Canary Islands, or another neighboring country and re-enter for a fresh 90 days — check current rules before relying on this, as enforcement varies.</p>\r\n\r\n      <h2>Customs Basics</h2>\r\n      <p>Standard duty-free allowances apply for personal items, alcohol (non-Muslim residents/tourists), and gifts. Large amounts of undeclared cash, drones (which require pre-approval to fly), and any medication that could be mistaken for a controlled substance are the main things worth double-checking before you fly, since Moroccan customs treats these more strictly than many travelers expect.</p>\r\n\r\n      <h2>Traveling as Part of a Group</h2>\r\n      <p>If you're joining one of our fixed-departure tours, you handle your own visa/entry as normal — we don't process paperwork on your behalf — but our team is happy to answer questions about the pickup city and any documentation your specific route might involve once you've booked.</p>",
+  "cta": {
+    "h2": "Ready to Plan the Rest of Your Trip?",
+    "p": "Once your entry is sorted, browse our fixed-date group tours and budget day trips across Morocco.",
+    "href": "tours.html",
+    "label": "Browse Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "First-Timer's Guide to Traveling Morocco on a Budget",
+      "meta": [],
+      "blurb": "Visas, money, safety, and how shared tours simplify the logistics.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-first-timers-guide-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-imperial-gate.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Money in Morocco: Dirhams, ATMs, Cards &amp; Tipping",
+      "meta": [],
+      "blurb": "What to know about currency and cash before you land.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-money-in-morocco-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-moroccan-dirham-currency.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Marrakech Menara Airport: Arrival Guide",
+      "meta": [],
+      "blurb": "What to expect from immigration to your first taxi ride.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-marrakech-airport-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-marrakech-airport.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

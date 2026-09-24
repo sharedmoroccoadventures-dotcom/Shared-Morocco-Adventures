@@ -1,0 +1,31 @@
+{
+  "file": "contact.html",
+  "meta": {
+    "title": "Contact Us | Shared Morocco Adventures",
+    "description": "Get in touch to reserve a seat on a group tour, ask about departure dates, or request a custom route.",
+    "canonical": "https://www.sharedmoroccoadventures.com/contact.html",
+    "ogTitle": "Contact Us",
+    "ogDescription": "Get in touch to reserve a seat on a group tour, ask about departure dates, or request a custom route.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-riad-courtyard.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Contact",
+    "h1": "Reserve your seat or ask a question",
+    "lead": "We reply within 24 hours.",
+    "image": "images/blog-riad-courtyard.jpg"
+  },
+  "sections": [
+    {
+      "kind": "other",
+      "id": "",
+      "eyebrow": "Other Ways to Reach Us",
+      "h2": "Send us a message",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "trips": [
+    {
+      "value": "3-Day Atlas Mountains and Agafay Group Escape",
+      "label": "3-Day Atlas Mountains and Agafay Group Escape"
+    },
+    {
+      "value": "4-Day Sahara Desert Group Tour",
+      "label": "4-Day Sahara Desert Group Tour"
+    },
+    {
+      "value": "4-Day Fes Chefchaouen and Volubilis Tour",
+      "label": "4-Day Fes, Chefchaouen and Volubilis Tour"
+    },
+    {
+      "value": "5-Day Shared Marrakech Adventure Tour",
+      "label": "5-Day Shared Marrakech Adventure Tour"
+    },
+    {
+      "value": "5-Day Marrakech Atlas and Sahara Adventure",
+      "label": "5-Day Marrakech, Atlas and Sahara Adventure"
+    },
+    {
+      "value": "6-Day Marrakech, Sahara Desert and Fes Tour",
+      "label": "6-Day Marrakech, Sahara Desert and Fes Tour"
+    },
+    {
+      "value": "7-Day Morocco Highlights Group Tour",
+      "label": "7-Day Morocco Highlights Group Tour"
+    },
+    {
+      "value": "8-Day Marrakech Adventure and Sahara Desert Tour",
+      "label": "8-Day Marrakech Adventure and Sahara Desert Tour"
+    },
+    {
+      "value": "8-Day Morocco Desert and Atlantic Coast Tour",
+      "label": "8-Day Morocco Desert and Atlantic Coast Tour"
+    },
+    {
+      "value": "8-Day Marrakech, Sahara, Fes and Chefchaouen Tour",
+      "label": "8-Day Marrakech, Sahara, Fes and Chefchaouen Tour"
+    },
+    {
+      "value": "10-Day Morocco Grand Circuit Group Tour",
+      "label": "10-Day Morocco Grand Circuit Group Tour"
+    },
+    {
+      "value": "Marrakech Day Trip",
+      "label": "Marrakech Day Trip"
+    },
+    {
+      "value": "Fes Day Trip",
+      "label": "Fes Day Trip"
+    },
+    {
+      "value": "Airport Transfer",
+      "label": "Airport Transfer"
+    },
+    {
+      "value": "Not sure yet",
+      "label": "Not sure yet"
+    }
+  ]
+}

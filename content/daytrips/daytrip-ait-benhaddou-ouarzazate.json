@@ -1,0 +1,93 @@
+{
+  "file": "daytrip-ait-benhaddou-ouarzazate.html",
+  "slug": "daytrip-ait-benhaddou-ouarzazate",
+  "meta": {
+    "title": "Ait Benhaddou & Ouarzazate Day Trip | Shared Morocco Adventures",
+    "description": "A full-day shared trip from Marrakech across the Tizi n'Tichka pass to the UNESCO kasbah of Ait Benhaddou and Ouarzazate's film studios. From €39pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/daytrip-ait-benhaddou-ouarzazate.html",
+    "ogTitle": "Ait Benhaddou & Ouarzazate Day Trip",
+    "ogDescription": "A shared day trip from Marrakech to the UNESCO-listed Ait Benhaddou kasbah and Ouarzazate. From €39pp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-ait-benhaddou.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ait Benhaddou and Ouarzazate Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech across the Tizi n'Tichka pass to the UNESCO-listed Ait Benhaddou kasbah and the film-studio town of Ouarzazate.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"39\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Day Trip · From Marrakech",
+    "h1": "Ait Benhaddou &amp; Ouarzazate Day Trip",
+    "lead": "Marrakech → Tizi n'Tichka Pass → Ait Benhaddou Kasbah → Ouarzazate → Marrakech",
+    "image": "images/daytrip-ait-benhaddou.jpg"
+  },
+  "back": {
+    "href": "day-trips-marrakech.html",
+    "label": "All Day Trips from Marrakech"
+  },
+  "overview": {
+    "eyebrow": "About This Trip",
+    "h2": "Morocco's most cinematic kasbah",
+    "paras": [
+      "Our longest day trip and one of Morocco's most iconic routes: cross the dramatic Tizi n'Tichka pass through the High Atlas to reach Ait Benhaddou, a UNESCO-listed fortified kasbah used as a filming location for Gladiator and Game of Thrones.",
+      "The route continues to nearby Ouarzazate, Morocco's \"Hollywood of Africa,\" with an optional stop at the Atlas Film Studios. This route also doubles as day one of our <a href=\"tour-4-day-sahara-desert-group-tour.html\">4-Day Sahara Desert Group Tour</a> if you'd rather continue on to the dunes."
+    ],
+    "chips": [
+      "📍 From Marrakech",
+      "🚗 ≈420 km round trip · about 7 hrs driving",
+      "🗓 Departs daily"
+    ],
+    "image": "images/daytrip-ait-benhaddou.jpg"
+  },
+  "highlights": {
+    "eyebrow": "Highlights",
+    "h2": "What you'll see",
+    "chips": [
+      "Tizi n'Tichka Pass",
+      "Ait Benhaddou Kasbah",
+      "Atlas Film Studios"
+    ]
+  },
+  "includes": [
+    "Shared minivan",
+    "Driver-guide",
+    "Guided kasbah walk",
+    "Hotel/riad pickup"
+  ],
+  "excludes": [
+    "Lunch",
+    "Film studios entrance ticket",
+    "Travel insurance"
+  ],
+  "price": {
+    "from": "From",
+    "amount": "€39",
+    "sub": "per person · departs daily",
+    "ctaHref": "contact.html?trip=Ait%20Benhaddou%20and%20Ouarzazate%20Day%20Trip",
+    "ctaText": "Reserve This Day Trip"
+  },
+  "good": {
+    "eyebrow": "Good to Know",
+    "h2": "Our longest — and most rewarding — day trip",
+    "paras": [
+      "At around 7 hours of driving round trip, this is a full day. If you'd rather not double back the same day, ask about continuing onward to the Sahara on our 4-Day Sahara Desert Group Tour instead.",
+      "<strong>Booking terms:</strong> Send an enquiry first; we confirm the departure time, final price, and pickup details by email. No payment is taken through this website."
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQs",
+    "h2": "Ait Benhaddou Questions",
+    "items": [
+      {
+        "q": "Is this too long to do in a day?",
+        "a": "<p>It's our longest day trip, but the drive itself is scenic (the Tizi n'Tichka pass is one of Morocco's most dramatic roads), which makes the time pass quickly.</p>"
+      },
+      {
+        "q": "Can I skip returning to Marrakech and continue to the Sahara?",
+        "a": "<p>Yes — this route is day one of our <a href=\"tour-4-day-sahara-desert-group-tour.html\">4-Day Sahara Desert Group Tour</a>, so ask us if you'd like to switch instead of booking the day trip.</p>"
+      },
+      {
+        "q": "Is the Atlas Film Studios visit worth it?",
+        "a": "<p>It's optional and has a separate entrance fee, but fans of Gladiator, Game of Thrones or Lawrence of Arabia often enjoy seeing the sets and props.</p>"
+      }
+    ],
+    "extra": []
+  }
+}

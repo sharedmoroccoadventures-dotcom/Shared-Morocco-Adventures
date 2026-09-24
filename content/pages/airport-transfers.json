@@ -1,0 +1,172 @@
+{
+  "file": "airport-transfers.html",
+  "meta": {
+    "title": "Budget Airport Transfers Marrakech & Fes | Shared & Private",
+    "description": "Affordable shared and private airport transfers in Marrakech (RAK) and Fes (FEZ) — fixed prices, meet & greet, no metered surprises. Shared from €8pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/airport-transfers.html",
+    "ogTitle": "Budget Airport Transfers Marrakech & Fes | Shared & Private",
+    "ogDescription": "Budget shared and private airport transfers in Marrakech and Fes — fixed prices, meet & greet, flight-tracked pickup.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-imperial-gate.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"Service\",\r\n  \"serviceType\": \"Airport Transfer\",\r\n  \"name\": \"Shared Morocco Adventures Airport Transfers\",\r\n  \"areaServed\": [\"Marrakech Menara Airport\", \"Fès–Saïs Airport\"],\r\n  \"offers\": [\r\n    { \"@type\": \"Offer\", \"name\": \"Marrakech Shared Airport Shuttle\", \"priceCurrency\": \"EUR\", \"price\": \"8\" },\r\n    { \"@type\": \"Offer\", \"name\": \"Marrakech Private Airport Transfer\", \"priceCurrency\": \"EUR\", \"price\": \"25\" },\r\n    { \"@type\": \"Offer\", \"name\": \"Fes Shared Airport Shuttle\", \"priceCurrency\": \"EUR\", \"price\": \"7\" },\r\n    { \"@type\": \"Offer\", \"name\": \"Fes Private Airport Transfer\", \"priceCurrency\": \"EUR\", \"price\": \"20\" }\r\n  ]\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Airport Transfers",
+    "h1": "Budget airport transfers in Marrakech &amp; Fes",
+    "lead": "Skip the taxi-rank haggling. Fixed prices, a driver waiting with your name at arrivals, and both a budget shared shuttle and a private door-to-door option at both Marrakech Menara (RAK) and Fès–Saïs (FEZ) airports.",
+    "image": "images/blog-imperial-gate.jpg"
+  },
+  "sections": [
+    {
+      "kind": "cards",
+      "id": "",
+      "eyebrow": "Marrakech Menara Airport (RAK)",
+      "h2": "Marrakech airport transfer",
+      "lead": "Marrakech Menara is just 15–20 minutes from the medina — but airport taxi ranks are notorious for inflated, unmetered fares. Book ahead instead and pay a fixed price with a driver already tracking your flight.",
+      "cards": [
+        {
+          "badge": "Budget Pick",
+          "title": "Shared Airport Shuttle",
+          "meta": [
+            "👥 Shared minivan",
+            "🕐 ~20 min"
+          ],
+          "blurb": "A budget shared shuttle with other arriving travelers, direct to your riad or hotel in the medina or Gueliz.",
+          "price": "From €8",
+          "priceSub": "per person",
+          "href": "contact.html",
+          "cta": "Book Shared Shuttle",
+          "image": "",
+          "tone": ""
+        },
+        {
+          "badge": "Door to Door",
+          "title": "Private Airport Transfer",
+          "meta": [
+            "🚗 Private vehicle",
+            "🕐 ~20 min"
+          ],
+          "blurb": "Your own vehicle direct to your accommodation, any time of day or night, no waiting for other passengers.",
+          "price": "From €25",
+          "priceSub": "per vehicle, up to 3 people",
+          "href": "contact.html",
+          "cta": "Book Private Transfer",
+          "image": "",
+          "tone": "teal"
+        }
+      ],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "cards",
+      "id": "",
+      "eyebrow": "Fès–Saïs Airport (FEZ)",
+      "h2": "Fes airport transfer",
+      "lead": "Fès–Saïs airport sits about 15km from the Fes medina. Both our shared and private transfer options include flight tracking, so a delayed landing won't leave you stranded.",
+      "cards": [
+        {
+          "badge": "Budget Pick",
+          "title": "Shared Airport Shuttle",
+          "meta": [
+            "👥 Shared minivan",
+            "🕐 ~25 min"
+          ],
+          "blurb": "A budget shared shuttle direct to your riad or hotel near the Fes medina, split with other arriving travelers.",
+          "price": "From €7",
+          "priceSub": "per person",
+          "href": "contact.html",
+          "cta": "Book Shared Shuttle",
+          "image": "",
+          "tone": "dune"
+        },
+        {
+          "badge": "Door to Door",
+          "title": "Private Airport Transfer",
+          "meta": [
+            "🚗 Private vehicle",
+            "🕐 ~25 min"
+          ],
+          "blurb": "Your own vehicle direct to your accommodation, any time of day or night, no waiting for other passengers.",
+          "price": "From €20",
+          "priceSub": "per vehicle, up to 3 people",
+          "href": "contact.html",
+          "cta": "Book Private Transfer",
+          "image": "",
+          "tone": "blue"
+        }
+      ],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "other",
+      "id": "",
+      "eyebrow": "How It Works",
+      "h2": "Booking a transfer is simple",
+      "lead": "",
+      "cards": [],
+      "steps": [
+        {
+          "title": "Send your flight details",
+          "text": "Share your flight number, arrival date, and time through the contact form."
+        },
+        {
+          "title": "We track your flight",
+          "text": "Your driver monitors the flight in real time, so early or delayed arrivals are covered."
+        },
+        {
+          "title": "Meet at arrivals",
+          "text": "Your driver waits in the arrivals hall with a name sign — no need to find your own taxi."
+        },
+        {
+          "title": "Direct to your door",
+          "text": "Straight to your riad or hotel at a fixed price, agreed before you land."
+        }
+      ],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "faq",
+      "id": "",
+      "eyebrow": "FAQs",
+      "h2": "Airport Transfer Questions",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [
+        {
+          "q": "Is the price really fixed?",
+          "a": "<p>Yes — you agree the price when you book, with no meter and no surprise add-ons on arrival, unlike most airport taxi ranks.</p>"
+        },
+        {
+          "q": "What if my flight is delayed?",
+          "a": "<p>Both shared and private transfers track your flight, so your driver adjusts pickup time automatically at no extra cost.</p>"
+        },
+        {
+          "q": "How much luggage can I bring?",
+          "a": "<p>One large suitcase and one carry-on per person is included. Traveling with extra or oversized luggage? Let us know when booking so we can arrange the right vehicle.</p>"
+        },
+        {
+          "q": "Can I book a transfer without booking a tour?",
+          "a": "<p>Absolutely — airport transfers are available as a standalone booking, no tour required.</p>"
+        },
+        {
+          "q": "Do you also offer departure transfers?",
+          "a": "<p>Yes, both arrival and departure transfers are available at the same fixed prices for Marrakech and Fes.</p>"
+        }
+      ],
+      "chips": []
+    }
+  ],
+  "cta": {
+    "h2": "Landing soon?",
+    "p": "Send us your flight details and we'll have a driver waiting.",
+    "href": "contact.html",
+    "label": "Book Your Transfer"
+  }
+}

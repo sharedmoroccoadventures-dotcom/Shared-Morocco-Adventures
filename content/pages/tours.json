@@ -1,0 +1,220 @@
+{
+  "file": "tours.html",
+  "meta": {
+    "title": "11 Best Morocco Group Tours & Small-Group Trips | 2026",
+    "description": "Compare 11 original Morocco group tours for 2026: Sahara desert tours, Marrakech to Fes, Chefchaouen and the Atlantic coast. Small groups from €135.",
+    "canonical": "https://www.sharedmoroccoadventures.com/tours.html",
+    "ogTitle": "11 Best Morocco Group Tours & Small-Group Trips | 2026",
+    "ogDescription": "Compare 11 original Morocco group tours for 2026: Sahara desert tours, Marrakech to Fes, Chefchaouen and the Atlantic coast. Small groups from €135.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/marrakech-jemaa-el-fnaa.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\":\"https://schema.org\",\r\n  \"@type\":\"ItemList\",\r\n  \"name\":\"Morocco small-group tours\",\r\n  \"description\":\"Original fixed-date shared tours across Morocco for solo travelers, couples and friends.\",\r\n  \"itemListElement\":[\r\n    {\"@type\":\"ListItem\",\"position\":1,\"name\":\"4-Day Sahara Desert Group Tour from Marrakech\",\"url\":\"tour-4-day-sahara-desert-group-tour.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":2,\"name\":\"7-Day Morocco Highlights Group Tour\",\"url\":\"tour-7-day-morocco-highlights-group-tour.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":3,\"name\":\"5-Day Marrakech, Atlas and Sahara Adventure\",\"url\":\"tour-5-day-marrakech-atlas-sahara-adventure.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":4,\"name\":\"6-Day Marrakech, Sahara Desert and Fes Tour\",\"url\":\"tour-6-day-imperial-cities-chefchaouen-tour.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":5,\"name\":\"8-Day Morocco Desert and Atlantic Coast Tour\",\"url\":\"tour-8-day-morocco-desert-atlantic-coast-tour.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":6,\"name\":\"3-Day Atlas Mountains and Agafay Group Escape\",\"url\":\"tour-3-day-atlas-mountains-agafay-group-escape.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":7,\"name\":\"10-Day Morocco Grand Circuit Group Tour\",\"url\":\"tour-10-day-morocco-grand-circuit-tour.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":8,\"name\":\"4-Day Fes, Chefchaouen and Volubilis Tour\",\"url\":\"tour-4-day-fes-chefchaouen-volubilis-tour.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":9,\"name\":\"5-Day Shared Marrakech Adventure Tour: Ourika Valley, Agafay Desert and Ouzoud Waterfalls\",\"url\":\"tour-5-day-marrakech-adventure-ourika-agafay-ouzoud.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":10,\"name\":\"8-Day Marrakech Adventure and Sahara Desert Tour\",\"url\":\"tour-8-day-marrakech-adventure-sahara-desert.html\"},\r\n    {\"@type\":\"ListItem\",\"position\":11,\"name\":\"8-Day Marrakech, Sahara, Fes and Chefchaouen Tour\",\"url\":\"tour-8-day-marrakech-sahara-fes-chefchaouen-tour.html\"}\r\n  ]\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Group Tours",
+    "h1": "Fixed-date departures across Morocco",
+    "lead": "Every trip below runs on a set weekly schedule with a small group — reserve your seat and we'll handle the rest.",
+    "image": "images/marrakech-jemaa-el-fnaa.jpg"
+  },
+  "sections": [
+    {
+      "kind": "cards",
+      "id": "",
+      "eyebrow": "Compare your route",
+      "h2": "Small-group Morocco tours for every kind of traveler",
+      "lead": "Choose a ready-to-book fixed departure or tell us which original route you would like to see next. Every itinerary is designed around shared transport, local guides and time to explore independently.",
+      "cards": [
+        {
+          "badge": "Best Seller",
+          "title": "4-Day Sahara Desert Group Tour",
+          "meta": [
+            "📍 Marrakech → Merzouga",
+            "🗓 4 Days"
+          ],
+          "blurb": "Ait Benhaddou, the Dades Gorges, a camel trek into the dunes, and a night under the stars at a shared desert camp.",
+          "price": "From €249",
+          "priceSub": "per person",
+          "href": "tour-4-day-sahara-desert-group-tour.html",
+          "cta": "View Trip",
+          "image": "images/hero-sahara-dunes.jpg",
+          "tone": "dune"
+        },
+        {
+          "badge": "New route",
+          "title": "5-Day Marrakech, Atlas &amp; Sahara Adventure",
+          "meta": [
+            "📍 Marrakech → Merzouga",
+            "🗓 5 Days"
+          ],
+          "blurb": "Pair Marrakech's medina with Berber valleys, Ait Benhaddou, Todra Gorge and a slower Sahara camp experience.",
+          "price": "From €329",
+          "priceSub": "per person",
+          "href": "tour-5-day-marrakech-atlas-sahara-adventure.html",
+          "cta": "View Trip",
+          "image": "images/daytrip-ourika-valley.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "One-way route",
+          "title": "6-Day Marrakech, Sahara &amp; Fes Tour",
+          "meta": [
+            "📍 Marrakech → Fes",
+            "🗓 6 Days"
+          ],
+          "blurb": "Ait Benhaddou, the Dades Gorges and a Merzouga desert camp, then two nights and guided sightseeing in Fes.",
+          "price": "From €412",
+          "priceSub": "per person",
+          "href": "tour-6-day-imperial-cities-chefchaouen-tour.html",
+          "cta": "View Trip",
+          "image": "images/fes-medina-tannery.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Coast & desert",
+          "title": "8-Day Morocco Desert &amp; Atlantic Coast",
+          "meta": [
+            "📍 Marrakech → Essaouira",
+            "🗓 8 Days"
+          ],
+          "blurb": "Combine the Sahara, Marrakech and the laid-back Atlantic port of Essaouira in one balanced small-group journey.",
+          "price": "From €579",
+          "priceSub": "per person",
+          "href": "tour-8-day-morocco-desert-atlantic-coast-tour.html",
+          "cta": "View Trip",
+          "image": "images/daytrip-essaouira.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Short escape",
+          "title": "3-Day Atlas Mountains &amp; Agafay Escape",
+          "meta": [
+            "📍 Marrakech",
+            "🗓 3 Days"
+          ],
+          "blurb": "Get beyond the city with mountain villages, a guided valley walk and a sunset dinner in the Agafay stone desert.",
+          "price": "From €219",
+          "priceSub": "per person",
+          "href": "tour-3-day-atlas-mountains-agafay-group-escape.html",
+          "cta": "View Trip",
+          "image": "images/daytrip-agafay-desert.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Grand route",
+          "title": "10-Day Morocco Grand Circuit",
+          "meta": [
+            "📍 Casablanca → Marrakech",
+            "🗓 10 Days"
+          ],
+          "blurb": "See Morocco's essential cities, mountain passes, desert dunes and coast without rushing every stop.",
+          "price": "From €749",
+          "priceSub": "per person",
+          "href": "tour-10-day-morocco-grand-circuit-tour.html",
+          "cta": "View Trip",
+          "image": "images/blog-morocco-countryside.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Northern Morocco",
+          "title": "4-Day Fes, Chefchaouen &amp; Volubilis",
+          "meta": [
+            "📍 Fes round trip",
+            "🗓 4 Days"
+          ],
+          "blurb": "Slow travel through the Fes medina, Roman Volubilis and the blue mountain town of Chefchaouen.",
+          "price": "From €289",
+          "priceSub": "per person",
+          "href": "tour-4-day-fes-chefchaouen-volubilis-tour.html",
+          "cta": "View Trip",
+          "image": "images/tour-chefchaouen.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Best Value",
+          "title": "5-Day Shared Marrakech Adventure Tour",
+          "meta": [
+            "📍 Based in Marrakech",
+            "🗓 5 Days"
+          ],
+          "blurb": "Ourika Valley, the Agafay Desert (camel ride &amp; ATV), and Ouzoud Waterfalls — daily excursions from one hostel, no repacking.",
+          "price": "From €135",
+          "priceSub": "per person",
+          "href": "tour-5-day-marrakech-adventure-ourika-agafay-ouzoud.html",
+          "cta": "View Trip",
+          "image": "images/daytrip-agafay-desert.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "2-in-1 Route",
+          "title": "8-Day Marrakech Adventure &amp; Sahara Desert Tour",
+          "meta": [
+            "📍 Round-trip from Marrakech",
+            "🗓 8 Days"
+          ],
+          "blurb": "Ourika, Agafay and Ouzoud excursions plus a 3-day Sahara loop via Dades Gorges and Merzouga — bundled at a lower price than booking both separately.",
+          "price": "From €359",
+          "priceSub": "per person",
+          "href": "tour-8-day-marrakech-adventure-sahara-desert.html",
+          "cta": "View Trip",
+          "image": "images/hero-sahara-dunes.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Fan Favorite",
+          "title": "7-Day Morocco Highlights Group Tour",
+          "meta": [
+            "📍 Casablanca → Fes",
+            "🗓 7 Days"
+          ],
+          "blurb": "Marrakech, the High Atlas, Sahara dunes, Fes medina, and the blue lanes of Chefchaouen — Morocco's greatest hits in one loop.",
+          "price": "From €499",
+          "priceSub": "per person",
+          "href": "tour-7-day-morocco-highlights-group-tour.html",
+          "cta": "View Trip",
+          "image": "images/tour-chefchaouen.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Luxury camp",
+          "title": "8-Day Marrakech, Sahara, Fes &amp; Chefchaouen Tour",
+          "meta": [
+            "📍 Marrakech → Fes",
+            "🗓 8 Days"
+          ],
+          "blurb": "The Sahara-to-Fes route with a luxury Merzouga desert camp, plus round-trip day excursions to Chefchaouen and the Middle Atlas/Ifrane from Fes.",
+          "price": "From €830",
+          "priceSub": "per person",
+          "href": "tour-8-day-marrakech-sahara-fes-chefchaouen-tour.html",
+          "cta": "View Trip",
+          "image": "images/tour-chefchaouen.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Coming Soon",
+          "title": "More routes joining the calendar",
+          "meta": [
+            "📍 Multiple cities",
+            "🗓 Various"
+          ],
+          "blurb": "New shared departures from Fes, Agadir, and Tangier are on the way. Get in touch and we'll let you know when they open.",
+          "price": "Notify me",
+          "priceSub": "",
+          "href": "contact.html",
+          "cta": "Get in Touch",
+          "image": "",
+          "tone": "teal"
+        }
+      ],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    }
+  ],
+  "cta": {
+    "h2": "Can't find a route that fits your dates?",
+    "p": "Tell us where and when you'd like to travel — we're adding new fixed departures every season.",
+    "href": "contact.html",
+    "label": "Contact Us"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "file": "blog-morocco-sim-card-internet.html",
+  "slug": "blog-morocco-sim-card-internet",
+  "meta": {
+    "title": "Morocco SIM Cards & Internet Guide | Shared Morocco Adventures",
+    "description": "How to get mobile data in Morocco — local SIM cards, eSIMs, carriers, prices, and where WiFi is reliable, from the airport to the Sahara.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-morocco-sim-card-internet.html",
+    "ogTitle": "Staying Connected: SIM Cards & Internet in Morocco",
+    "ogDescription": "Local SIM cards, eSIMs, and WiFi in Morocco — what actually works.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-morocco-connectivity-sim.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Planning",
+    "h1": "Staying Connected: SIM Cards &amp; Internet in Morocco",
+    "lead": "Cheap, fast, and easy to set up — mobile data in Morocco is one of the least stressful parts of the trip.",
+    "image": "images/blog-morocco-connectivity-sim.jpg"
+  },
+  "body": "<p>Morocco has genuinely good mobile network coverage, even in many rural and mountain areas, and getting online is cheap by European or North American standards. There's no real reason to rely on expensive international roaming for a trip here.</p>\r\n\r\n      <h2>The Main Carriers</h2>\r\n      <p>Three networks cover almost everywhere: Maroc Telecom (IAM), Orange, and inwi. All three sell inexpensive prepaid tourist SIM packages with a healthy chunk of data, usually valid for a week or a month. Coverage is broadly similar in cities; Maroc Telecom has a reputation for the widest rural and mountain reach, useful if your route includes remote day trips.</p>\r\n\r\n      <h2>Buying a Local SIM</h2>\r\n      <p>Kiosks for all three carriers are at the arrivals hall of major airports (Marrakech Menara, Casablanca, Fes), and also common in city centers. You'll need your passport to register the SIM — this is a legal requirement, not optional, and vendors will ask for it. Airport kiosks are slightly pricier than in-town shops but save you the hassle of finding one on your first day; either is a perfectly reasonable choice.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Ask the vendor to activate and test the SIM before you leave the counter — it takes them thirty seconds and saves you troubleshooting later with a phone that isn't your first language's settings.</p>\r\n      </div>\r\n\r\n      <h2>eSIM Options</h2>\r\n      <p>If your phone supports eSIM, several international eSIM providers now offer Morocco-specific data plans you can buy and activate before you even land, avoiding the physical SIM swap entirely. These tend to cost a bit more than a local physical SIM but are worth it if you land late, don't want to deal with a kiosk, or need connectivity the moment you touch down for a pre-booked transfer.</p>\r\n\r\n      <h2>WiFi Availability</h2>\r\n      <p>Most riads, hotels, and cafés in cities offer free WiFi, generally reliable enough for messaging and light browsing, less so for video calls in older riad buildings with thick walls. Once you're on a multi-day tour into the mountains or the Sahara, WiFi becomes rare to nonexistent — mobile data (where signal exists) is your main connection, and desert camps typically have none at all. Treat a night in the Sahara as a deliberate digital detox rather than a connectivity problem to solve.</p>\r\n\r\n      <h2>Using Data for Navigation</h2>\r\n      <p>Offline maps (downloaded in Google Maps or Maps.me before you travel) are worth setting up regardless of your data plan — medina alleys confuse GPS accuracy at the best of times, and having an offline map as backup means one less thing to worry about if you lose signal in an old town's narrow lanes.</p>",
+  "cta": {
+    "h2": "Landing Soon? Sort Your Transfer First",
+    "p": "Book a fixed-price airport transfer so getting online is the least of your worries on arrival.",
+    "href": "airport-transfers.html",
+    "label": "See Airport Transfers"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Marrakech Menara Airport: Arrival Guide",
+      "meta": [],
+      "blurb": "What to expect from immigration to your first taxi ride.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-marrakech-airport-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-marrakech-airport.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "First-Timer's Guide to Traveling Morocco on a Budget",
+      "meta": [],
+      "blurb": "Visas, money, safety, and how shared tours simplify the logistics.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-first-timers-guide-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-imperial-gate.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Morocco Visa Requirements: Do You Need One?",
+      "meta": [],
+      "blurb": "What to sort out before or at the border.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-visa-requirements.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-visa-passport.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

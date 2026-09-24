@@ -1,0 +1,65 @@
+{
+  "file": "blog-camel-trekking-merzouga.html",
+  "slug": "blog-camel-trekking-merzouga",
+  "meta": {
+    "title": "Camel Trekking in Merzouga: What to Expect | Shared Morocco Adventures",
+    "description": "What camel trekking into the Erg Chebbi dunes at Merzouga actually feels like — mounting up, the trek, sunset, and arriving at the desert camp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-camel-trekking-merzouga.html",
+    "ogTitle": "Camel Trekking in Merzouga: What to Expect",
+    "ogDescription": "What camel trekking into the Erg Chebbi dunes at Merzouga actually feels like — mounting up, the trek, sunset, and arriving at the desert camp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-camel-trek-closeup.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Sahara",
+    "h1": "Camel Trekking in Merzouga: What to Expect",
+    "lead": "From mounting up at the dune's edge to watching the sun drop over Erg Chebbi — here's the real experience, soreness and all.",
+    "image": "images/blog-camel-trek-closeup.jpg"
+  },
+  "body": "<p>If there's one image people picture when they think of a Morocco trip, it's this: a line of camels silhouetted against orange dunes at sunset. It's worth every bit of the hype, but it's also a physical experience most first-timers aren't quite prepared for. Here's what actually happens, step by step.</p>\r\n\r\n      <h2>Mounting Up</h2>\r\n      <p>Camel treks into Erg Chebbi, the tall dune sea near Merzouga, typically start in the late afternoon from a small staging point where handlers (often called \"camel drivers\") line up the animals in a train, tied nose to tail. Getting on is the part everyone's nervous about: the camel kneels, you swing a leg over a wooden saddle frame, and then it stands up in two jolting movements — back legs first, which pitches you forward, then front legs, which pitches you back. Hold the front handle, not the reins, and lean back on the first jolt.</p>\r\n      <p>Once you're up, the ride itself is a slow, rolling sway, more like a boat than a horse. It's not uncomfortable exactly, but hips and inner thighs will feel it after 45-60 minutes, especially if you're not used to riding.</p>\r\n\r\n      <h2>The Trek Into the Dunes</h2>\r\n      <p>The walk from the edge of Erg Chebbi to a camp deep in the dunes takes roughly 45 minutes to an hour, moving at a slow, steady walking pace. The landscape changes fast — within ten minutes the road and buildings disappear behind the first ridge of dunes, and it's just sand in every direction, sculpted into ripples by the wind. Wrap a scarf around your head and face during the trek; blowing sand is a real and constant thing here, not just for photos.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Wear leggings or loose trousers, not shorts — bare skin against the saddle for an hour leads to chafing, and sand gets everywhere regardless.</p>\r\n      </div>\r\n\r\n      <h2>Sunset Over the Dunes</h2>\r\n      <p>Timing is everything here, which is why group departures are scheduled the way they are: you leave in time to be dismounted and climbing a high dune on foot as the sun starts dropping, usually around 30-40 minutes before actual sunset. The last stretch is done on foot because loose sand on a steep dune face isn't safe for camels carrying riders. Climbing feels harder than it should — two steps up, one step sliding back — but the view from the top, dunes rolling out gold and pink in every direction, is the payoff for the whole day.</p>\r\n      <p>This is consistently the moment travelers on our tours mention first when they get back — not because it's rare exactly, but because experiencing it isn't something you do alone very often. Watching it with a small group, everyone equally stunned into silence, adds something a solo trip doesn't replicate.</p>\r\n\r\n      <h2>Arriving at Camp</h2>\r\n      <p>By the time you climb back down and remount (or walk, if the camp is close), it's dusk. Desert camps range from simple shared Berber tents to more comfortable setups with proper beds — budget group tours typically use the simpler, more traditional camps, which is honestly part of the appeal. Expect a communal dinner around a fire, often with camp staff playing drums afterward, and a genuinely dark sky overhead once the fire dies down — no light pollution for miles.</p>\r\n\r\n      <h2>What Your Body Will Feel Like</h2>\r\n      <p>Be honest with yourself about this part: most first-timers are sore in the hips, thighs, and lower back the next morning, and everyone finds sand in bags, shoes, and pockets for days afterward. It's a minor price for the experience. Bring wet wipes, a change of socks, and don't wear your best clothes — this is not a day for anything you're precious about.</p>",
+  "cta": {
+    "h2": "Ready to See Erg Chebbi Yourself?",
+    "p": "Our 4-day Sahara group tour includes the camel trek, sunset dunes, and an overnight desert camp.",
+    "href": "tour-4-day-sahara-desert-group-tour.html",
+    "label": "View the Sahara Tour"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "What to Pack for a Sahara Desert Group Tour",
+      "meta": [],
+      "blurb": "The exact packing list for dunes, camp nights, and everything between.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-packing-list.html",
+      "cta": "Read Article",
+      "image": "images/hero-sahara-dunes.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Sahara Desert Camp: Sleeping Under the Stars",
+      "meta": [],
+      "blurb": "What the camps are really like, from dinner to sunrise.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-camp-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-desert-camp-tents.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Shared vs Private Tours in Morocco: Which Saves More",
+      "meta": [],
+      "blurb": "A real look at the cost and experience differences.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-shared-vs-private-tours.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

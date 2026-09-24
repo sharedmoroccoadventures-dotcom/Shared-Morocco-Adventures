@@ -1,0 +1,65 @@
+{
+  "file": "blog-first-timers-guide-morocco.html",
+  "slug": "blog-first-timers-guide-morocco",
+  "meta": {
+    "title": "First-Timer's Budget Guide to Morocco | Shared Morocco Adventures",
+    "description": "A first-timer's guide to Morocco on a budget: visas, currency, safety, dress and culture basics, and why shared group tours make a first trip easier.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-first-timers-guide-morocco.html",
+    "ogTitle": "First-Timer's Guide to Traveling Morocco on a Budget",
+    "ogDescription": "A first-timer's guide to Morocco on a budget: visas, currency, safety, dress and culture basics, and why shared group tours make a first trip easier.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-imperial-gate.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Planning",
+    "h1": "First-Timer's Guide to Traveling Morocco on a Budget",
+    "lead": "Everything you need to know before your first trip to Morocco, from entry requirements to what to actually pack in your suitcase.",
+    "image": "images/blog-imperial-gate.jpg"
+  },
+  "body": "<p>Morocco is one of the most rewarding first-time destinations out there — close to Europe, affordable, and packed with variety, from imperial cities to desert dunes to Atlantic surf towns, all within a few hours of each other. It's also different enough from a typical European trip that a little preparation makes the first few days go a lot more smoothly. Here's what actually matters.</p>\r\n\r\n      <h2>Visa and Entry Basics</h2>\r\n      <p>Citizens of the EU, UK, US, Canada, and Australia (among many others) don't need a visa for stays up to 90 days — just a passport valid for at least six months beyond your entry date. Entry is straightforward at Casablanca, Marrakech, or Fes airports, and you'll fill out a simple arrival card on the plane or at immigration. Always double-check current requirements for your specific nationality before booking, since rules can change.</p>\r\n\r\n      <h2>Currency and the Cash-Heavy Economy</h2>\r\n      <p>The Moroccan dirham (MAD) is a closed currency, meaning you can't buy it before you arrive — exchange money at the airport, a bank, or an official bureau de change once you land, and withdraw more from ATMs as needed (widely available in cities, patchier in rural areas). Morocco runs largely on cash: souk vendors, small restaurants, taxis, and many guesthouses expect it, though larger hotels and some shops in bigger cities now take cards. Budget roughly €25-40 a day for food, local transport, and incidentals if you're traveling frugally, more if you're staying in nicer riads or eating at tourist restaurants regularly.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Withdraw a mix of large and small dirham notes when you can — souk vendors and taxi drivers often \"don't have change\" for large bills, which can turn into an awkward standoff over a small purchase.</p>\r\n      </div>\r\n\r\n      <h2>Safety: Perception vs Reality</h2>\r\n      <p>Morocco has a reputation among first-timers as riskier than it actually is. Violent crime against tourists is rare, and most visitors experience nothing worse than persistent touts or an overpriced taxi fare — annoying, not dangerous. Normal city-travel precautions apply: watch your bag in crowded souks, agree on taxi fares before getting in (or insist on the meter), and avoid walking alone through empty medina alleys late at night. Solo female travelers in particular tend to feel more comfortable joining a small group for the first trip, since it removes the low-level hassle of navigating unwanted attention alone.</p>\r\n\r\n      <h2>Culture and Dress Basics</h2>\r\n      <p>Morocco is a Muslim-majority country, and while cities like Marrakech and Casablanca are used to tourists in typical travel clothing, dressing modestly — covering shoulders and knees, avoiding very tight or sheer clothing — is respectful and helps you draw less unwanted attention, especially outside beach and resort areas. Loose linen trousers and a light long-sleeve top are both practical for the heat and appropriate everywhere, including mosques that permit non-Muslim visitors (few do — the Hassan II Mosque in Casablanca is a notable exception). Public displays of affection are best kept low-key, and it's polite to ask before photographing people directly.</p>\r\n\r\n      <h2>Why Shared Group Tours Simplify a First Visit</h2>\r\n      <p>On a first trip, the hardest part usually isn't the sights, it's the logistics — negotiating fair taxi prices, figuring out which desert tour operator is trustworthy, working out transport between cities, and knowing which souk stalls are fairly priced. A shared group tour bundles all of that into one fixed-price departure: transport, a knowledgeable local guide, vetted accommodation, and a small group of fellow travelers to share the experience with, all at a fraction of what arranging the same itinerary privately would cost. It's a genuinely practical way to see the country's highlights on a first trip without spending your energy on logistics instead of the experience itself.</p>",
+  "cta": {
+    "h2": "Ready to Plan Your First Morocco Trip?",
+    "p": "Browse our small-group tours built for first-timers who want it all handled without the private-tour price tag.",
+    "href": "tours.html",
+    "label": "See Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "How to Backpack Morocco on a Budget",
+      "meta": [],
+      "blurb": "Practical daily budgets and money-saving strategies for the whole trip.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-budget-backpacking-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-medina-alley.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Solo Female Travel in Morocco: A Group Tour Guide",
+      "meta": [],
+      "blurb": "How joining a group makes solo travel here easier and more fun.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-solo-female-travel-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-solo-female-traveler.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How Much Does a Trip to Morocco Cost? A Budget Breakdown",
+      "meta": [],
+      "blurb": "A realistic look at daily costs across accommodation, food, and transport.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-trip-cost-budget-breakdown.html",
+      "cta": "Read Article",
+      "image": "images/blog-moroccan-spices-souk.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

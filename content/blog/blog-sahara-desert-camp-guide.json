@@ -1,0 +1,65 @@
+{
+  "file": "blog-sahara-desert-camp-guide.html",
+  "slug": "blog-sahara-desert-camp-guide",
+  "meta": {
+    "title": "Sahara Desert Camp: Sleeping Under the Stars | Shared Morocco Adventures",
+    "description": "What a night in a shared Berber-style Sahara desert camp near Merzouga is really like, from campfire dinner to sunrise over the dunes.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-sahara-desert-camp-guide.html",
+    "ogTitle": "Sahara Desert Camp: Sleeping Under the Stars",
+    "ogDescription": "What a night in a shared Berber-style Sahara desert camp near Merzouga is really like, from campfire dinner to sunrise over the dunes.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-desert-camp-tents.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Sahara",
+    "h1": "Sahara Desert Camp: Sleeping Under the Stars",
+    "lead": "One night in a Berber-style camp among the Erg Chebbi dunes will stick with you longer than almost anything else in Morocco.",
+    "image": "images/blog-desert-camp-tents.jpg"
+  },
+  "body": "<p>Everyone remembers a different moment from their desert camp night — for some it's the first sight of the dunes turning orange at sunset, for others it's the drumming around the fire, or the silence at 3am when you step outside your tent and the sky is so full of stars it looks fake. Here's what actually happens on a typical shared desert camp night near Merzouga, so you know what to expect.</p>\r\n\r\n      <h2>Arriving at Camp</h2>\r\n      <p>After the camel trek or 4x4 ride in from Merzouga, you'll arrive at camp just as the light starts to soften — golden hour on the dunes of Erg Chebbi is genuinely one of the best free shows in the country. Camps are usually a cluster of Berber-style tents made from woven wool and canvas, arranged around a central dining and fire area. In a shared group camp, you'll typically have a simple twin or triple tent with mattresses and blankets — nothing fancy, but warmer and comfier than you'd expect, and shared camps run at a fraction of the cost of a private luxury camp further out in the dunes.</p>\r\n\r\n      <h2>Dinner and Music by the Fire</h2>\r\n      <p>Dinner is usually a hearty tagine cooked in the camp kitchen — chicken or vegetable, with bread and fruit for dessert — eaten together at low tables under the open sky. Afterward, the camp crew breaks out drums (usually a bendir or djembe) and sings Berber and Gnawa songs around the fire, and it's genuinely normal for guests to end up dancing or trying the drums themselves. This is where a shared camp really earns its reputation: solo travelers who arrived alone that afternoon are usually singing along with a group of new friends by 9pm.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Pack a warm layer even in summer — desert nights drop sharply once the sun goes down, and a fleece or hoodie over your daytime clothes makes the difference between enjoying the fire and rushing back to your tent.</p>\r\n      </div>\r\n\r\n      <h2>The Night Sky and Sleeping Under the Stars</h2>\r\n      <p>Once the fire dies down and the generator lights switch off, the real spectacle begins. With zero light pollution for miles, the Milky Way is visible to the naked eye on clear nights, and shooting stars are common enough that someone in the group will almost always spot one. Some travelers choose to drag their mattress just outside the tent to sleep entirely in the open — perfectly safe within the camp grounds and honestly one of the most memorable ways to spend a night in Morocco.</p>\r\n      <p>Facilities are basic by design: expect shared long-drop or simple flush toilets and no showers at most standard camps, so pack wet wipes and a headlamp. It's part of the trade-off for the experience, and one night of basic comfort is a small price for what you see and hear out there.</p>\r\n\r\n      <h2>Sunrise Over the Dunes</h2>\r\n      <p>Camps usually wake guests before dawn to climb the nearest dune and watch the sunrise — a quieter, more personal moment than the sunset crowd the evening before. The colors shift from deep blue to pink to gold across the sand in a matter of minutes. Afterward it's a simple breakfast of bread, jam, and coffee before the camel or 4x4 ride back to Merzouga to continue the tour.</p>",
+  "cta": {
+    "h2": "Ready for Your Own Night in the Dunes",
+    "p": "Join our 4-day Sahara group tour and experience a shared desert camp for yourself.",
+    "href": "tour-4-day-sahara-desert-group-tour.html",
+    "label": "View the Sahara Tour"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Camel Trekking in Merzouga: What to Expect",
+      "meta": [],
+      "blurb": "How the ride into the dunes actually feels, from saddle to sand.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-camel-trekking-merzouga.html",
+      "cta": "Read Article",
+      "image": "images/blog-camel-trek-closeup.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "What to Pack for a Sahara Desert Group Tour",
+      "meta": [],
+      "blurb": "A complete packing list for hot days and cold desert nights.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-packing-list.html",
+      "cta": "Read Article",
+      "image": "images/hero-sahara-dunes.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Shared vs Private Tours in Morocco",
+      "meta": [],
+      "blurb": "Which style actually saves you the most money.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-shared-vs-private-tours.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

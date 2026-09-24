@@ -1,0 +1,31 @@
+{
+  "file": "photo-credits.html",
+  "meta": {
+    "title": "Photo Credits | Shared Morocco Adventures",
+    "description": "Attribution for the photography used across Shared Morocco Adventures, sourced from Wikimedia Commons and Unsplash.",
+    "canonical": "https://www.sharedmoroccoadventures.com/photo-credits.html",
+    "ogTitle": "Photo Credits",
+    "ogDescription": "Attribution for the photography used across Shared Morocco Adventures, sourced from Wikimedia Commons and Unsplash.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/hero-sahara-dunes.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Attribution",
+    "h1": "Photo credits",
+    "lead": "Photography on this site is sourced from Wikimedia Commons and Unsplash under Creative Commons, public-domain, and Unsplash licenses. Credit to each photographer below.",
+    "image": ""
+  },
+  "sections": [
+    {
+      "kind": "includes",
+      "id": "",
+      "eyebrow": "",
+      "h2": "",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "file": "blog-marrakech-to-merzouga-group-tour-route.html",
+  "slug": "blog-marrakech-to-merzouga-group-tour-route",
+  "meta": {
+    "title": "Marrakech to Merzouga: The Group Tour Route | Shared Morocco Adventures",
+    "description": "The real Marrakech to Merzouga route, day by day — Ait Benhaddou, the Dades Gorges, Tinghir and Erfoud — and why groups take 3-4 days to cover it.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-marrakech-to-merzouga-group-tour-route.html",
+    "ogTitle": "Marrakech to Merzouga: The Group Tour Route Explained",
+    "ogDescription": "The real route from Marrakech to the Sahara, day by day, and why shared group tours spread it over 3-4 days instead of driving it in one.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-sahara-gateway-road.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"Article\",\r\n  \"headline\": \"Marrakech to Merzouga — What the Group Tour Route Actually Looks Like\",\r\n  \"description\": \"The real Marrakech to Merzouga route, day by day, and why shared group tours take 3-4 days to cover it instead of driving it in one.\",\r\n  \"author\": { \"@type\": \"Organization\", \"name\": \"Shared Morocco Adventures\" },\r\n  \"publisher\": {\r\n    \"@type\": \"Organization\",\r\n    \"name\": \"Shared Morocco Adventures\",\r\n    \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.sharedmoroccoadventures.com/images/logo-full-transparent.png\" }\r\n  },\r\n  \"mainEntityOfPage\": \"https://www.sharedmoroccoadventures.com/blog-marrakech-to-merzouga-group-tour-route.html\"\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Sahara",
+    "h1": "Marrakech to Merzouga — What the Group Tour Route Actually Looks Like",
+    "lead": "Every stop, every driving day, and why no shared tour tries to cover it in one go.",
+    "image": "images/blog-sahara-gateway-road.jpg"
+  },
+  "body": "<p>Marrakech to Merzouga is one of the most-searched routes in Morocco, and also one of the most misunderstood — plenty of people picture it as a long day's drive with a camel ride at the end. It isn't. It's roughly 445 km of mountain passes and river valleys, and every shared group tour we run splits it over at least two driving days for reasons that make a lot more sense once you see the road.</p>\r\n\r\n      <h2>Day One: Marrakech to the Dades Gorges (≈210 km)</h2>\r\n      <p>The route leaves Marrakech heading southeast and climbs straight into the High Atlas via the Tizi n'Tichka pass, the highest year-round road pass in Morocco at over 2,200 meters. It's a genuinely dramatic drive — switchbacks, roadside walnut and almond stalls, Berber villages built into the hillside — and it's also slow going, which is the first reason this isn't a one-day trip. About halfway down the other side of the pass sits Ait Benhaddou, the UNESCO-listed kasbah used in countless films, where every group tour stops to walk through the fortified village. From there the road continues through the Valley of Roses to an overnight stop in the Dades Gorges — roughly 3.5 hours of actual driving, spread across a full day once you count the stops.</p>\r\n\r\n      <h2>Day Two: Dades Gorges to Merzouga (≈235 km)</h2>\r\n      <p>The second driving day covers new ground again, continuing east via Tinghir and Erfoud before finally reaching Merzouga, the small town that sits at the edge of the Erg Chebbi dune sea. This leg is about 4.5 hours of driving on its own, through a noticeably different landscape than day one — the mountains give way to flat, stony plains (locally called <em>hamada</em>) that stretch for miles before the first dunes appear on the horizon. Erfoud, the last town before Merzouga, is known locally for date palms and fossil workshops if you want a short stop before the final stretch.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">🚐</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>The first glimpse of actual dunes usually comes about 20-30 minutes before Merzouga itself — worth keeping your camera out rather than dozing through the last stretch.</p>\r\n      </div>\r\n\r\n      <h2>Why Nobody Drives This in One Day</h2>\r\n      <p>Add the two legs together and you get roughly 445 km and 8 hours of driving one-way, before any stops — and Moroccan mountain and rural roads simply don't move at highway speed. The Tizi n'Tichka pass alone is slow by design: tight switchbacks, shared with trucks and local traffic, not a road anyone should be rushing. Splitting the drive also means you're not arriving at either Ait Benhaddou or the dunes exhausted from a full day in a vehicle, and it builds in an overnight stop in the Dades Gorges that's worth having in its own right, not just a rest stop.</p>\r\n\r\n      <h2>The Payoff: Camel Trek and Desert Camp</h2>\r\n      <p>Once you reach Merzouga, the last leg isn't driven at all — it's a camel trek into the Erg Chebbi dunes, timed to arrive at a desert camp around sunset. We've covered exactly what that's like, saddle soreness and all, in a separate guide: <a href=\"blog-camel-trekking-merzouga.html\">Camel Trekking in Merzouga: What to Expect</a>.</p>\r\n\r\n      <h2>How This Fits Into Our Tours</h2>\r\n      <p>Our <a href=\"tour-4-day-sahara-desert-group-tour.html\">4-Day Sahara Desert Group Tour</a> runs exactly this route — an arrival day in Marrakech, then the two driving days above, a night at the desert camp, and a return drive to Marrakech. If you'd rather finish in Fes instead of heading back to Marrakech, our <a href=\"tour-6-day-imperial-cities-chefchaouen-tour.html\">6-Day Marrakech, Sahara Desert &amp; Fes Tour</a> runs the same first three days, then continues north instead of doubling back.</p>",
+  "cta": {
+    "h2": "Ready to See It for Yourself?",
+    "p": "Check upcoming departure dates for our Marrakech-to-Sahara group tours.",
+    "href": "contact.html?trip=4-Day%20Sahara%20Desert%20Group%20Tour",
+    "label": "Check Dates & Availability"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Camel Trekking in Merzouga: What to Expect",
+      "meta": [],
+      "blurb": "The real experience of the dune trek and desert camp.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-camel-trekking-merzouga.html",
+      "cta": "Read Article",
+      "image": "images/blog-camel-trek-closeup.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Sahara Desert Camp: Sleeping Under the Stars",
+      "meta": [],
+      "blurb": "What the overnight camp is actually like.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-camp-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-desert-camp-tents.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How Fixed-Departure Group Tours Work in Morocco",
+      "meta": [],
+      "blurb": "What you're actually booking when you join a shared tour.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-how-fixed-departure-tours-work.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

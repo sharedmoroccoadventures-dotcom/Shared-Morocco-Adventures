@@ -1,0 +1,65 @@
+{
+  "file": "blog-group-travel-etiquette.html",
+  "slug": "blog-group-travel-etiquette",
+  "meta": {
+    "title": "Group Travel Etiquette: Making Friends on the Road | Shared Morocco Adventures",
+    "description": "How to be a great travel companion on a shared Morocco group tour, from punctuality to splitting costs and respecting different paces.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-group-travel-etiquette.html",
+    "ogTitle": "Group Travel Etiquette: Making Friends on the Road",
+    "ogDescription": "How to be a great travel companion on a shared Morocco group tour, from punctuality to splitting costs and respecting different paces.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/marrakech-jemaa-el-fnaa.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Group Travel",
+    "h1": "Group Travel Etiquette: Making Friends on the Road",
+    "lead": "Small courtesies turn a minivan full of strangers into a group chat full of friends by day four.",
+    "image": "images/marrakech-jemaa-el-fnaa.jpg"
+  },
+  "body": "<p>One of the quiet perks of shared group travel is who you meet, not just what you see. A typical Morocco group tour puts 8 to 16 travelers from all over the world in the same minivan for several days, and how smoothly that goes depends a lot on everyone pulling their weight socially, not just financially. Here's how to be the kind of traveler people are glad they shared a Sahara sunrise with.</p>\r\n\r\n      <h2>Punctuality Matters More Than You Think</h2>\r\n      <p>On a group itinerary, one late person at the 7am pickup means fifteen people lose their morning light in the Sahara, or miss the quiet window at Ait Benhaddou before the tour buses arrive. Set two alarms, have your bag packed the night before, and treat the departure time as fixed, not a suggestion. Guides build in a small buffer, but repeatedly testing it is the fastest way to become the group's most talked-about person for the wrong reasons.</p>\r\n\r\n      <h2>Splitting Costs Fairly</h2>\r\n      <p>Most shared costs on the road are already built into your tour price, but extras come up constantly — a round of teas, a shared taxi to a viewpoint not on the itinerary, tipping the camp musicians. The easiest approach is to just cover the next round without keeping a running tally; over a few days it evens out naturally. If a bigger shared expense comes up, like splitting a private taxi three ways, say the amount out loud before you get in so nobody's stuck negotiating after the fact.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Carry small bills and coins at all times — nothing stalls a group faster than one person needing change from a 200 dirham note to pay for a 20 dirham tea.</p>\r\n      </div>\r\n\r\n      <h2>Respecting Different Paces and Interests</h2>\r\n      <p>Not everyone in your group will want to photograph every tile in the Bahia Palace, and not everyone will want to skip it either. Good group etiquette means giving people room to peel off for twenty minutes at a market or sit out an optional activity like an extra hike without making it a thing. Ask before assuming someone wants company, and don't take it personally if a fellow traveler prefers a quieter afternoon — everyone's Morocco trip is a little different even when the itinerary is shared.</p>\r\n      <p>The flip side is true too: don't hover apart from the group all day and then expect everyone to wait when you're running behind. Group tours work because of a rough give-and-take, and the travelers who read the room tend to get invited to the good stuff — an extra rooftop dinner, a late-night walk through the medina — more often than the ones who don't.</p>\r\n\r\n      <h2>Why Solo Travelers Leave With a Group Chat Full of Friends</h2>\r\n      <p>Ask past guests what they remember most from a Morocco group tour and it's rarely just the Sahara dunes or the blue streets of Chefchaouen — it's the people. Long drives through the Atlas Mountains, communal tagine dinners, and shared desert camp nights create the kind of fast friendship that's hard to replicate traveling alone or in a private car. It's genuinely common for solo travelers to end a 4 or 7-day tour with a WhatsApp group that's still active months later, sometimes with plans to meet up in each other's home countries.</p>",
+  "cta": {
+    "h2": "Find Your Travel Crew",
+    "p": "Browse our small-group departures and start planning your Morocco trip.",
+    "href": "tours.html",
+    "label": "View Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Shared vs Private Tours in Morocco",
+      "meta": [],
+      "blurb": "Which style actually saves you the most money.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-shared-vs-private-tours.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Solo Female Travel in Morocco",
+      "meta": [],
+      "blurb": "A group tour guide to exploring confidently and safely.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-solo-female-travel-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-solo-female-traveler.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Sahara Desert Camp: Sleeping Under the Stars",
+      "meta": [],
+      "blurb": "What a shared night in the dunes is really like.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-camp-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-desert-camp-tents.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

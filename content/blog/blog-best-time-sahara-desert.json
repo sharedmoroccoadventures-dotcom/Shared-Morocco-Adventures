@@ -1,0 +1,67 @@
+{
+  "file": "blog-best-time-sahara-desert.html",
+  "slug": "blog-best-time-sahara-desert",
+  "meta": {
+    "title": "Best Time to Visit the Sahara Desert | Shared Morocco Adventures",
+    "description": "A month-by-month breakdown of Sahara Desert weather in Morocco, from freezing winter nights to peak-heat summer, so you can pick the best time for your trip.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-best-time-sahara-desert.html",
+    "ogTitle": "Best Time to Visit the Sahara Desert, Month by Month",
+    "ogDescription": "A month-by-month breakdown of Sahara Desert weather in Morocco, from freezing winter nights to peak-heat summer, so you can pick the best time to go.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/hero-sahara-dunes.jpg",
+    "jsonld": [
+      "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"Best Time to Visit the Sahara Desert, Month by Month\",\n  \"description\": \"A month-by-month breakdown of Sahara Desert weather in Morocco, from freezing winter nights to peak-heat summer, so you can pick the best time for your trip.\",\n  \"author\": { \"@type\": \"Organization\", \"name\": \"Shared Morocco Adventures\" },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Shared Morocco Adventures\",\n    \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.sharedmoroccoadventures.com/images/logo-full-transparent.png\" }\n  },\n  \"mainEntityOfPage\": \"https://www.sharedmoroccoadventures.com/blog-best-time-sahara-desert.html\"\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Planning",
+    "h1": "Best Time to Visit the Sahara Desert, Month by Month",
+    "lead": "The Sahara runs its own weather clock, separate from the rest of Morocco — here's what to expect month by month before you pick your dates.",
+    "image": "images/hero-sahara-dunes.jpg"
+  },
+  "body": "<p>Erg Chebbi, the dune sea outside Merzouga where most Sahara group tours end up, doesn't follow the same calendar as Marrakech or Fes. It swings harder in both directions — hotter by day in summer, colder by night in winter — so \"best time to visit Morocco\" and \"best time to visit the Sahara\" aren't quite the same question. If the desert leg is the main reason you're going, here's the breakdown by month.</p>\n\n      <h2>October to April: The Comfortable Window</h2>\n      <p>This is when most Sahara tours run and for good reason. Daytime temperatures sit in a pleasant 20-28°C range for most of this stretch, cool enough for the camel trek out to camp without the midday heat that makes summer desert activity a chore. Nights are a different story — expect them to drop close to freezing in December and January, particularly just before dawn, so a proper warm layer isn't optional even though the days feel mild. October, November, March and April are the sweet spot within this window: warm days, cold-but-not-brutal nights, and clear skies for stargazing once the campfire dies down.</p>\n      <p>This period also overlaps with when we run the most fixed departures, simply because it's when demand is highest — more dates to pick from if your travel window is flexible.</p>\n\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\n        <div class=\"icon-badge\">🌡️</div>\n        <h3>Quick Tip</h3>\n        <p>Even on a warm December afternoon, pack for a near-freezing desert-camp night — the temperature drop after sunset in the Sahara is one of the most common things first-time visitors underestimate.</p>\n      </div>\n\n      <h2>December and January: Cold Nights, Clear Days</h2>\n      <p>Peak winter is still very doable and actually a good option if you want the dunes without the crowds. Days are comfortable for walking and photography, the light is sharp, and the sky at night is about as clear as it gets — great for stargazing, less great for comfort if you're not prepared. Camp nights get genuinely cold; extra layers and a good sleeping bag on top of what's provided make a real difference.</p>\n\n      <h2>May, June and September: The Shoulder Heat</h2>\n      <p>These months sit between comfortable and hot. Daytime temperatures climb into the low-to-mid 30s°C, still manageable if activities are scheduled around the heat (early camel trek, downtime at midday, evening campfire), which is how our tours already structure the desert leg. Nights are noticeably milder than winter, making this a reasonable choice if your travel dates are fixed and fall in this window rather than the peak season.</p>\n\n      <h2>July and August: Peak Heat</h2>\n      <p>Summer in Erg Chebbi is intense, with daytime temperatures regularly hitting 40-45°C and the sand surface even hotter underfoot. It's not off-limits — tours still run, camel treks happen at sunrise or sunset rather than midday, and the desert camp itself is more comfortable after dark — but it's the most physically demanding time to visit if heat affects you. If you have any flexibility in your travel dates, this is the window to avoid; if summer is your only option, lean into the early-morning and evening activity windows and treat the middle of the day purely as rest time.</p>\n\n      <h2>What Doesn't Change Year-Round</h2>\n      <p>A few things hold regardless of month: the drive out from Marrakech or Fes crosses the same Atlas passes and Ziz Valley scenery, the camel trek and campfire dinner format stays the same, and the stars are reliably excellent most nights since Merzouga sits far from any major light pollution. The main variable is simply how many layers you need to bring and whether midday becomes downtime or genuinely uncomfortable.</p>",
+  "cta": {
+    "h2": "Find a Sahara Departure That Matches Your Dates",
+    "p": "Browse fixed-date Sahara group tours and pick the season that works for you.",
+    "href": "tour-4-day-sahara-desert-group-tour.html",
+    "label": "View Sahara Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Best Time to Visit Morocco for Budget Travelers",
+      "meta": [],
+      "blurb": "How to time your whole trip, not just the desert leg.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-best-time-to-visit-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-countryside.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Sahara Desert Camp: Sleeping Under the Stars",
+      "meta": [],
+      "blurb": "What a night in the desert camp is actually like.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-camp-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-desert-camp-tents.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How Shared Accommodation Works on Group Tours",
+      "meta": [],
+      "blurb": "Shared rooms, desert-camp tents, and the private-room upgrade explained.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-how-shared-accommodation-works.html",
+      "cta": "Read Article",
+      "image": "images/blog-riad-courtyard.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

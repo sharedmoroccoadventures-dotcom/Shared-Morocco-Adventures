@@ -1,0 +1,65 @@
+{
+  "file": "blog-merzouga-vs-zagora-sahara.html",
+  "slug": "blog-merzouga-vs-zagora-sahara",
+  "meta": {
+    "title": "Choosing Your Sahara Gateway: Merzouga vs Zagora | Shared Morocco Adventures",
+    "description": "Merzouga or Zagora? Comparing Morocco's two main Sahara desert gateways — drive time, dune size, cost, and which suits your trip.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-merzouga-vs-zagora-sahara.html",
+    "ogTitle": "Choosing Your Sahara Gateway: Merzouga vs Zagora",
+    "ogDescription": "Comparing Morocco's two main Sahara desert routes to help you pick the right one.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-sahara-gateway-road.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Sahara",
+    "h1": "Choosing Your Sahara Gateway: Merzouga vs Zagora",
+    "lead": "Both routes end in Sahara dunes — but the journey, the dunes themselves, and the crowds are genuinely different.",
+    "image": "images/blog-sahara-gateway-road.jpg"
+  },
+  "body": "<p>Almost every Marrakech-based Sahara trip heads toward one of two gateway towns: Merzouga, at the edge of the Erg Chebbi dunes, or Zagora, near the smaller Erg Zehar dunes and the road toward the more remote Erg Chigaga. Both deliver a genuine desert camp experience, but the routes, dune scale, and overall feel differ enough to be worth understanding before you book.</p>\r\n\r\n      <h2>Merzouga and Erg Chebbi</h2>\r\n      <p>Merzouga is the more established, more popular route, reached via the dramatic Dades and Todra Gorges over roughly 8–9 hours of driving from Marrakech (usually split across 2–3 days with stops). Erg Chebbi's dunes are tall — some over 150 metres — and directly accessible from a cluster of desert camps right at the dune's edge, meaning a short camel ride gets you deep into genuinely striking scenery. It's also the more developed and sociable of the two routes, with a wider choice of camps and a livelier camp-night atmosphere.</p>\r\n\r\n      <h2>Zagora and Erg Chigaga</h2>\r\n      <p>Zagora is closer to Marrakech (around 6–7 hours), making it the faster option if time is tight. However, the dunes immediately near Zagora town (Erg Zehar) are noticeably smaller and less dramatic than Erg Chebbi. The truly big dunes near Zagora — Erg Chigaga — require an additional multi-hour 4x4 transfer beyond Zagora itself, which adds cost and time back into the route. Zagora trips tend to be quieter and less touristy simply because fewer operators run there compared to Merzouga.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>If dune height and that classic \"postcard Sahara\" look matter most to you, Merzouga's Erg Chebbi wins clearly. If you're short on time and want a taste of the desert without the full multi-day commitment, Zagora's closer dunes are the practical compromise.</p>\r\n      </div>\r\n\r\n      <h2>Cost Comparison</h2>\r\n      <p>Merzouga trips are generally similar in price to Zagora trips for a comparable number of days, since Merzouga's extra distance is offset by more competition among camps and operators keeping prices sharp. Reaching Erg Chigaga's bigger dunes near Zagora tends to push costs up due to the additional 4x4 transfer, occasionally landing close to or above Merzouga pricing for a similar quality of dune scenery.</p>\r\n\r\n      <h2>Which Should You Choose?</h2>\r\n      <p>For a first Sahara trip with a few days to spare, Merzouga is the well-trodden, reliably spectacular choice — it's why the vast majority of shared group departures, including all of ours, route through it. If you've already done a Merzouga-style trip before and want something quieter and less touristed, or you're genuinely tight on time, Zagora is worth considering, ideally with the Erg Chigaga add-on rather than stopping at the smaller near-town dunes.</p>\r\n\r\n      <h2>Our Routes</h2>\r\n      <p>Every one of our Sahara-inclusive group tours — the <a href=\"tour-4-day-sahara-desert-group-tour.html\">4-Day Sahara Desert Group Tour</a> and its longer variations — travels via the Dades and Todra Gorges to a shared desert camp at Erg Chebbi, Merzouga, for exactly the reasons above: bigger dunes, a shorter camel trek to reach them, and a more established, comfortable camp setup for a first-time desert night.</p>",
+  "cta": {
+    "h2": "Ready for the Dunes?",
+    "p": "Our 4-Day Sahara Desert Group Tour routes to Erg Chebbi via the Dades and Todra Gorges, camel trek included.",
+    "href": "tour-4-day-sahara-desert-group-tour.html",
+    "label": "See the 4-Day Sahara Tour"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Sahara Desert Camp: Sleeping Under the Stars",
+      "meta": [],
+      "blurb": "What a shared desert camp night is really like.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-camp-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-desert-camp-tents.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Camel Trekking in Merzouga: What to Expect",
+      "meta": [],
+      "blurb": "From mounting up to sunset over the Erg Chebbi dunes.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-camel-trekking-merzouga.html",
+      "cta": "Read Article",
+      "image": "images/blog-camel-trek-closeup.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "What to Pack for a Sahara Desert Group Tour",
+      "meta": [],
+      "blurb": "Layers, sun protection, and the small extras people forget.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-packing-list.html",
+      "cta": "Read Article",
+      "image": "images/hero-sahara-dunes.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

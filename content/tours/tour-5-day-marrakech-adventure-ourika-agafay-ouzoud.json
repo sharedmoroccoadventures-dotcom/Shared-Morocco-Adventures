@@ -1,0 +1,196 @@
+{
+  "file": "tour-5-day-marrakech-adventure-ourika-agafay-ouzoud.html",
+  "slug": "tour-5-day-marrakech-adventure-ourika-agafay-ouzoud",
+  "meta": {
+    "title": "5-Day Shared Marrakech Adventure Tour | Shared Morocco Adventures",
+    "description": "A 5-day shared Marrakech-based tour with daily excursions to Ourika Valley, Agafay Desert (camel ride & ATV) and Ouzoud Waterfalls. From €135pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/tour-5-day-marrakech-adventure-ourika-agafay-ouzoud.html",
+    "ogTitle": "5-Day Shared Marrakech Adventure Tour: Ourika, Agafay & Ouzoud",
+    "ogDescription": "Base yourself in Marrakech and take daily round-trip excursions to the Ourika Valley, Agafay Desert, and Ouzoud Waterfalls. From €135pp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-agafay-desert.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"5-Day Shared Marrakech Adventure Tour: Ourika Valley, Agafay Desert & Ouzoud Waterfalls\",\r\n  \"description\": \"A 5-day shared Morocco tour based in Marrakech with daily round-trip excursions to the Ourika Valley, the Agafay Desert (camel ride and ATV/quad biking), and the Ouzoud Waterfalls, returning each night to the same hostel.\",\r\n  \"touristType\": [\"Budget travelers\", \"Adventure travelers\", \"Solo travelers\", \"Small groups\"],\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 1: Arrival in Marrakech\", \"description\": \"Airport pick-up and transfer to hostel in the Marrakech medina. Free time to explore Jemaa el-Fnaa.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 2: Ourika Valley Excursion\", \"description\": \"Round-trip excursion (~84 km) to the Ourika Valley in the Atlas Mountains foothills, including Berber villages and an argan oil cooperative. Return to Marrakech.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 3: Agafay Desert Camel Ride & ATV\", \"description\": \"Round-trip excursion (~70 km) to the Agafay Desert with a camel ride and ATV/quad biking. Return to Marrakech.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 4: Ouzoud Waterfalls Excursion\", \"description\": \"Round-trip excursion (~300 km) to the Ouzoud Waterfalls, the tallest waterfalls in North Africa. Return to Marrakech.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 5: Departure\", \"description\": \"Transfer from Marrakech hostel to Marrakech Menara Airport for departure.\" } }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"price\": \"135\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  },\r\n  \"provider\": {\r\n    \"@type\": \"TravelAgency\",\r\n    \"name\": \"Shared Morocco Adventures\",\r\n    \"url\": \"https://www.sharedmoroccoadventures.com\"\r\n  }\r\n}",
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"FAQPage\",\r\n  \"mainEntity\": [\r\n    { \"@type\": \"Question\", \"name\": \"What does this tour cost?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"The 5-day shared Marrakech tour is 135 EUR per person, based on shared/group transport and the budget hostel accommodation listed above.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Is this a private or shared tour?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"This is a shared/small-group tour — you travel in a minivan with other travelers on each excursion, which keeps the price lower than a private tour. A private version of the same itinerary can be arranged on request.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Do I stay in the same hostel for all 5 days?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes. You check in once in Marrakech and return to the same hostel each night after the Ourika, Agafay, and Ouzoud excursions — no repacking or hotel changes.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"How far is Ouzoud Waterfalls from Marrakech, and is it a long day?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Ouzoud is about 150–155 km each way (roughly 300 km round trip), with 5–6 hours of driving total, making Day 4 the longest travel day of the tour.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Are the camel ride and ATV/quad biking both included on the Agafay Desert day?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes, Day 3 includes both a camel ride and an ATV/quad biking session in the Agafay Desert, roughly 35 km from Marrakech.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"What should I pack for this tour?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Comfortable walking shoes, sun protection, a light jacket for the Atlas Mountains and evenings, a swimsuit for the Ouzoud pools, and cash in MAD for entrance fees and tips.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Can this itinerary be customized?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes — days can be reordered, extended, or converted to a private tour, and the accommodation can be upgraded from hostel to riad or hotel level.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Is airport transfer included?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes, both the Day 1 arrival pick-up and the Day 5 departure transfer to Marrakech Menara Airport are included.\" } }\r\n  ]\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Group Tour · 5 Days",
+    "h1": "5-Day Shared Marrakech Adventure Tour",
+    "lead": "Ourika Valley → Agafay Desert → Ouzoud Waterfalls — one Marrakech base, three big excursions",
+    "image": "images/daytrip-agafay-desert.jpg"
+  },
+  "overview": {
+    "eyebrow": "Trip Overview",
+    "h2": "Marrakech's best nature, no repacking required",
+    "paras": [
+      "This 5-day shared tour is based entirely in Marrakech, with daily round-trip excursions to the Ourika Valley, the Agafay Desert, and the Ouzoud Waterfalls, returning each evening to the same budget hostel in the medina. It's built for travelers who want Marrakech's surrounding nature and adventure activities — Atlas Mountain foothills, a desert camel ride and ATV outing, and Morocco's tallest waterfalls — without switching hotels or repacking a bag each day.",
+      "Transport runs in a shared minivan with other small-group travelers, keeping the cost well below a private tour covering the same three excursions."
+    ],
+    "chips": [
+      "📍 Based in Marrakech",
+      "🚗 ≈460–480 km total",
+      "🛏 4 nights, same hostel",
+      "🗓 Fixed weekly departures"
+    ],
+    "image": "images/marrakech-jemaa-el-fnaa.jpg"
+  },
+  "itinerary": {
+    "eyebrow": "Day by Day",
+    "h2": "Itinerary",
+    "days": [
+      {
+        "num": "Day 1",
+        "label": "Arrive",
+        "title": "Arrival in Marrakech",
+        "lead": "≈6 km · about 15–20 min",
+        "paras": [
+          "Pick-up from Marrakech Menara Airport (RAK) and private transfer to your hostel in the medina. The rest of the day is free to settle in, rest, and explore Jemaa el-Fnaa square and the surrounding souks at your own pace."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 2",
+        "label": "Ourika",
+        "title": "Ourika Valley Excursion",
+        "lead": "≈84 km round trip · about 2 hrs total driving",
+        "paras": [
+          "Full-day round-trip drive south into the Atlas Mountains foothills to the Ourika Valley. Highlights include Berber villages along the Ourika river, terraced fields, a stop at a working argan oil cooperative, and an optional, weather-dependent short hike to the Setti Fatma waterfalls. Return to Marrakech by early evening."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 3",
+        "label": "Agafay",
+        "title": "Agafay Desert: Camel Ride &amp; ATV/Quad Biking",
+        "lead": "≈70 km round trip · about 1–1.5 hrs total driving",
+        "paras": [
+          "Short drive southwest to the rocky Agafay Desert — Marrakech's closest desert landscape. Activities include a camel ride across the dunes and an ATV/quad biking session through the desert terrain, with views back toward the Atlas Mountains. Return to Marrakech in the afternoon or evening."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 4",
+        "label": "Ouzoud",
+        "title": "Ouzoud Waterfalls Excursion",
+        "lead": "≈300–310 km round trip · about 5–6 hrs total driving",
+        "paras": [
+          "Full-day round trip north to the Ouzoud Waterfalls, the tallest waterfalls in North Africa at around 110 metres. Time to walk the viewpoints, descend to the base of the falls, see the resident Barbary macaque monkeys, and optionally take a small boat ride near the pools. This is the longest driving day of the tour. Return to Marrakech in the evening."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 5",
+        "label": "Depart",
+        "title": "Departure",
+        "lead": "≈6 km · about 15–20 min",
+        "paras": [
+          "Free morning depending on flight time, then private transfer from your hostel to Marrakech Menara Airport (RAK) for departure. Trip ends."
+        ],
+        "extra": []
+      }
+    ]
+  },
+  "stay": {
+    "eyebrow": "Where You'll Stay",
+    "h2": "Suggested accommodation",
+    "intro": [
+      "Budgeted around 150 MAD/night. You stay in the same hostel for all 4 nights — no repacking between excursions."
+    ],
+    "cards": [
+      {
+        "icon": "🕍",
+        "title": "Riad Dia",
+        "html": [
+          "Immediately next to Jemaa el-Fnaa square — rated 9.3/10 (\"Superb\") on Hostelworld across nearly 5,700 reviews, with a rooftop pool, free breakfast and WiFi. Its location makes daily pickup/drop-off for excursions simple."
+        ]
+      },
+      {
+        "icon": "🏨",
+        "title": "Hostel Riad Marrakech Rouge (backup)",
+        "html": [
+          "Two minutes' walk from Jemaa el-Fnaa, rated 8.9/10 across 9,500+ reviews, similar price point, free breakfast included."
+        ]
+      },
+      {
+        "icon": "🛏️",
+        "title": "Upgrade option",
+        "html": [
+          "Prefer a riad or hotel-level stay instead of a hostel? Let us know when booking — accommodation can be upgraded, subject to availability."
+        ]
+      }
+    ],
+    "notes": [
+      "Confirm current nightly rates and availability directly before booking — hostel pricing shifts seasonally."
+    ]
+  },
+  "includes": [
+    "Airport pick-up and drop-off",
+    "4 nights' accommodation",
+    "Shared minivan transport for all 3 excursions",
+    "Driver for every excursion",
+    "Camel ride and ATV/quad rental (Day 3)"
+  ],
+  "excludes": [
+    "Meals (unless specified)",
+    "Ourika &amp; Ouzoud site entrance fees",
+    "Tips for driver and guide",
+    "Travel insurance",
+    "Activities not listed above"
+  ],
+  "price": {
+    "from": "From",
+    "amount": "€135",
+    "sub": "per person, shared hostel accommodation",
+    "ctaHref": "contact.html?trip=5-Day%20Shared%20Marrakech%20Adventure%20Tour",
+    "ctaText": "Check Dates & Availability"
+  },
+  "good": {
+    "eyebrow": "Good to Know",
+    "h2": "One base, three excursions",
+    "paras": [
+      "Because you're not switching cities, this route is one of our lowest-priced multi-day trips — you get three full excursions without paying for extra transfers or repeated check-ins.",
+      "Days can be reordered, extended, or converted to a private tour, and accommodation can be upgraded from hostel to riad or hotel level on request.",
+      "Want to add a Sahara desert camp night to this trip? See our <a href=\"tour-8-day-marrakech-adventure-sahara-desert.html\">8-Day Marrakech Adventure &amp; Sahara Desert Tour</a>, which extends this exact itinerary with a 3-day desert loop.",
+      "<strong>Booking terms:</strong> Send an enquiry first; we confirm the departure, final price, and payment instructions by email. No payment is taken through this website."
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQs",
+    "h2": "5-Day Marrakech Adventure Questions",
+    "items": [
+      {
+        "q": "What does this tour cost?",
+        "a": "<p>The 5-day shared Marrakech tour is 135 EUR per person, based on shared/group transport and the budget hostel accommodation listed above.</p>"
+      },
+      {
+        "q": "Is this a private or shared tour?",
+        "a": "<p>This is a shared/small-group tour — you travel in a minivan with other travelers on each excursion, which keeps the price lower than a private tour. A private version of the same itinerary can be arranged on request.</p>"
+      },
+      {
+        "q": "Do I stay in the same hostel for all 5 days?",
+        "a": "<p>Yes. You check in once in Marrakech and return to the same hostel each night after the Ourika, Agafay, and Ouzoud excursions — no repacking or hotel changes.</p>"
+      },
+      {
+        "q": "How far is Ouzoud Waterfalls from Marrakech, and is it a long day?",
+        "a": "<p>Ouzoud is about 150–155 km each way (roughly 300 km round trip), with 5–6 hours of driving total, so Day 4 is the longest travel day of the tour. You'll still have several hours at the falls themselves.</p>"
+      },
+      {
+        "q": "Are the camel ride and ATV/quad biking both included on the Agafay Desert day?",
+        "a": "<p>Yes, Day 3 includes both a camel ride and an ATV/quad biking session in the Agafay Desert, roughly 35 km from Marrakech.</p>"
+      },
+      {
+        "q": "What should I pack for this tour?",
+        "a": "<p>Comfortable walking shoes, sun protection, a light jacket for the Atlas Mountains (Ourika) and evenings, a swimsuit if you plan to visit the Ouzoud pools, and cash in MAD for entrance fees and tips.</p>"
+      },
+      {
+        "q": "Can this itinerary be customized?",
+        "a": "<p>Yes — days can be reordered, extended, or converted to a private tour, and the accommodation can be upgraded from hostel to riad or hotel level.</p>"
+      },
+      {
+        "q": "Is airport transfer included?",
+        "a": "<p>Yes, both the Day 1 arrival pick-up and the Day 5 departure transfer to Marrakech Menara Airport are included.</p>"
+      }
+    ],
+    "extra": []
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "file": "tour-8-day-marrakech-adventure-sahara-desert.html",
+  "slug": "tour-8-day-marrakech-adventure-sahara-desert",
+  "meta": {
+    "title": "8-Day Marrakech Adventure & Sahara Desert Tour | Shared Morocco Adventures",
+    "description": "An 8-day shared Marrakech tour combining Ourika Valley, Agafay Desert and Ouzoud Waterfalls excursions with a 3-day Sahara desert loop. From €359pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/tour-8-day-marrakech-adventure-sahara-desert.html",
+    "ogTitle": "8-Day Marrakech Adventure & Sahara Desert Tour",
+    "ogDescription": "Marrakech excursions (Ourika, Agafay, Ouzoud) plus a 3-day Sahara desert loop via Dades Gorges and Merzouga. From €359pp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/hero-sahara-dunes.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"8-Day Marrakech Adventure & Sahara Desert Tour\",\r\n  \"description\": \"An 8-day shared Morocco tour combining Marrakech-based excursions to the Ourika Valley, Agafay Desert, and Ouzoud Waterfalls with a 3-day Sahara desert loop via the Dades Gorges and Merzouga, round trip from Marrakech.\",\r\n  \"touristType\": [\"Budget travelers\", \"Adventure travelers\", \"Solo travelers\", \"Small groups\"],\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 1: Arrival in Marrakech\", \"description\": \"Airport pick-up and transfer to hostel in the Marrakech medina. Free time to explore Jemaa el-Fnaa.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 2: Ourika Valley Excursion\", \"description\": \"Round-trip excursion (~84 km) to the Ourika Valley in the Atlas Mountains foothills, including Berber villages and an argan oil cooperative.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 3: Agafay Desert Camel Ride & ATV\", \"description\": \"Round-trip excursion (~70 km) to the Agafay Desert with a camel ride and ATV/quad biking.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 4: Ouzoud Waterfalls Excursion\", \"description\": \"Round-trip excursion (~300 km) to the Ouzoud Waterfalls, the tallest waterfalls in North Africa.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 5: Marrakech to Dades Gorges\", \"description\": \"Cross the High Atlas via Ait Benhaddou to the Dades Valley, overnight in a kasbah-style guesthouse.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 6, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 6: Dades to Merzouga via Todra Gorge\", \"description\": \"Hike the Todra Gorge, continue to Merzouga, camel trek into the Erg Chebbi dunes, overnight at a shared desert camp.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 7, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 7: Merzouga back to Marrakech\", \"description\": \"Sunrise over the dunes, then the return drive across the Atlas back to Marrakech.\" } },\r\n      { \"@type\": \"ListItem\", \"position\": 8, \"item\": { \"@type\": \"TouristAttraction\", \"name\": \"Day 8: Departure\", \"description\": \"Transfer from Marrakech hostel to Marrakech Menara Airport for departure.\" } }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"price\": \"359\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  },\r\n  \"provider\": {\r\n    \"@type\": \"TravelAgency\",\r\n    \"name\": \"Shared Morocco Adventures\",\r\n    \"url\": \"https://www.sharedmoroccoadventures.com\"\r\n  }\r\n}",
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"FAQPage\",\r\n  \"mainEntity\": [\r\n    { \"@type\": \"Question\", \"name\": \"What does this tour cost?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"The 8-day Marrakech Adventure & Sahara Desert tour is 359 EUR per person, based on shared/group transport and shared accommodation throughout.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Is this the same as booking the 5-day tour and the 4-day Sahara tour separately?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"It covers the same ground as both, but as one combined itinerary at a bundled price lower than booking each separately, with a single continuous booking rather than two.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Do I need to pack differently for the desert days?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes — pack a small overnight bag for Days 5–7 and leave your main luggage securely stored at the Marrakech hostel, which keeps the desert loop light and simple.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"How many nights are in the Sahara desert camp?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"One night, on Day 6, after the camel trek into the Erg Chebbi dunes near Merzouga.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Is the return drive from Merzouga to Marrakech a long day?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes — at around 560 km and 8.5 hours with stops, Day 7 is the longest single driving day of the tour, broken up by a stop in Ouarzazate.\" } },\r\n    { \"@type\": \"Question\", \"name\": \"Can I do the desert loop first and the Marrakech excursions after?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"The order can be adjusted on request, subject to availability on both legs — ask us when booking if you'd prefer to start with the Sahara.\" } }\r\n  ]\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Group Tour · 8 Days",
+    "h1": "8-Day Marrakech Adventure &amp; Sahara Desert Tour",
+    "lead": "Ourika → Agafay → Ouzoud → Dades Gorges → Merzouga Desert Camp → Marrakech",
+    "image": "images/hero-sahara-dunes.jpg"
+  },
+  "overview": {
+    "eyebrow": "Trip Overview",
+    "h2": "Marrakech's excursions, plus a night in the dunes",
+    "paras": [
+      "This is our 5-Day Shared Marrakech Adventure Tour extended with a full 3-day Sahara desert loop — the Ourika Valley, the Agafay Desert (camel ride and ATV), and the Ouzoud Waterfalls as round-trip day excursions from Marrakech, followed by a classic Sahara run via the Dades Gorges to a camel trek and desert camp night at Merzouga, then back to Marrakech.",
+      "Transport runs in a shared minivan throughout, and accommodation is shared — the same combination that keeps our other tours well below private-tour pricing for the same ground covered."
+    ],
+    "chips": [
+      "📍 Round-trip from Marrakech",
+      "🚗 ≈1,480 km total",
+      "🛏 7 nights",
+      "🗓 Fixed weekly departures"
+    ],
+    "image": "images/daytrip-agafay-desert.jpg"
+  },
+  "itinerary": {
+    "eyebrow": "Day by Day",
+    "h2": "Itinerary",
+    "days": [
+      {
+        "num": "Day 1",
+        "label": "Arrive",
+        "title": "Arrival in Marrakech",
+        "lead": "≈6 km · about 15–20 min",
+        "paras": [
+          "Pick-up from Marrakech Menara Airport (RAK) and private transfer to your hostel in the medina. The rest of the day is free to explore Jemaa el-Fnaa square and the surrounding souks."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 2",
+        "label": "Ourika",
+        "title": "Ourika Valley Excursion",
+        "lead": "≈84 km round trip · about 2 hrs total driving",
+        "paras": [
+          "Round-trip drive into the Atlas Mountains foothills — Berber villages, terraced fields, an argan oil cooperative, and an optional short hike toward the Setti Fatma waterfalls. Return to Marrakech by early evening."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 3",
+        "label": "Agafay",
+        "title": "Agafay Desert: Camel Ride &amp; ATV/Quad Biking",
+        "lead": "≈70 km round trip · about 1–1.5 hrs total driving",
+        "paras": [
+          "Short drive to the rocky Agafay Desert for a camel ride and an ATV/quad biking session, with views back toward the Atlas Mountains. Return to Marrakech."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 4",
+        "label": "Ouzoud",
+        "title": "Ouzoud Waterfalls Excursion",
+        "lead": "≈300–310 km round trip · about 5–6 hrs total driving",
+        "paras": [
+          "Full-day round trip to Ouzoud, North Africa's tallest waterfall (~110m) — viewpoints, a walk to the base, Barbary macaques, and an optional boat ride. Return to Marrakech in the evening."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 5",
+        "label": "Depart",
+        "title": "Marrakech to Dades Gorges",
+        "lead": "≈210 km · about 3.5 hrs driving",
+        "paras": [
+          "Leave Marrakech and cross the High Atlas via the Tizi n'Tichka pass, stopping at the UNESCO-listed Ait Benhaddou kasbah, before continuing to an overnight stay in the Dades Valley. Pack a small overnight bag for this leg — your main luggage stays safely stored at the Marrakech hostel."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 6",
+        "label": "Desert",
+        "title": "Dades to Merzouga via Todra Gorge",
+        "lead": "≈235 km total · about 4.5 hrs driving",
+        "paras": [
+          "Morning walk through the Dades Gorge, then on to the towering Todra Gorge (≈55 km/1 hr) for a short hike, continuing to Merzouga (≈180 km/3.5 hrs). Camel trek into the Erg Chebbi dunes for a night at a shared desert camp — dinner around the fire, live music, and a night under the stars."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 7",
+        "label": "Return",
+        "title": "Merzouga back to Marrakech",
+        "lead": "≈560 km total · about 8.5 hrs driving with stops",
+        "paras": [
+          "Optional sunrise over the dunes before camels carry the group back to Merzouga. Scenic drive back across the Atlas (≈350 km/5.5 hrs), with a stop in Ouarzazate, then a final ≈210 km/3.5 hrs to Marrakech by evening — back to the same hostel for your last night."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 8",
+        "label": "Depart",
+        "title": "Departure",
+        "lead": "≈6 km · about 15–20 min",
+        "paras": [
+          "Free morning depending on flight time, then private transfer from your hostel to Marrakech Menara Airport (RAK) for departure. Trip ends."
+        ],
+        "extra": []
+      }
+    ]
+  },
+  "stay": {
+    "eyebrow": "Where You'll Stay",
+    "h2": "Accommodation on this route",
+    "intro": [
+      "Seven nights, shared throughout. Marrakech nights use the same hostel from the 5-Day Marrakech Adventure Tour."
+    ],
+    "cards": [
+      {
+        "icon": "🕍",
+        "title": "Nights 1–4 &amp; 7 · Marrakech",
+        "html": [
+          "<strong>Riad Dia</strong>, immediately next to Jemaa el-Fnaa — 9.3/10 on Hostelworld, rooftop pool, free breakfast and WiFi. Backup: Hostel Riad Marrakech Rouge, 2 minutes from the square."
+        ]
+      },
+      {
+        "icon": "🏰",
+        "title": "Night 5 · Dades Gorges",
+        "html": [
+          "<strong>Luxury Dades Riad</strong> or <strong>Auberge Tissadrin</strong>, half board (HB) — a kasbah-style riad with mudbrick rooms and terrace gorge views, dinner included."
+        ]
+      },
+      {
+        "icon": "⛺",
+        "title": "Night 6 · Merzouga desert camp",
+        "html": [
+          "<strong>Ideal Desert Camp</strong>, half board (HB) — a Berber-style camp at the edge of the Erg Chebbi dunes with dinner and breakfast included, campfire music, and a night under the stars."
+        ]
+      }
+    ],
+    "notes": [
+      "Confirm current nightly rates and availability directly before booking — hostel pricing shifts seasonally."
+    ]
+  },
+  "includes": [
+    "Airport pick-up and drop-off",
+    "7 nights' accommodation (shared twin/dorm/tent)",
+    "Shared minivan transport for all excursions and the desert loop",
+    "Driver-guide throughout",
+    "Camel ride and ATV/quad rental (Agafay, Day 3)",
+    "Camel trek and 1 night at the Sahara desert camp",
+    "Breakfast daily and 2 dinners"
+  ],
+  "excludes": [
+    "Flights and travel insurance",
+    "Ourika &amp; Ouzoud site entrance fees",
+    "Lunches and remaining dinners",
+    "Tips for driver and guide",
+    "Private rooms (available on request, extra cost)"
+  ],
+  "price": {
+    "from": "From",
+    "amount": "€359",
+    "sub": "per person, shared accommodation throughout",
+    "ctaHref": "contact.html?trip=8-Day%20Marrakech%20Adventure%20and%20Sahara%20Desert%20Tour",
+    "ctaText": "Check Dates & Availability"
+  },
+  "good": {
+    "eyebrow": "Good to Know",
+    "h2": "Two trips in one, at a bundled price",
+    "paras": [
+      "This route combines our 5-Day Shared Marrakech Adventure Tour with our 4-Day Sahara Desert Group Tour into one continuous booking, priced below what the two would cost separately.",
+      "Prefer just the Marrakech excursions without the desert? See the <a href=\"tour-5-day-marrakech-adventure-ourika-agafay-ouzoud.html\">5-Day Shared Marrakech Adventure Tour</a>. Want the Sahara loop on its own? See the <a href=\"tour-4-day-sahara-desert-group-tour.html\">4-Day Sahara Desert Group Tour</a>.",
+      "<strong>Booking terms:</strong> Send an enquiry first; we confirm the departure, final price, and payment instructions by email. No payment is taken through this website."
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQs",
+    "h2": "8-Day Marrakech &amp; Sahara Questions",
+    "items": [
+      {
+        "q": "What does this tour cost?",
+        "a": "<p>The 8-day Marrakech Adventure &amp; Sahara Desert tour is 359 EUR per person, based on shared/group transport and shared accommodation throughout.</p>"
+      },
+      {
+        "q": "Is this the same as booking the 5-day tour and the 4-day Sahara tour separately?",
+        "a": "<p>It covers the same ground as both, but as one combined itinerary at a bundled price lower than booking each separately, with a single continuous booking rather than two.</p>"
+      },
+      {
+        "q": "Do I need to pack differently for the desert days?",
+        "a": "<p>Yes — pack a small overnight bag for Days 5–7 and leave your main luggage securely stored at the Marrakech hostel, which keeps the desert loop light and simple.</p>"
+      },
+      {
+        "q": "How many nights are in the Sahara desert camp?",
+        "a": "<p>One night, on Day 6, after the camel trek into the Erg Chebbi dunes near Merzouga.</p>"
+      },
+      {
+        "q": "Is the return drive from Merzouga to Marrakech a long day?",
+        "a": "<p>Yes — at around 560 km and 8.5 hours with stops, Day 7 is the longest single driving day of the tour, broken up by a stop in Ouarzazate.</p>"
+      },
+      {
+        "q": "Can I do the desert loop first and the Marrakech excursions after?",
+        "a": "<p>The order can be adjusted on request, subject to availability on both legs — ask us when booking if you'd prefer to start with the Sahara.</p>"
+      }
+    ],
+    "extra": []
+  }
+}

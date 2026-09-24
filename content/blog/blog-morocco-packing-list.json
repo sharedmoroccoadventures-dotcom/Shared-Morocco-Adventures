@@ -1,0 +1,65 @@
+{
+  "file": "blog-morocco-packing-list.html",
+  "slug": "blog-morocco-packing-list",
+  "meta": {
+    "title": "The Complete Morocco Packing List | Shared Morocco Adventures",
+    "description": "A complete Morocco packing list covering the medina, mountains, coast, and desert — layers, footwear, modesty, and the small extras people forget.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-morocco-packing-list.html",
+    "ogTitle": "The Complete Morocco Packing List",
+    "ogDescription": "Every region, every season — what to actually pack for a Morocco trip.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-morocco-packing-list.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Planning",
+    "h1": "The Complete Morocco Packing List",
+    "lead": "One country, four very different climates — here's how to pack light without leaving out what you'll actually need.",
+    "image": "images/blog-morocco-packing-list.jpg"
+  },
+  "body": "<p>A Morocco itinerary can move you from a hot medina to a cool mountain pass to a cold desert night within 48 hours, which is exactly why so many first-timers either overpack for \"just in case\" or underpack for the desert leg specifically. Layering is the real trick — a handful of versatile pieces cover almost every scenario if you choose the right ones.</p>\r\n\r\n      <h2>The Core Layering System</h2>\r\n      <p>Pack for three layers: a breathable base (linen or cotton shirts handle medina heat and dry fast), a warm mid-layer (a fleece or light sweater for evenings and mountain or desert cold), and a packable outer layer (a light rain jacket doubles as wind protection on exposed viewpoints and desert nights). This combination covers Marrakech's heat, Chefchaouen's cooler mountain air, and a Sahara camp night without needing separate outfits for each.</p>\r\n\r\n      <h2>Modesty and Culture</h2>\r\n      <p>Morocco is a Muslim country and, while cities are used to tourists in typical travel clothing, covering shoulders and knees is appreciated and genuinely more comfortable in mosques, medinas, and rural villages. Loose, lightweight trousers or a maxi skirt plus a light scarf (useful for sun, wind, and covering up at short notice) go a long way for any traveler, not just women.</p>\r\n\r\n      <h2>Footwear</h2>\r\n      <p>One pair of comfortable, closed walking shoes handles cobbled medina lanes, souk floors, and light hiking; sandals are worth adding for hammams, riads, and hot afternoons. Save your newest shoes for after the trip — medina streets are dusty and occasionally uneven, and they'll show it.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Pack a headscarf or buff even if you don't think you'll need one — it works as sun protection, dust protection on a camel trek, and quick modest coverage at a mosque exterior or rural stop.</p>\r\n      </div>\r\n\r\n      <h2>Practical Extras</h2>\r\n      <p>A universal power adapter (Morocco uses the European two-round-pin plug), a portable charger for long driving days, hand sanitizer and tissues (public toilets don't always stock them), any prescription medication in original packaging, and a reusable water bottle — tap water isn't recommended for drinking, but bottled water is cheap and widely available everywhere.</p>\r\n\r\n      <h2>Heading to the Desert Specifically</h2>\r\n      <p>If your route includes a Sahara desert camp night, pack differently than for the rest of the trip — desert days are hot but nights regularly drop close to freezing outside summer. We've written a full <a href=\"blog-sahara-desert-packing-list.html\">Sahara desert packing list</a> covering exactly what to bring for that leg.</p>\r\n\r\n      <h2>What to Leave at Home</h2>\r\n      <p>Skip the money belt paranoia gear, oversized suitcases (narrow medina lanes and stepped riad entrances don't love wheeled luggage), and a full first-aid kit — pharmacies are common and well-stocked in every city. Pack light enough that you could comfortably carry your own bag up a flight of stairs, since you likely will at some point.</p>",
+  "cta": {
+    "h2": "Know What Season You're Packing For?",
+    "p": "Check our guide to the best time to visit Morocco before you finalize your packing list.",
+    "href": "blog-best-time-to-visit-morocco.html",
+    "label": "Best Time to Visit"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "What to Pack for a Sahara Desert Group Tour",
+      "meta": [],
+      "blurb": "Layers, sun protection, and the small extras people forget.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-packing-list.html",
+      "cta": "Read Article",
+      "image": "images/hero-sahara-dunes.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Best Time to Visit Morocco for Budget Travelers",
+      "meta": [],
+      "blurb": "Shoulder-season months that cut both crowds and prices.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-best-time-to-visit-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-countryside.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Morocco Visa Requirements: Do You Need One?",
+      "meta": [],
+      "blurb": "What to bring to the border alongside your packed bag.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-visa-requirements.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-visa-passport.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

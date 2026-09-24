@@ -1,0 +1,80 @@
+{
+  "file": "faqs.html",
+  "meta": {
+    "title": "FAQs | Shared Morocco Adventures",
+    "description": "Answers to common questions about booking a shared group tour in Morocco: group sizes, accommodation, pricing, and what to pack.",
+    "canonical": "https://www.sharedmoroccoadventures.com/faqs.html",
+    "ogTitle": "FAQs",
+    "ogDescription": "Answers to common questions about booking a shared group tour in Morocco: group sizes, accommodation, pricing, and what to pack.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-atlas-mountains-toubkal.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "FAQs",
+    "h1": "Frequently asked questions",
+    "lead": "",
+    "image": "images/blog-atlas-mountains-toubkal.jpg"
+  },
+  "categories": [
+    {
+      "eyebrow": "Booking",
+      "h2": "Reservations &amp; Payment",
+      "items": [
+        {
+          "q": "How do I book a spot?",
+          "a": "<p>Pick a trip from our <a href=\"tours.html\">Group Tours</a> page and reach out through the <a href=\"contact.html\">contact form</a> with your preferred departure date. We'll confirm availability and send payment instructions.</p>"
+        },
+        {
+          "q": "Do I need to pay the full amount upfront?",
+          "a": "<p>No — a deposit secures your seat, with the balance due before departure. Full details are sent with your booking confirmation.</p>"
+        },
+        {
+          "q": "What's your cancellation policy?",
+          "a": "<p>Deposits are refundable up to 14 days before departure. Cancellations within 14 days are handled case-by-case — contact us and we'll do our best to help.</p>"
+        }
+      ]
+    },
+    {
+      "eyebrow": "On The Road",
+      "h2": "Groups &amp; Accommodation",
+      "items": [
+        {
+          "q": "How big are the groups?",
+          "a": "<p>Most departures run between 6 and 16 travelers — small enough to stay sociable and personal, large enough to keep prices low.</p>"
+        },
+        {
+          "q": "Is accommodation private or shared?",
+          "a": "<p>Our listed prices are based on shared twin or dorm-style rooms. If you'd prefer a private room, let us know when booking — it's available as a paid upgrade, subject to availability.</p>"
+        },
+        {
+          "q": "What's the typical traveler on these trips like?",
+          "a": "<p>A mix of solo travelers, couples, and friend groups, mostly in their 20s to 40s, looking for an affordable, sociable way to see Morocco.</p>"
+        }
+      ]
+    },
+    {
+      "eyebrow": "Practical",
+      "h2": "Packing &amp; Logistics",
+      "items": [
+        {
+          "q": "What should I pack?",
+          "a": "<p>Layers — Morocco's temperature swings a lot between day and night, especially in the desert and mountains. Bring sun protection, comfortable walking shoes, and a warm layer for desert camp nights.</p>"
+        },
+        {
+          "q": "Do I need travel insurance?",
+          "a": "<p>Yes, travel insurance is required for all our trips and is not included in the trip price.</p>"
+        },
+        {
+          "q": "Where do trips start and end?",
+          "a": "<p>Pickup and drop-off points vary by route — check the specific tour page for details, or ask us if you need a different city.</p>"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "h2": "Still have questions?",
+    "p": "Send us a message and we'll get back to you within 24 hours.",
+    "href": "contact.html",
+    "label": "Contact Us"
+  }
+}

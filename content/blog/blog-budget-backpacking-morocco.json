@@ -1,0 +1,65 @@
+{
+  "file": "blog-budget-backpacking-morocco.html",
+  "slug": "blog-budget-backpacking-morocco",
+  "meta": {
+    "title": "How to Backpack Morocco on a Budget | Shared Morocco Adventures",
+    "description": "Realistic daily costs, money-saving tips, and where backpackers overspend in Morocco. A practical budget guide for hostels, food, and shared transport.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-budget-backpacking-morocco.html",
+    "ogTitle": "How to Backpack Morocco on a Budget",
+    "ogDescription": "Realistic daily costs, money-saving tips, and where backpackers overspend in Morocco. A practical budget guide for hostels, food, and shared transport.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-medina-alley.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Budget Tips",
+    "h1": "How to Backpack Morocco on a Budget",
+    "lead": "Morocco can be one of the cheapest countries in the world to travel well — if you know where the money actually goes.",
+    "image": "images/blog-medina-alley.jpg"
+  },
+  "body": "<p>Morocco has a reputation as an affordable destination, and it largely lives up to it — but \"affordable\" and \"cheap by accident\" are two different things. Backpackers who plan loosely often end up paying tourist-taxi prices for routes a shared minivan could cover for a fraction of the cost. Here's what a realistic budget actually looks like, and where the savings really come from.</p>\r\n\r\n      <h2>What a Daily Budget Looks Like</h2>\r\n      <p>A no-frills backpacker day in Morocco — dorm bed, street food, local transport — typically runs €20-30. Step up to a private room in a budget riad, a couple of sit-down meals, and the occasional paid attraction, and you're looking at €35-55 a day. Riad dorm beds run roughly €8-15 a night depending on the city (Marrakech and Chefchaouen tend to be cheaper than Fes), and a filling tagine or plate of grilled skewers from a market stall rarely costs more than €3-5.</p>\r\n      <p>Where costs creep up fast is transport between cities and day trips to sights outside town. A grand taxi chartered privately from Marrakech to the Ourika Valley, for example, can easily run €50-70 for the round trip if you're negotiating alone — split across a shared group of 6-10 travelers, that same route often comes down to €15-25 per person.</p>\r\n\r\n      <h2>Where Backpackers Overspend Without Realizing It</h2>\r\n      <p>Three things quietly blow budgets in Morocco: unmetered petit taxis (always agree a price or insist on the meter before getting in), impulsive private day trips booked at your riad's front desk at a markup, and unplanned \"guide\" fees in medinas where someone offers to walk you somewhere and expects payment at the end. None of these are scams exactly — they're just the private-negotiation tax that budget travelers pay when they don't have a group rate to fall back on.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Withdraw cash in larger amounts less often — ATM fees in Morocco add up fast if you're pulling out small sums every couple of days. Most riads, shared tours, and market stalls run on cash, so budget for it upfront.</p>\r\n      </div>\r\n\r\n      <h2>Why Shared Transport Beats Piecing It Together</h2>\r\n      <p>For routes like Marrakech to the Sahara, Fes to Chefchaouen, or day trips to the Atlas Mountains, public buses exist but often run infrequently and don't drop you at the actual sights. Piecing together grand taxis solo means either overpaying for a private car or waiting around for a taxi to fill with other passengers, which can take hours in low season. A scheduled shared group day trip or multi-day tour solves both problems at once: a fixed departure time, a set per-person price, and the route already planned around the good viewpoints instead of just the fastest road.</p>\r\n      <p>It's also simply more fun — you're not budgeting alone at a guesthouse table, you're splitting the cost and the experience with other travelers doing the same trip.</p>\r\n\r\n      <h2>A Sample Week on a Backpacker Budget</h2>\r\n      <p>Three nights in a Marrakech riad dorm (~€36), a shared day trip to the Agafay Desert or Ourika Valley (~€20), a 3-day shared Sahara tour including transport, meals, and a desert camp night (roughly €120-160 depending on season and route), plus food and incidentals at €25/day — a full week covering Marrakech and the desert comes in comfortably under €350 per person without cutting corners on the experience.</p>",
+  "cta": {
+    "h2": "Skip the Negotiating, Join a Shared Day Trip",
+    "p": "See more of Morocco for less by splitting transport and guiding costs with fellow travelers.",
+    "href": "day-trips.html",
+    "label": "Browse Day Trips"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "How Much Does a Trip to Morocco Cost?",
+      "meta": [],
+      "blurb": "A full line-by-line budget breakdown for planning your trip.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-trip-cost-budget-breakdown.html",
+      "cta": "Read Article",
+      "image": "images/blog-moroccan-spices-souk.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "A Guide to Riads: Budget-Friendly Accommodation",
+      "meta": [],
+      "blurb": "How to find great value riads without sacrificing comfort.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-riads-budget-accommodation.html",
+      "cta": "Read Article",
+      "image": "images/blog-riad-courtyard.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Shared vs Private Tours: Which Saves More",
+      "meta": [],
+      "blurb": "A real cost comparison to help you choose the right tour style.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-shared-vs-private-tours.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

@@ -1,0 +1,65 @@
+{
+  "file": "blog-riads-budget-accommodation.html",
+  "slug": "blog-riads-budget-accommodation",
+  "meta": {
+    "title": "Budget Riads in Morocco: A Traveler's Guide | Shared Morocco Adventures",
+    "description": "What a riad is, realistic dorm and private-room prices, and how to pick a good budget riad in Marrakech, Fes, or Chefchaouen.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-riads-budget-accommodation.html",
+    "ogTitle": "A Guide to Riads: Budget-Friendly Accommodation in Morocco",
+    "ogDescription": "What a riad is, realistic dorm and private-room prices, and how to pick a good budget riad in Marrakech, Fes, or Chefchaouen.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-riad-courtyard.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Accommodation",
+    "h1": "A Guide to Riads: Budget-Friendly Accommodation in Morocco",
+    "lead": "Traditional courtyard houses turned guesthouses are Morocco's best-kept budget secret — here's how to find a great one.",
+    "image": "images/blog-riad-courtyard.jpg"
+  },
+  "body": "<p>Ask any backpacker what surprised them most about Morocco and a lot of them will say the same thing: the accommodation. For a fraction of what a hotel room costs in Europe, you can wake up under a carved cedar ceiling, eat breakfast beside a tiled fountain, and climb to a rooftop terrace with a view over the medina. That's a riad — and once you understand how they work, you'll never want to book a generic hotel in Morocco again.</p>\r\n\r\n      <h2>What Exactly Is a Riad</h2>\r\n      <p>A riad is a traditional Moroccan house built around an interior courtyard, historically with a garden or fountain at its center and rooms opening inward rather than onto the street. Most riads you'll stay in today are old family homes that have been restored and converted into small guesthouses, usually with anywhere from 4 to 12 rooms. Because they're tucked inside the old medina walls, they tend to be quieter and more atmospheric than modern hotels on the main roads — even though they're often just a five-minute walk from the souks.</p>\r\n      <p>The catch is that riads aren't hostels. Most don't offer dorm beds, so if you're traveling completely solo on a tight budget, you'll usually be paying for a private double room even if you only need one bed. This is exactly where a shared group tour has an edge — when you book with a group, accommodation costs get split or bundled into the trip price, so you get the riad experience without carrying the full cost yourself.</p>\r\n\r\n      <h2>Realistic Budget Prices</h2>\r\n      <p>In a city like Marrakech, Fes, or Essaouira, a simple room in a budget riad with a shared bathroom typically runs €12–20 per night per person if you're splitting a double or triple room. A private ensuite room in a well-reviewed budget riad usually lands between €20–35 a night. True hostel dorm beds do exist in the bigger cities and run closer to €7–12, but they're far less common than riads and often lack the character. In smaller towns like Chefchaouen or Sefrou, prices drop further — a comfortable double room with breakfast can be found for under €18 total in the off-season.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Always ask if breakfast is included before comparing prices — a Moroccan riad breakfast of msemen, bread, honey, olive oil, and mint tea can save you a good €4–6 you'd otherwise spend at a café.</p>\r\n      </div>\r\n\r\n      <h2>How to Spot a Good One</h2>\r\n      <p>Read the last two or three months of reviews rather than the overall star rating, since riads can change management or maintenance quality quickly. Look specifically for comments about noise (some riads sit right on a busy alley), hot water reliability, and how easy it was to find the entrance — medina doorways are notoriously unmarked and a riad that offers to meet you at a nearby landmark is a good sign of genuine hospitality.</p>\r\n      <p>Location matters more than star rating. A riad just inside the medina walls, a short walk from a main square like Jemaa el-Fnaa in Marrakech or the Bab Boujloud gate in Fes, gives you the best of both worlds: authentic atmosphere and easy access. Riads deep in the medina's inner alleys can be magical but are genuinely hard to navigate after dark with luggage, especially on your first night in the country.</p>\r\n\r\n      <h2>Booking Tips</h2>\r\n      <p>Book riads directly by email or WhatsApp when you can — many owners will match or beat the price shown on booking platforms since they avoid the commission. Confirm your arrival time and ask about luggage storage if you arrive before check-in. And if riad-hunting solo sounds like a hassle, it's one less thing to think about on a shared group tour, where accommodation is pre-vetted and already sorted as part of the itinerary.</p>",
+  "cta": {
+    "h2": "Skip the Guesswork on Where to Stay",
+    "p": "Join a shared group tour and let us handle the riad bookings, transfers, and logistics for you.",
+    "href": "contact.html",
+    "label": "Get in Touch"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "How Much Does a Trip to Morocco Cost?",
+      "meta": [],
+      "blurb": "A full budget breakdown covering accommodation, food, tours, and transport.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-trip-cost-budget-breakdown.html",
+      "cta": "Read Article",
+      "image": "images/blog-moroccan-spices-souk.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How to Backpack Morocco on a Budget",
+      "meta": [],
+      "blurb": "Practical tips for stretching every dirham on the road.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-budget-backpacking-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-medina-alley.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "A Backpacker's Guide to the Marrakech Medina",
+      "meta": [],
+      "blurb": "Navigate the alleys, souks, and riad-lined lanes with confidence.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-marrakech-medina-guide.html",
+      "cta": "Read Article",
+      "image": "images/marrakech-medina-souk.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

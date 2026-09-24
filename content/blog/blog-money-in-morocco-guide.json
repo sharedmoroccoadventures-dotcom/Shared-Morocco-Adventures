@@ -1,0 +1,65 @@
+{
+  "file": "blog-money-in-morocco-guide.html",
+  "slug": "blog-money-in-morocco-guide",
+  "meta": {
+    "title": "Money in Morocco: Dirhams, ATMs & Tipping | Shared Morocco Adventures",
+    "description": "A practical guide to money in Morocco — exchanging dirhams, using ATMs and cards, how much to tip, and how much cash to carry day to day.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-money-in-morocco-guide.html",
+    "ogTitle": "Money in Morocco: Dirhams, ATMs, Cards & Tipping",
+    "ogDescription": "How to handle currency, cards, ATMs, and tipping on a Morocco trip.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-moroccan-dirham-currency.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Budget Tips",
+    "h1": "Money in Morocco: Dirhams, ATMs, Cards &amp; Tipping",
+    "lead": "The dirham is a closed currency, which changes how you should plan your cash for the trip.",
+    "image": "images/blog-moroccan-dirham-currency.jpg"
+  },
+  "body": "<p>Morocco's currency, the Moroccan dirham (MAD), is a \"closed\" currency — it can't be legally bought or sold outside the country in any meaningful volume, so you won't find it at your home airport exchange desk. That's not a problem; it just means your money plan starts the moment you land, not before.</p>\r\n\r\n      <h2>Getting Dirhams</h2>\r\n      <p>ATMs are the easiest option and are widely available at airports, in city centers, and in most towns tourists pass through — just check with your home bank about foreign transaction fees beforehand. Currency exchange bureaus (bureaux de change) at the airport and in medinas are also common and generally offer fair rates with no commission; avoid anyone offering to exchange money on the street. Keep your exchange receipts if you want to convert leftover dirhams back at the airport before flying home, since some bureaus ask for them.</p>\r\n\r\n      <h2>Cards vs Cash</h2>\r\n      <p>Riads, larger restaurants, and shops in tourist areas increasingly accept cards, but souks, small cafés, taxis, and rural areas are still overwhelmingly cash-based. Carry enough dirhams for a few days at a time rather than relying on finding a card machine mid-transaction, especially once you're outside Marrakech, Fes, or Casablanca.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Break large notes (200 dirham) whenever you can at a bigger shop or hotel — small souk stalls and taxi drivers often genuinely can't make change for them.</p>\r\n      </div>\r\n\r\n      <h2>Tipping Norms</h2>\r\n      <p>Tipping isn't mandatory but is very much expected in tourism-facing roles. As a rough guide: 10–20 dirhams for a hotel porter, 20–50 dirhams per day for a driver-guide on a multi-day tour, a few dirhams for a petit taxi if you round up rather than a percentage, and 10% at sit-down restaurants where a service charge isn't already included. On our group tours, guides and drivers work hard across long days, and tips are the main way travelers show appreciation directly.</p>\r\n\r\n      <h2>How Much to Carry Day to Day</h2>\r\n      <p>Budget travelers can comfortably get by on the equivalent of €25–40 a day outside of pre-booked accommodation and tours, covering meals, local transport, and souvenirs — see our full <a href=\"blog-morocco-trip-cost-budget-breakdown.html\">trip cost budget breakdown</a> for a detailed daily split. It's worth carrying a bit more than you expect to need on desert or mountain legs of a trip, where ATMs can be scarce for a day or two.</p>\r\n\r\n      <h2>Staying Safe with Cash</h2>\r\n      <p>Split your cash between a couple of places (a day bag and a secure pocket or money belt) rather than carrying it all in one wallet, and avoid flashing large notes in busy souks. Beyond that, normal city-travel common sense applies — Morocco isn't a place where cash theft from tourists is a major concern, but it's still cash, so treat it accordingly.</p>",
+  "cta": {
+    "h2": "See What a Group Tour Actually Costs",
+    "p": "Our fixed per-person prices bundle transport, guide, and most accommodation — no surprise costs mid-trip.",
+    "href": "tours.html",
+    "label": "Browse Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "How Much Does a Trip to Morocco Cost?",
+      "meta": [],
+      "blurb": "A day-by-day cost breakdown for a realistic budget itinerary.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-trip-cost-budget-breakdown.html",
+      "cta": "Read Article",
+      "image": "images/blog-moroccan-spices-souk.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How to Bargain in Moroccan Souks",
+      "meta": [],
+      "blurb": "Starting prices, how much to counter, and when to walk away.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-how-to-bargain-souks.html",
+      "cta": "Read Article",
+      "image": "images/blog-souk-lanterns.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Morocco Visa Requirements: Do You Need One?",
+      "meta": [],
+      "blurb": "Which nationalities travel visa-free, and what to bring to the border.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-visa-requirements.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-visa-passport.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

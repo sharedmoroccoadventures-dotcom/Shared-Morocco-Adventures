@@ -1,0 +1,65 @@
+{
+  "file": "blog-shared-vs-private-tours.html",
+  "slug": "blog-shared-vs-private-tours",
+  "meta": {
+    "title": "Shared vs Private Tours in Morocco | Shared Morocco Adventures",
+    "description": "A real cost comparison between shared and private tours in Morocco, plus when each style actually makes sense for your trip and budget.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-shared-vs-private-tours.html",
+    "ogTitle": "Shared vs Private Tours in Morocco: Which Saves More",
+    "ogDescription": "A real cost comparison between shared and private tours in Morocco, plus when each style actually makes sense for your trip and budget.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-group-travelers-morocco.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Budget Tips",
+    "h1": "Shared vs Private Tours in Morocco: Which Saves More",
+    "lead": "A straightforward cost comparison to help you pick the right tour style for your trip, your budget, and your travel group.",
+    "image": "images/blog-group-travelers-morocco.jpg"
+  },
+  "body": "<p>\"Private tour\" sounds like the upgrade, and in some ways it is — but it also comes with a price tag that only makes sense for certain travelers. Here's what private actually costs in Morocco, what shared group travel costs instead, and how to figure out which one is the smarter call for your specific trip.</p>\r\n\r\n      <h2>What a Private Driver-Guide Actually Costs</h2>\r\n      <p>A private driver-guide with an air-conditioned vehicle in Morocco typically runs €80-150 per day depending on the route, vehicle size, and season, before you add fuel for longer desert routes, your guide's meals and accommodation, and any entrance fees. For a 3-day Sahara loop from Marrakech, that puts a private trip in the €300-450 range for the vehicle and guide alone — and that's the same price whether you're traveling solo or with three friends, since it's charged per vehicle, not per person.</p>\r\n\r\n      <h2>What a Shared Minivan Seat Costs</h2>\r\n      <p>A shared group tour covering the same 3-day Marrakech-to-Sahara route, with a small group split across a shared minivan, typically runs €120-180 per person including transport, a shared guide, and a desert camp night. For a solo traveler or a couple, that's often less than half of what the same route costs privately — because the vehicle and guide costs are split across everyone on board rather than carried by just you.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>If you're torn between the two, check the group size cap on the shared tour first — a shared trip capped at 8-12 travelers still feels intimate and social, not like a mass-tourism bus tour.</p>\r\n      </div>\r\n\r\n      <h2>When Private Actually Wins</h2>\r\n      <p>Private tours make real financial sense once you're traveling as a group of four or more, since the flat per-vehicle cost starts to divide down close to shared-tour pricing while giving you full control over the schedule. Private is also worth it if you're on a tight, non-negotiable timeline — a business trip with a day free, or a family with young kids who need flexible stop timing — where the ability to start late, skip a stop, or linger somewhere longer outweighs the cost difference.</p>\r\n\r\n      <h2>When Shared Wins</h2>\r\n      <p>For solo travelers, couples, and small groups of friends, shared tours almost always come out ahead on cost, and often on experience too — you're not staring at scenery alone in the back of a private car, you're sharing the trip with other travelers, which for many people is a genuine highlight rather than a compromise. Budget-conscious travelers doing multiple routes (say, a Sahara loop plus a few Marrakech day trips) see the savings compound fast, since every leg is priced per-seat instead of per-vehicle.</p>\r\n\r\n      <h2>The Real Answer: It Depends on Your Group Size</h2>\r\n      <p>As a rough rule of thumb: traveling solo or as a couple, shared tours typically save 40-60% over private for the same route. Traveling as a group of four or more with a fixed schedule, the gap narrows enough that private can be worth the extra cost for the flexibility. Either way, it's worth pricing out both options for your specific route before booking — the math isn't always what you'd expect.</p>",
+  "cta": {
+    "h2": "See Real Shared Tour Pricing",
+    "p": "Compare routes and departure dates for our small-group shared tours across Morocco.",
+    "href": "tours.html",
+    "label": "View Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "How Much Does a Trip to Morocco Cost?",
+      "meta": [],
+      "blurb": "A full budget breakdown covering every stage of a trip.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-trip-cost-budget-breakdown.html",
+      "cta": "Read Article",
+      "image": "images/blog-moroccan-spices-souk.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How to Backpack Morocco on a Budget",
+      "meta": [],
+      "blurb": "Realistic daily costs and where backpackers overspend.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-budget-backpacking-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-medina-alley.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Group Travel Etiquette: Making Friends on the Road",
+      "meta": [],
+      "blurb": "Tips for getting the most out of shared group travel.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-group-travel-etiquette.html",
+      "cta": "Read Article",
+      "image": "images/marrakech-jemaa-el-fnaa.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

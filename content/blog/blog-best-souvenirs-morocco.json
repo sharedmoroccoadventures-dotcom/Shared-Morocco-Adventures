@@ -1,0 +1,65 @@
+{
+  "file": "blog-best-souvenirs-morocco.html",
+  "slug": "blog-best-souvenirs-morocco",
+  "meta": {
+    "title": "Best Souvenirs to Buy in Morocco (and What to Skip) | Shared Morocco Adventures",
+    "description": "What's actually worth buying in Morocco — argan oil, pottery, rugs, leather, and spices — plus the common fakes and tourist traps to skip.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-best-souvenirs-morocco.html",
+    "ogTitle": "Best Souvenirs to Buy in Morocco (and What to Skip)",
+    "ogDescription": "What's genuinely worth buying in Morocco's souks, and the common fakes to avoid.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-morocco-souvenirs.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Culture",
+    "h1": "Best Souvenirs to Buy in Morocco (and What to Skip)",
+    "lead": "The souks are full of genuinely beautiful craftsmanship — and a fair amount aimed squarely at tourists who don't know the difference.",
+    "image": "images/blog-morocco-souvenirs.jpg"
+  },
+  "body": "<p>Morocco's souks can feel overwhelming — every stall seems to sell some version of the same lanterns, leather, and textiles. A little context on what's genuinely worth your suitcase space (and what's mass-produced filler) makes shopping far more enjoyable and a lot less like guesswork.</p>\r\n\r\n      <h2>Worth Buying</h2>\r\n      <p><strong>Argan oil</strong> — genuine cosmetic and culinary argan oil from a women's cooperative is one of Morocco's best-value products; buy from a cooperative shop rather than a random souk stall for a better guarantee of authenticity. <strong>Ceramics and pottery</strong> — Fes and Safi are the traditional centers, known for blue-and-white geometric patterns and tagine pots that are genuinely functional, not just decorative. <strong>Berber rugs</strong> — vintage and new wool or kilim rugs from the Atlas and Middle Atlas regions, with prices varying hugely by size, age, and knot density; buying from a cooperative or a shop that explains the region and technique tends to be more reliable than a generic souk stall. <strong>Leather goods</strong> — bags, poufs, and babouche slippers from the Fes and Marrakech tanneries, best inspected for stitching quality and a genuine leather smell rather than a plastic one. <strong>Spices and saffron</strong> — sold by weight in the souk, a good way to bring home something you'll actually use.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Real saffron is expensive everywhere — genuine Moroccan saffron rarely sells for a bargain price. If a deal looks too good, it's likely safflower or turmeric dyed to look similar.</p>\r\n      </div>\r\n\r\n      <h2>Worth Skipping</h2>\r\n      <p>Mass-produced \"handmade\" items stamped out in bulk (often identical across ten stalls in a row) rarely justify a premium price. Cheap \"argan oil\" sold in unmarked bottles at rock-bottom prices is frequently cut with other oils. Fossils and \"ancient\" trilobites sold at desert stops are almost always modern reproductions, however convincing they look. And oversized rugs bought on impulse are worth a pause — factor in how you'll actually get a large rug home before committing.</p>\r\n\r\n      <h2>Where to Buy</h2>\r\n      <p>Souks give you the widest selection and the most room to negotiate, but require some confidence and a willingness to walk away — see our full <a href=\"blog-how-to-bargain-souks.html\">guide to bargaining in Moroccan souks</a> before you start shopping seriously. Women's cooperatives (for argan oil, rugs, and weaving) typically have fixed or near-fixed prices, and buying there supports the artisans more directly than a middleman shop.</p>\r\n\r\n      <h2>Getting It Home</h2>\r\n      <p>Small items pack easily in checked luggage — wrap ceramics in clothing for padding. Larger rugs and furniture can usually be shipped by the seller for an additional fee; ask for a written quote and estimated delivery time before paying, and only use sellers who seem set up for it regularly rather than a one-off arrangement.</p>",
+  "cta": {
+    "h2": "Shop with a Local Guide Alongside You",
+    "p": "Our Marrakech medina walking tour includes stops at the souks with a local guide who knows the honest sellers.",
+    "href": "daytrip-marrakech-medina-walking-tour.html",
+    "label": "See the Walking Tour"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "How to Bargain in Moroccan Souks",
+      "meta": [],
+      "blurb": "Starting prices, how much to counter, and when to walk away.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-how-to-bargain-souks.html",
+      "cta": "Read Article",
+      "image": "images/blog-souk-lanterns.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "A Backpacker's Guide to the Marrakech Medina",
+      "meta": [],
+      "blurb": "Navigate the souks and know what's worth the entrance fee.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-marrakech-medina-guide.html",
+      "cta": "Read Article",
+      "image": "images/marrakech-medina-souk.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Moroccan Mint Tea Culture and Etiquette",
+      "meta": [],
+      "blurb": "Why you'll be offered tea in nearly every shop you enter.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-moroccan-mint-tea-culture.html",
+      "cta": "Read Article",
+      "image": "images/blog-mint-tea.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

@@ -1,0 +1,65 @@
+{
+  "file": "blog-solo-female-travel-morocco.html",
+  "slug": "blog-solo-female-travel-morocco",
+  "meta": {
+    "title": "Solo Female Travel in Morocco: A Group Tour Guide | Shared Morocco Adventures",
+    "description": "Practical advice for solo female travel in Morocco, from dress and medina navigation to why shared group tours are a popular, comfortable choice.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-solo-female-travel-morocco.html",
+    "ogTitle": "Solo Female Travel in Morocco: A Group Tour Guide",
+    "ogDescription": "Practical advice for solo female travel in Morocco, from dress and medina navigation to why shared group tours are a popular, comfortable choice.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-solo-female-traveler.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Solo Travel",
+    "h1": "Solo Female Travel in Morocco: A Group Tour Guide",
+    "lead": "Morocco is genuinely welcoming to solo women travelers — a bit of preparation and the right kind of company make it even easier.",
+    "image": "images/blog-solo-female-traveler.jpg"
+  },
+  "body": "<p>Every year, more solo women travel through Morocco than the country's reputation might suggest, and the vast majority come away having had a warm, memorable trip. That said, it's a country where a little cultural awareness goes a long way, and where the busy energy of a medina can feel overwhelming on your first day if you're navigating it completely alone. Here's a grounded, practical look at what actually helps.</p>\r\n\r\n      <h2>What to Wear (and Why It's Not Complicated)</h2>\r\n      <p>You don't need to cover your hair or wear anything specialized, but Morocco is a conservative country outside the resort pockets, and dressing modestly — shoulders and knees covered, loose rather than fitted — earns you an easier, more comfortable experience day to day, particularly in medinas and smaller towns. A light scarf is genuinely useful: for sun, for dust, and for popping over your shoulders if you duck into a mosque courtyard or rural village. Pack breathable layers rather than anything skin-tight, and you'll blend in enough to attract noticeably less attention.</p>\r\n\r\n      <h2>Navigating Medinas With Confidence</h2>\r\n      <p>The medinas of Marrakech and Fes are mazes by design, and getting lost is part of the experience — but it can feel different when you're solo and someone offers unsolicited \"help\" finding your way, which sometimes comes with an expected tip or a detour into a shop. The fix isn't to avoid medinas, it's to walk with purpose, decline offers of guidance firmly and politely (\"La, shukran\" — no, thank you — goes a long way), and use offline maps so you're never visibly lost. None of this is unique to Morocco; it's standard medina-navigation know-how that gets easier within a day or two.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Download an offline map of the medina (Marrakech and Fes both work well on Maps.me or Google Maps offline) before you arrive — it removes 90% of the \"helpful stranger\" interactions before they start.</p>\r\n      </div>\r\n\r\n      <h2>Why Shared Group Tours Are Especially Popular With Solo Women</h2>\r\n      <p>This is where shared tours genuinely shine for solo travelers. Joining a small group means you're never eating dinner alone if you don't want to, never negotiating a taxi fare by yourself in an unfamiliar town, and never wondering whether a guide is reputable — they've already been vetted by the tour operator. It also solves the loneliness that can creep in on a longer solo trip: shared desert camps, group riad dinners, and multi-day itineraries naturally put you alongside other travelers, many of whom are also solo. For routes like the Sahara, where a private overnight trip can feel isolating with just you and a driver you've just met, a shared group with a fixed, well-reviewed operator is simply a more comfortable way to do it.</p>\r\n      <p>It's not about being unable to handle Morocco alone — plenty of women do, easily — it's that shared travel removes the small daily frictions (bargaining alone, eating alone, night transport alone) that can wear on even confident solo travelers over a two-week trip.</p>\r\n\r\n      <h2>A Few Practical Extras</h2>\r\n      <p>Keep a printed or offline copy of your riad's address in Arabic — it makes taxi rides smoother than trying to spell it out phonetically. Evenings in Marrakech and Fes are lively and generally safe in busy areas like Jemaa el-Fnaa, but as anywhere, stick to well-lit, populated streets late at night. And don't hesitate to say no firmly to persistent vendors — it's a completely normal, expected part of souk culture and not considered rude.</p>",
+  "cta": {
+    "h2": "Travel Morocco With Built-In Company",
+    "p": "Join a small shared group tour and skip the solo-logistics stress without giving up independence.",
+    "href": "tours.html",
+    "label": "View Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Group Travel Etiquette: Making Friends on the Road",
+      "meta": [],
+      "blurb": "How to get the most out of traveling alongside a shared group.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-group-travel-etiquette.html",
+      "cta": "Read Article",
+      "image": "images/marrakech-jemaa-el-fnaa.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "A Backpacker's Guide to the Marrakech Medina",
+      "meta": [],
+      "blurb": "How to navigate the medina's alleys and souks with confidence.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-marrakech-medina-guide.html",
+      "cta": "Read Article",
+      "image": "images/marrakech-medina-souk.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "First-Timer's Guide to Traveling Morocco on a Budget",
+      "meta": [],
+      "blurb": "Everything a first-time visitor needs to know before landing.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-first-timers-guide-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-imperial-gate.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

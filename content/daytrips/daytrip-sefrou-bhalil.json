@@ -1,0 +1,92 @@
+{
+  "file": "daytrip-sefrou-bhalil.html",
+  "slug": "daytrip-sefrou-bhalil",
+  "meta": {
+    "title": "Sefrou & Bhalil Half-Day Trip | Shared Morocco Adventures",
+    "description": "A half-day shared trip from Fes to the cave houses of Bhalil and the walled medina of Sefrou. Our cheapest day trip, from €19pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/daytrip-sefrou-bhalil.html",
+    "ogTitle": "Sefrou & Bhalil Half-Day Trip",
+    "ogDescription": "A shared half-day trip from Fes to the cave houses of Bhalil and the old town of Sefrou. From €19pp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/fes-medina-tannery.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Sefrou and Bhalil Half-Day Trip\",\r\n  \"description\": \"A shared half-day trip from Fes to the troglodyte cave houses of Bhalil and the walled medina of Sefrou.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"19\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Day Trip · From Fes",
+    "h1": "Sefrou &amp; Bhalil Half-Day Trip",
+    "lead": "Fes → Bhalil Cave Houses → Sefrou Old Town → Fes",
+    "image": "images/fes-medina-tannery.jpg"
+  },
+  "back": {
+    "href": "day-trips-fes.html",
+    "label": "All Day Trips from Fes"
+  },
+  "overview": {
+    "eyebrow": "About This Trip",
+    "h2": "Our cheapest and most local trip",
+    "paras": [
+      "Our cheapest and most local day trip. Bhalil is known for its troglodyte cave houses, some still inhabited today, while Sefrou is a relaxed former capital famous for cherry orchards, pottery, and a walled medina that feels like a smaller, quieter Fes.",
+      "At roughly 3.5 hours round trip, this is a great budget add-on alongside a longer day trip or a few days exploring the Fes medina — it wraps up around lunchtime."
+    ],
+    "chips": [
+      "📍 From Fes",
+      "🚗 ≈65 km round trip · about 1.5 hrs driving",
+      "🗓 Departs daily"
+    ],
+    "image": "images/fes-medina-tannery.jpg"
+  },
+  "highlights": {
+    "eyebrow": "Highlights",
+    "h2": "What you'll see",
+    "chips": [
+      "Cave Houses",
+      "Sefrou Medina",
+      "Pottery Workshops"
+    ]
+  },
+  "includes": [
+    "Shared minivan",
+    "Driver-guide",
+    "Guided visits to Bhalil and Sefrou",
+    "Hotel/riad pickup"
+  ],
+  "excludes": [
+    "Lunch",
+    "Travel insurance"
+  ],
+  "price": {
+    "from": "From",
+    "amount": "€19",
+    "sub": "per person · departs daily",
+    "ctaHref": "contact.html?trip=Sefrou%20and%20Bhalil%20Half-Day%20Trip",
+    "ctaText": "Reserve This Half-Day Trip"
+  },
+  "good": {
+    "eyebrow": "Good to Know",
+    "h2": "A great budget add-on",
+    "paras": [
+      "Since it wraps up around lunchtime, this pairs well with a free afternoon back in the Fes medina, or as a lower-cost alternative to a full-day trip.",
+      "<strong>Booking terms:</strong> Send an enquiry first; we confirm the departure time, final price, and pickup details by email. No payment is taken through this website."
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQs",
+    "h2": "Sefrou &amp; Bhalil Questions",
+    "items": [
+      {
+        "q": "Are the Bhalil cave houses still lived in?",
+        "a": "<p>Some are — a few families still occupy homes built into the hillside, and guided visits are respectful, small-group affairs rather than intrusive tourism.</p>"
+      },
+      {
+        "q": "Is this trip good for a short stay in Fes?",
+        "a": "<p>Yes — at roughly 3.5 hours round trip, it's our shortest full excursion, ideal if you only have a day or two in Fes and want a taste of the wider region.</p>"
+      },
+      {
+        "q": "Can I buy pottery in Sefrou?",
+        "a": "<p>Yes, Sefrou has a small pottery-making tradition, and the guided stop usually includes a chance to see (and buy from) a local workshop.</p>"
+      }
+    ],
+    "extra": []
+  }
+}

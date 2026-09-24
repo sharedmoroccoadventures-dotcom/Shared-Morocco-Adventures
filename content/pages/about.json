@@ -1,0 +1,48 @@
+{
+  "file": "about.html",
+  "meta": {
+    "title": "About Us | Shared Morocco Adventures",
+    "description": "Shared Morocco Adventures runs affordable, fixed-date group tours across Morocco for solo travelers, couples, and friends on a budget.",
+    "canonical": "https://www.sharedmoroccoadventures.com/about.html",
+    "ogTitle": "About Us",
+    "ogDescription": "Shared Morocco Adventures runs affordable, fixed-date group tours across Morocco for solo travelers, couples, and friends on a budget.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/marrakech-medina-souk.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "About Us",
+    "h1": "Morocco is better shared",
+    "lead": "We started Shared Morocco Adventures because private tours were pricing budget travelers out of an incredible country.",
+    "image": "images/marrakech-medina-souk.jpg"
+  },
+  "sections": [
+    {
+      "kind": "overview",
+      "id": "",
+      "eyebrow": "Our Story",
+      "h2": "Built for travelers, not just tourists",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "stay",
+      "id": "",
+      "eyebrow": "What We Stand For",
+      "h2": "Our approach to group travel",
+      "lead": "",
+      "cards": [],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    }
+  ],
+  "cta": {
+    "h2": "Come travel with the group",
+    "p": "Browse our current fixed-date departures and find your route.",
+    "href": "tours.html",
+    "label": "Browse Group Tours"
+  }
+}

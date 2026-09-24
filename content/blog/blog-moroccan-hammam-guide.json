@@ -1,0 +1,65 @@
+{
+  "file": "blog-moroccan-hammam-guide.html",
+  "slug": "blog-moroccan-hammam-guide",
+  "meta": {
+    "title": "Moroccan Hammam Guide: What to Expect | Shared Morocco Adventures",
+    "description": "A first-timer's guide to the Moroccan hammam — what actually happens, local vs tourist spa hammams, etiquette, and what to bring.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-moroccan-hammam-guide.html",
+    "ogTitle": "Moroccan Hammam Guide: What to Expect",
+    "ogDescription": "What happens at a traditional Moroccan bathhouse, and how to prepare for your first visit.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-moroccan-hammam.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Culture",
+    "h1": "Moroccan Hammam Guide: What to Expect",
+    "lead": "One of the most genuinely relaxing (and least understood) experiences on a Morocco trip.",
+    "image": "images/blog-moroccan-hammam.jpg"
+  },
+  "body": "<p>A hammam is a traditional steam bathhouse, and in Morocco it's less a spa treatment than a everyday ritual — most Moroccans visit a neighborhood hammam weekly, not as a luxury but as routine deep cleaning and a social outing. For travelers, trying one is one of the most authentic cultural experiences available, and far more affordable than the word \"spa\" suggests.</p>\r\n\r\n      <h2>Local Hammam vs Tourist Spa Hammam</h2>\r\n      <p>You'll find two very different versions. A neighborhood hammam (hammam beldi) is unglamorous, cheap (often under 20 dirhams for entry), gender-segregated by set hours or separate sections, and entirely self-service unless you pay a small extra fee for a scrub attendant. A riad or spa hammam is set up specifically for tourists, costs considerably more, includes a scrub and often argan oil massage as standard, and is a gentler introduction if the local version feels intimidating for a first visit.</p>\r\n\r\n      <h2>What Actually Happens</h2>\r\n      <p>You undress to underwear (or fully, depending on the hammam and your comfort) in a changing area, then move through a sequence of increasingly hot steam rooms to open your pores. Once warmed up, you apply <em>savon beldi</em> (a dark, olive-oil-based black soap) all over, let it sit for a few minutes, then either scrub yourself or have an attendant scrub you with a rough exfoliating glove called a <em>kessa</em> — this is the part that removes a genuinely surprising amount of dead skin. A rinse, sometimes a clay mask, and you're done.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>If an attendant scrubs you at a local hammam, a small tip (10–20 dirhams) is customary and expected, even though the base entry fee is already paid.</p>\r\n      </div>\r\n\r\n      <h2>Etiquette to Know</h2>\r\n      <p>Hammams are strictly gender-separated, either by alternating hours or separate entrances, so you won't be sharing the space with the opposite sex. Modesty within your own gender's session is relaxed compared to Western norms — most locals go topless or fully nude — but underwear is completely fine and normal for tourists who prefer it. Bring your own flip-flops (floors are wet and can be slippery), and don't expect much English spoken at a local hammam — pointing and smiling gets you a long way.</p>\r\n\r\n      <h2>What to Bring</h2>\r\n      <p>A local hammam typically expects you to bring your own black soap, kessa glove, shampoo, and a bucket/bowl (all sold cheaply at any nearby hanut or souk stall) — ask your riad if you're unsure where to buy them. A spa hammam usually supplies everything, so just bring yourself and maybe a change of clothes for afterward.</p>\r\n\r\n      <h2>Is It Worth Doing?</h2>\r\n      <p>Genuinely, yes — even travelers who feel a bit awkward walking in usually leave saying it was a highlight, not just because of how clean and relaxed you feel afterward, but because it's one of the few experiences that isn't staged for tourists. Ask your riad host to recommend a nearby local hammam if you want the authentic version, or add a spa hammam session as an easy half-day treat between longer excursions.</p>",
+  "cta": {
+    "h2": "Staying Somewhere with Hammam Access?",
+    "p": "Many budget riads include hammam access or can arrange a visit — see our guide to choosing one.",
+    "href": "blog-riads-budget-accommodation.html",
+    "label": "Riad Accommodation Guide"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "A Guide to Riads: Budget-Friendly Accommodation",
+      "meta": [],
+      "blurb": "What a riad is, and how to spot a good one.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-riads-budget-accommodation.html",
+      "cta": "Read Article",
+      "image": "images/blog-riad-courtyard.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "A Backpacker's Guide to the Marrakech Medina",
+      "meta": [],
+      "blurb": "Get your bearings in the maze of alleys and souks.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-marrakech-medina-guide.html",
+      "cta": "Read Article",
+      "image": "images/marrakech-medina-souk.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Moroccan Mint Tea Culture and Etiquette",
+      "meta": [],
+      "blurb": "The ritual behind Morocco's favorite everyday tradition.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-moroccan-mint-tea-culture.html",
+      "cta": "Read Article",
+      "image": "images/blog-mint-tea.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

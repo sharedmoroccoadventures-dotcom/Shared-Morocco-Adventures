@@ -1,0 +1,65 @@
+{
+  "file": "blog-climbing-mount-toubkal.html",
+  "slug": "blog-climbing-mount-toubkal",
+  "meta": {
+    "title": "Climbing Mount Toubkal: A First-Timer's Guide | Shared Morocco Adventures",
+    "description": "Everything a first-timer needs to know about climbing Mount Toubkal, North Africa's highest peak — route, refuge, fitness, gear, and best season.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-climbing-mount-toubkal.html",
+    "ogTitle": "Climbing Mount Toubkal: A First-Timer's Guide",
+    "ogDescription": "Route, refuge, fitness, gear, and best season for climbing North Africa's highest peak.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-toubkal-summit.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Adventure",
+    "h1": "Climbing Mount Toubkal: A First-Timer's Guide",
+    "lead": "At 4,167 metres, Toubkal is North Africa's highest peak — and a realistic goal for a fit beginner with the right preparation.",
+    "image": "images/blog-toubkal-summit.jpg"
+  },
+  "body": "<p>Jbel Toubkal sits in the Toubkal National Park, less than two hours from Marrakech, which makes it one of the most accessible 4,000-metre peaks in the world — no expedition logistics, no permits beyond the park fee, and no technical climbing required outside winter conditions. That accessibility is exactly why so many travelers underestimate it. This is a genuine mountain, not a long hike, and treating it that way is what makes the summit day manageable rather than miserable.</p>\r\n\r\n      <h2>The Standard Route</h2>\r\n      <p>Almost everyone climbs via the South Cirque route from Imlil, a mountain village about 90 minutes from Marrakech. Day one is a steady 5–6 hour walk up to the Toubkal Refuge at around 3,200 metres, through the village of Aroumd and along the Mizane valley. Day two starts before dawn: a further 4–6 hour push up loose scree switchbacks to the summit, followed by a long descent back down to the refuge or all the way to Imlil, depending on your legs and schedule.</p>\r\n\r\n      <h2>Do You Need a Guide?</h2>\r\n      <p>Yes — a licensed mountain guide is legally required to climb within the national park, and practically speaking, you want one anyway. Guides know the route in poor visibility, carry basic emergency gear, and can read altitude sickness symptoms in a way most first-timers can't in themselves. Guides and mules (for carrying gear up to the refuge) are usually arranged through Imlil, either independently or as part of an organized trip.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Spend a night in Imlil (1,740m) before your climb rather than driving straight from Marrakech and starting the ascent the same day — it gives your body a head start on acclimatizing.</p>\r\n      </div>\r\n\r\n      <h2>Best Season</h2>\r\n      <p>Late spring through early autumn (May–October) is the standard non-technical window, when the route is clear of significant snow and ice. From November through April, the upper mountain typically requires crampons, an ice axe, and mountaineering experience — doable, but a different undertaking entirely, and not recommended for a first attempt without a very experienced guide.</p>\r\n\r\n      <h2>Fitness and Altitude</h2>\r\n      <p>You don't need climbing experience, but you do need solid cardiovascular fitness and comfort with long days on your feet — think multi-hour hill walking, not gym treadmill fitness. Altitude affects most people to some degree above 3,000 metres: headaches, breathlessness, and disturbed sleep at the refuge are common even for fit hikers. Go at a steady pace, hydrate constantly, and tell your guide immediately if you feel genuinely unwell rather than pushing through.</p>\r\n\r\n      <h2>What to Pack</h2>\r\n      <p>Proper broken-in hiking boots with ankle support, a warm insulated layer plus a waterproof shell, gloves and a warm hat even outside winter (the pre-dawn summit push is cold at any time of year), trekking poles for the scree, sunglasses and high-SPF sunscreen (UV is stronger at altitude), and a headlamp. Refuges provide dorm-style bedding and simple hot meals, so no need to carry a sleeping bag or camping stove.</p>\r\n\r\n      <h2>Not Ready for the Full Summit?</h2>\r\n      <p>The lower trails around Imlil and the Ourika Valley offer genuinely beautiful High Atlas scenery without the altitude commitment — a good way to test how you handle mountain walking before committing to a two-day summit push. See our broader <a href=\"blog-atlas-mountains-hiking.html\">Atlas Mountains hiking guide for beginners</a> for the easier options.</p>",
+  "cta": {
+    "h2": "Start with an Easier Atlas Escape",
+    "p": "Not ready for Toubkal yet? Our 3-Day Atlas Mountains &amp; Agafay Escape is a gentler introduction to the High Atlas.",
+    "href": "tour-3-day-atlas-mountains-agafay-group-escape.html",
+    "label": "See the 3-Day Escape"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Atlas Mountains Hiking for Beginners",
+      "meta": [],
+      "blurb": "From an easy waterfall walk to the Toubkal base routes.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-atlas-mountains-hiking.html",
+      "cta": "Read Article",
+      "image": "images/blog-atlas-mountains-toubkal.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "The Complete Morocco Packing List",
+      "meta": [],
+      "blurb": "What to pack for every region and every season.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-packing-list.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-packing-list.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Best Time to Visit Morocco for Budget Travelers",
+      "meta": [],
+      "blurb": "When to go for good weather, lower prices, and fewer crowds.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-best-time-to-visit-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-countryside.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

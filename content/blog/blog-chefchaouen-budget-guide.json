@@ -1,0 +1,65 @@
+{
+  "file": "blog-chefchaouen-budget-guide.html",
+  "slug": "blog-chefchaouen-budget-guide",
+  "meta": {
+    "title": "Chefchaouen Travel Guide: The Blue City on a Budget | Shared Morocco Adventures",
+    "description": "A budget guide to Chefchaouen: why it's blue, best photo times, cheap eats, how long to stay, and day trip vs overnight from Fes.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-chefchaouen-budget-guide.html",
+    "ogTitle": "Chefchaouen Travel Guide: The Blue City on a Budget",
+    "ogDescription": "A budget guide to Chefchaouen: why it's blue, best photo times, cheap eats, how long to stay, and day trip vs overnight from Fes.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/tour-chefchaouen.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "City Guide",
+    "h1": "Chefchaouen Travel Guide: The Blue City on a Budget",
+    "lead": "Everything you need to plan a low-cost visit to Morocco's famous blue-washed mountain town.",
+    "image": "images/tour-chefchaouen.jpg"
+  },
+  "body": "<p>Chefchaouen sits in the Rif Mountains, and it's unlike anywhere else in Morocco — every wall, staircase, and doorway painted in shades of blue that shift from pale sky to deep indigo depending on the light. It photographs beautifully, but it's also a genuinely relaxed, walkable town that's easy on a budget traveler's wallet. Here's how to do it right.</p>\r\n\r\n      <h2>Why Is It Blue?</h2>\r\n      <p>The most common explanation is that Jewish refugees who settled here in the 1930s brought the tradition of painting buildings blue, a color with religious significance representing the sky and heaven. Locals repaint the walls regularly, especially before spring, which is why the color always looks fresh rather than faded. Whatever the exact origin, the effect is real: wandering the old medina here feels genuinely different from Marrakech or Fes.</p>\r\n\r\n      <h2>Best Times for Photos</h2>\r\n      <p>Go out between 7 and 9am. The light is soft, the famous blue staircases and alleys near Plaza Uta el-Hammam and up toward Ras El Maa are empty of both tour groups and parked scooters, and the blue tones photograph far truer than they do in the flat glare of midday sun. By 10am, day-trip buses from Tangier, Tetouan, and Fes start arriving and the narrow lanes fill up fast. If you're staying overnight, take a second photo walk around sunset — the blue takes on a purple-grey tone that's worth seeing too.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Wear neutral clothing if you want your own photos to pop — the blue walls make almost any outfit look washed out except plain white, black, or mustard tones.</p>\r\n      </div>\r\n\r\n      <h2>Budget Eats</h2>\r\n      <p>Chefchaouen is cheap even by Moroccan standards. A full tagine at a local restaurant off the main square runs 30-45 MAD, and goat cheese from the surrounding hills — a genuine local specialty — is sold fresh at small shops and stalls for a few dirhams. Look for restaurants a block or two off Plaza Uta el-Hammam rather than directly on it; the square's cafes charge a view premium. Bakeries near the medina entrance sell msemen (a folded, pan-fried flatbread) for 3-5 MAD, which makes a solid cheap breakfast with mint tea.</p>\r\n\r\n      <h2>How Long to Stay</h2>\r\n      <p>One full day is enough to walk the main blue lanes, visit the Kasbah museum (around 20 MAD), and hike up to the Spanish Mosque for a sunset view over the town — that trail takes about 30-40 minutes each way and is free. If you have the time, staying two nights lets you slow down properly, which is really what this town rewards; it's not a checklist destination, it's a place to wander without an agenda.</p>\r\n\r\n      <h2>Day Trip vs Overnight From Fes</h2>\r\n      <p>Chefchaouen sits roughly 4 hours from Fes by road, which makes a day trip a long day — worthwhile if your schedule is tight, but you'll spend nearly as much time traveling as exploring. A shared group day trip handles the transport and timing for you, which is the more affordable way to see it without renting a car or negotiating a private grand taxi. If your itinerary allows it, an overnight stay gives you the empty-morning-streets experience that day-trippers miss entirely, but for most budget travelers passing through on a wider Morocco loop, the day trip captures the highlights well.</p>",
+  "cta": {
+    "h2": "See the Blue City for Yourself",
+    "p": "Join our shared day trip to Chefchaouen from Fes and skip the logistics of getting there.",
+    "href": "daytrip-chefchaouen-blue-city.html",
+    "label": "View the Chefchaouen Day Trip"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Fes vs Marrakech: Which Medina to Visit First",
+      "meta": [],
+      "blurb": "How the two cities compare for first-time visitors on a budget.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-fes-vs-marrakech.html",
+      "cta": "Read Article",
+      "image": "images/fes-medina-tannery.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Best Time to Visit Morocco for Budget Travelers",
+      "meta": [],
+      "blurb": "Seasons, weather, and pricing patterns worth knowing before you book.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-best-time-to-visit-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-countryside.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How to Backpack Morocco on a Budget",
+      "meta": [],
+      "blurb": "Practical strategies for stretching every dirham across the country.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-budget-backpacking-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-medina-alley.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}

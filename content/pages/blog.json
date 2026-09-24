@@ -1,0 +1,608 @@
+{
+  "file": "blog.html",
+  "meta": {
+    "title": "Morocco Travel Blog | Budget & Shared Group Tour Tips",
+    "description": "Budget travel guides, packing lists, and city tips for shared group tours in Morocco — from Marrakech and Fes to the Sahara desert.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog.html",
+    "ogTitle": "Morocco Travel Blog | Budget & Shared Group Tour Tips",
+    "ogDescription": "Budget travel guides, packing lists, and city tips for shared group tours in Morocco.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-medina-alley.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "The Blog",
+    "h1": "Morocco travel guides for budget &amp; group travelers",
+    "lead": "Planning tips, city guides, packing lists, and cultural notes to help you get the most out of a shared, budget-friendly trip to Morocco.",
+    "image": "images/blog-medina-alley.jpg"
+  },
+  "sections": [
+    {
+      "kind": "cards",
+      "id": "",
+      "eyebrow": "",
+      "h2": "",
+      "lead": "",
+      "cards": [
+        {
+          "badge": "Planning",
+          "title": "Best Time to Visit the Sahara Desert, Month by Month",
+          "meta": [
+            "🏜 Planning",
+            "⏱ 6 min read"
+          ],
+          "blurb": "A month-by-month breakdown of Sahara weather, from freezing winter nights to peak summer heat.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-best-time-sahara-desert.html",
+          "cta": "Read Article",
+          "image": "images/hero-sahara-dunes.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Accommodation",
+          "title": "How Shared Accommodation Works on a Morocco Group Tour",
+          "meta": [
+            "🛏 Accommodation",
+            "⏱ 6 min read"
+          ],
+          "blurb": "Shared rooms, desert-camp tents, half board, and the private-room upgrade explained.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-how-shared-accommodation-works.html",
+          "cta": "Read Article",
+          "image": "images/blog-riad-courtyard.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Solo Travel",
+          "title": "Morocco Tours for Solo Travelers: What to Expect",
+          "meta": [
+            "🧭 Solo Travel",
+            "⏱ 6 min read"
+          ],
+          "blurb": "Roommate matching, meeting people, and the real cost versus planning it yourself.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-morocco-tours-solo-travelers.html",
+          "cta": "Read Article",
+          "image": "images/blog-group-travelers-morocco.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Group Travel",
+          "title": "What to Expect on a Morocco Escorted Group Tour",
+          "meta": [
+            "🧭 Group Travel",
+            "⏱ 6 min read"
+          ],
+          "blurb": "A realistic walkthrough of a typical day — pickups, meals, free time, and your driver-guide.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-what-to-expect-escorted-group-tour.html",
+          "cta": "Read Article",
+          "image": "images/blog-morocco-countryside.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Sahara",
+          "title": "Best Sahara Desert Group Tours from Marrakech, Compared",
+          "meta": [
+            "🏜 Sahara",
+            "⏱ 6 min read"
+          ],
+          "blurb": "Our 4-day, 5-day, 6-day and 8-day Sahara routes compared side by side.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-best-sahara-group-tours-compared.html",
+          "cta": "Read Article",
+          "image": "images/hero-sahara-dunes.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Budget Tips",
+          "title": "How Much Does a Morocco Group Tour Cost in 2026?",
+          "meta": [
+            "💶 Budget Tips",
+            "⏱ 7 min read"
+          ],
+          "blurb": "Real prices across all 11 of our tours, from €135 to €830, and what actually moves the price.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-morocco-group-tour-cost-2026.html",
+          "cta": "Read Article",
+          "image": "images/blog-moroccan-dirham-currency.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Sahara",
+          "title": "Marrakech to Merzouga: The Group Tour Route Explained",
+          "meta": [
+            "🏜 Sahara",
+            "⏱ 6 min read"
+          ],
+          "blurb": "The real route day by day — Ait Benhaddou, the Dades Gorges, Tinghir and Erfoud — and why it takes 3-4 days to cover.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-marrakech-to-merzouga-group-tour-route.html",
+          "cta": "Read Article",
+          "image": "images/blog-sahara-gateway-road.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Group Travel",
+          "title": "How Fixed-Departure Group Tours Work in Morocco",
+          "meta": [
+            "🧭 Group Travel",
+            "⏱ 6 min read"
+          ],
+          "blurb": "What \"fixed departure\" actually means, how a group comes together, and what happens if a trip doesn't fill up.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-how-fixed-departure-tours-work.html",
+          "cta": "Read Article",
+          "image": "images/blog-group-travelers-morocco.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Planning",
+          "title": "Best Time to Visit Morocco for Budget Travelers",
+          "meta": [
+            "🗓 Planning",
+            "⏱ 6 min read"
+          ],
+          "blurb": "Shoulder-season months that cut both crowds and prices, plus what to expect from Morocco's very different regional climates.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-best-time-to-visit-morocco.html",
+          "cta": "Read Article",
+          "image": "images/blog-morocco-countryside.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Budget Tips",
+          "title": "How to Backpack Morocco on a Budget",
+          "meta": [
+            "🎒 Budget Tips",
+            "⏱ 7 min read"
+          ],
+          "blurb": "Real daily costs, where shared transport beats private taxis, and the easiest ways to stretch a backpacker budget further.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-budget-backpacking-morocco.html",
+          "cta": "Read Article",
+          "image": "images/blog-medina-alley.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Solo Travel",
+          "title": "Solo Female Travel in Morocco: A Group Tour Guide",
+          "meta": [
+            "🧭 Solo Travel",
+            "⏱ 8 min read"
+          ],
+          "blurb": "Why shared group departures are one of the most popular ways solo women travelers explore Morocco safely and affordably.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-solo-female-travel-morocco.html",
+          "cta": "Read Article",
+          "image": "images/blog-solo-female-traveler.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Sahara",
+          "title": "What to Pack for a Sahara Desert Group Tour",
+          "meta": [
+            "🏜 Sahara",
+            "⏱ 5 min read"
+          ],
+          "blurb": "The exact packing list for a desert camp night — layers, sun protection, and the small extras people always forget.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-sahara-desert-packing-list.html",
+          "cta": "Read Article",
+          "image": "images/hero-sahara-dunes.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Budget Tips",
+          "title": "Shared vs Private Tours in Morocco: Which Saves More",
+          "meta": [
+            "💰 Budget Tips",
+            "⏱ 6 min read"
+          ],
+          "blurb": "A real price breakdown comparing shared minivan departures against booking a private driver-guide for the same route.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-shared-vs-private-tours.html",
+          "cta": "Read Article",
+          "image": "images/blog-group-travelers-morocco.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "City Guide",
+          "title": "A Backpacker's Guide to the Marrakech Medina",
+          "meta": [
+            "🏙 City Guide",
+            "⏱ 8 min read"
+          ],
+          "blurb": "How to navigate the maze of Marrakech's old town, what's worth the entrance fee, and where budget travelers actually eat.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-marrakech-medina-guide.html",
+          "cta": "Read Article",
+          "image": "images/marrakech-medina-souk.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Sahara",
+          "title": "Camel Trekking in Merzouga: What to Expect",
+          "meta": [
+            "🐪 Sahara",
+            "⏱ 6 min read"
+          ],
+          "blurb": "What a first camel trek into Erg Chebbi actually feels like, from mounting up to sunset over the dunes.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-camel-trekking-merzouga.html",
+          "cta": "Read Article",
+          "image": "images/blog-camel-trek-closeup.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "City Guide",
+          "title": "Chefchaouen Travel Guide: The Blue City on a Budget",
+          "meta": [
+            "🏙 City Guide",
+            "⏱ 7 min read"
+          ],
+          "blurb": "How to see Morocco's most photographed town without a private tour price tag, plus the best angles for photos.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-chefchaouen-budget-guide.html",
+          "cta": "Read Article",
+          "image": "images/tour-chefchaouen.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Budget Tips",
+          "title": "How Much Does a Trip to Morocco Cost? A Budget Breakdown",
+          "meta": [
+            "💰 Budget Tips",
+            "⏱ 9 min read"
+          ],
+          "blurb": "A day-by-day cost breakdown covering accommodation, food, transport, and tours for a realistic budget itinerary.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-morocco-trip-cost-budget-breakdown.html",
+          "cta": "Read Article",
+          "image": "images/blog-moroccan-spices-souk.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Food",
+          "title": "Best Moroccan Street Food for Budget Travelers",
+          "meta": [
+            "🍽 Food",
+            "⏱ 6 min read"
+          ],
+          "blurb": "What to eat at the Jemaa el-Fnaa food stalls, what a fair price looks like, and the dishes worth seeking out.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-moroccan-street-food-guide.html",
+          "cta": "Read Article",
+          "image": "images/blog-street-food-marrakech.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Accommodation",
+          "title": "A Guide to Riads: Budget-Friendly Accommodation in Morocco",
+          "meta": [
+            "🛏 Accommodation",
+            "⏱ 7 min read"
+          ],
+          "blurb": "What a riad actually is, how much a budget one costs, and how to tell a good one from a tourist trap.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-riads-budget-accommodation.html",
+          "cta": "Read Article",
+          "image": "images/blog-riad-courtyard.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Sahara",
+          "title": "Sahara Desert Camp: Sleeping Under the Stars",
+          "meta": [
+            "🏜 Sahara",
+            "⏱ 6 min read"
+          ],
+          "blurb": "What a shared desert camp night is really like — the tents, the food, the cold, and the stargazing that makes it worth it.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-sahara-desert-camp-guide.html",
+          "cta": "Read Article",
+          "image": "images/blog-desert-camp-tents.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Photography",
+          "title": "Top 10 Photo Spots in Marrakech",
+          "meta": [
+            "📷 Photography",
+            "⏱ 7 min read"
+          ],
+          "blurb": "From rooftop views over the Koutoubia to the quiet corners of the souks, the best spots for a memorable shot.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-marrakech-photo-spots.html",
+          "cta": "Read Article",
+          "image": "images/blog-koutoubia-mosque.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Group Travel",
+          "title": "Group Travel Etiquette: Making Friends on the Road",
+          "meta": [
+            "🤝 Group Travel",
+            "⏱ 5 min read"
+          ],
+          "blurb": "How to be a good travel companion on a shared group tour, and why most people leave with new friends, not just photos.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-group-travel-etiquette.html",
+          "cta": "Read Article",
+          "image": "images/marrakech-jemaa-el-fnaa.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "City Guide",
+          "title": "Essaouira Guide: Morocco's Windy Coastal Escape",
+          "meta": [
+            "🏙 City Guide",
+            "⏱ 6 min read"
+          ],
+          "blurb": "Why this Atlantic fishing town is Marrakech's favorite day trip, and how to spend a budget day there.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-essaouira-coastal-guide.html",
+          "cta": "Read Article",
+          "image": "images/daytrip-essaouira.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "City Guide",
+          "title": "Fes vs Marrakech: Which Medina to Visit First",
+          "meta": [
+            "🏙 City Guide",
+            "⏱ 7 min read"
+          ],
+          "blurb": "Two very different old towns compared — atmosphere, cost, crowds, and which one suits a first-time visitor best.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-fes-vs-marrakech.html",
+          "cta": "Read Article",
+          "image": "images/fes-medina-tannery.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Culture",
+          "title": "Moroccan Mint Tea Culture and Etiquette",
+          "meta": [
+            "🍵 Culture",
+            "⏱ 5 min read"
+          ],
+          "blurb": "Why tea is called \"Moroccan whisky,\" the ritual behind the pour, and the polite way to accept (or decline) a glass.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-moroccan-mint-tea-culture.html",
+          "cta": "Read Article",
+          "image": "images/blog-mint-tea.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Culture",
+          "title": "How to Bargain in Moroccan Souks",
+          "meta": [
+            "🛍 Culture",
+            "⏱ 6 min read"
+          ],
+          "blurb": "The unwritten rules of haggling — starting prices, how much to counter, and when to just walk away.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-how-to-bargain-souks.html",
+          "cta": "Read Article",
+          "image": "images/blog-souk-lanterns.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Adventure",
+          "title": "Atlas Mountains Hiking for Beginners",
+          "meta": [
+            "⛰ Adventure",
+            "⏱ 6 min read"
+          ],
+          "blurb": "What beginner-friendly hiking in the High Atlas looks like, from Ourika Valley trails to Toubkal base routes.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-atlas-mountains-hiking.html",
+          "cta": "Read Article",
+          "image": "images/blog-atlas-mountains-toubkal.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Planning",
+          "title": "First-Timer's Guide to Traveling Morocco on a Budget",
+          "meta": [
+            "🗺 Planning",
+            "⏱ 9 min read"
+          ],
+          "blurb": "Everything a first-time visitor needs to know — visas, money, safety, and how shared tours simplify the logistics.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-first-timers-guide-morocco.html",
+          "cta": "Read Article",
+          "image": "images/blog-imperial-gate.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Planning",
+          "title": "Is Morocco Safe? A Practical Safety Guide",
+          "meta": [
+            "🛡 Planning",
+            "⏱ 7 min read"
+          ],
+          "blurb": "A realistic look at common scams, medina navigation at night, and how group travel simplifies safety.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-is-morocco-safe.html",
+          "cta": "Read Article",
+          "image": "images/blog-morocco-safety-guide.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Planning",
+          "title": "Morocco Visa Requirements: Do You Need One?",
+          "meta": [
+            "🛂 Planning",
+            "⏱ 5 min read"
+          ],
+          "blurb": "Which nationalities travel visa-free, passport rules, and how to extend a stay once you're there.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-morocco-visa-requirements.html",
+          "cta": "Read Article",
+          "image": "images/blog-morocco-visa-passport.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Budget Tips",
+          "title": "Money in Morocco: Dirhams, ATMs, Cards &amp; Tipping",
+          "meta": [
+            "💵 Budget Tips",
+            "⏱ 6 min read"
+          ],
+          "blurb": "How to exchange currency, when to use cards, and how much to tip guides, drivers, and riad staff.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-money-in-morocco-guide.html",
+          "cta": "Read Article",
+          "image": "images/blog-moroccan-dirham-currency.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Planning",
+          "title": "The Complete Morocco Packing List",
+          "meta": [
+            "🎒 Planning",
+            "⏱ 7 min read"
+          ],
+          "blurb": "One layering system for the medina, mountains, coast, and desert — every region, every season.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-morocco-packing-list.html",
+          "cta": "Read Article",
+          "image": "images/blog-morocco-packing-list.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Adventure",
+          "title": "Climbing Mount Toubkal: A First-Timer's Guide",
+          "meta": [
+            "🏔 Adventure",
+            "⏱ 8 min read"
+          ],
+          "blurb": "Route, refuge, fitness, and gear for North Africa's highest peak — no climbing experience required.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-climbing-mount-toubkal.html",
+          "cta": "Read Article",
+          "image": "images/blog-toubkal-summit.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Culture",
+          "title": "Moroccan Hammam Guide: What to Expect",
+          "meta": [
+            "🧖 Culture",
+            "⏱ 6 min read"
+          ],
+          "blurb": "What actually happens at a traditional bathhouse, local vs tourist spa hammams, and etiquette.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-moroccan-hammam-guide.html",
+          "cta": "Read Article",
+          "image": "images/blog-moroccan-hammam.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Culture",
+          "title": "Best Souvenirs to Buy in Morocco (and What to Skip)",
+          "meta": [
+            "🛍 Culture",
+            "⏱ 6 min read"
+          ],
+          "blurb": "Argan oil, pottery, and rugs worth buying — plus the common fakes and tourist traps to avoid.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-best-souvenirs-morocco.html",
+          "cta": "Read Article",
+          "image": "images/blog-morocco-souvenirs.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Planning",
+          "title": "Staying Connected: SIM Cards &amp; Internet in Morocco",
+          "meta": [
+            "📶 Planning",
+            "⏱ 5 min read"
+          ],
+          "blurb": "Local SIM cards, eSIMs, and where WiFi is reliable, from the airport to the Sahara.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-morocco-sim-card-internet.html",
+          "cta": "Read Article",
+          "image": "images/blog-morocco-connectivity-sim.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Planning",
+          "title": "Marrakech Menara Airport: Arrival Guide",
+          "meta": [
+            "✈ Planning",
+            "⏱ 6 min read"
+          ],
+          "blurb": "Immigration, cash, SIM cards, and getting into the city without overpaying for a taxi.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-marrakech-airport-guide.html",
+          "cta": "Read Article",
+          "image": "images/blog-marrakech-airport.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "Sahara",
+          "title": "Choosing Your Sahara Gateway: Merzouga vs Zagora",
+          "meta": [
+            "🏜 Sahara",
+            "⏱ 6 min read"
+          ],
+          "blurb": "Comparing Morocco's two main desert routes — drive time, dune size, and which suits your trip.",
+          "price": "",
+          "priceSub": "",
+          "href": "blog-merzouga-vs-zagora-sahara.html",
+          "cta": "Read Article",
+          "image": "images/blog-sahara-gateway-road.jpg",
+          "tone": ""
+        }
+      ],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    }
+  ],
+  "cta": {
+    "h2": "Ready to put the guide into practice?",
+    "p": "Browse our shared group tours and budget day trips across Morocco.",
+    "href": "tours.html",
+    "label": "Browse Group Tours"
+  }
+}

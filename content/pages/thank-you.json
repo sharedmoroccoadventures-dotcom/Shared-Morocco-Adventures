@@ -1,0 +1,19 @@
+{
+  "file": "thank-you.html",
+  "meta": {
+    "title": "Thank You | Shared Morocco Adventures",
+    "description": "Thanks for reaching out to Shared Morocco Adventures — we'll be in touch within 24 hours.",
+    "canonical": "https://www.sharedmoroccoadventures.com/thank-you.html",
+    "ogTitle": "",
+    "ogDescription": "",
+    "ogImage": "",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Message Sent",
+    "h1": "Thanks — we'll be in touch soon!",
+    "lead": "Your message has been received. Our team replies within 24 hours with departure dates and next steps.",
+    "image": "images/hero-sahara-dunes.jpg"
+  },
+  "sections": []
+}

@@ -1,0 +1,232 @@
+{
+  "file": "day-trips.html",
+  "meta": {
+    "title": "10 Morocco Day Trips & Excursions | Marrakech and Fes",
+    "description": "Explore 10 small-group Morocco day trips from Marrakech and Fes: Sahara sunsets, Atlas Mountains, Chefchaouen, Essaouira, Ouzoud Falls and more. From €15.",
+    "canonical": "https://www.sharedmoroccoadventures.com/day-trips.html",
+    "ogTitle": "Budget Day Trips from Marrakech & Fes | Shared Group Day Tours Morocco",
+    "ogDescription": "Small-group, fixed-departure day trips from Marrakech and Fes at budget prices — shared transport, shared guide, real savings.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/marrakech-jemaa-el-fnaa.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\":\"https://schema.org\",\r\n  \"@type\":\"ItemList\",\r\n  \"name\":\"Morocco day trips and excursions\",\r\n  \"description\":\"Original shared small-group day trips from Marrakech and Fes.\",\r\n  \"itemListElement\":[\r\n    {\"@type\":\"ListItem\",\"position\":1,\"url\":\"daytrip-marrakech-medina-walking-tour.html\",\"name\":\"Marrakech Medina Guided Walking Tour\"},\r\n    {\"@type\":\"ListItem\",\"position\":2,\"url\":\"daytrip-ourika-valley.html\",\"name\":\"Ourika Valley and Atlas Mountains Day Trip\"},\r\n    {\"@type\":\"ListItem\",\"position\":3,\"url\":\"daytrip-agafay-desert-sunset.html\",\"name\":\"Agafay Desert Sunset and Camel Ride\"},\r\n    {\"@type\":\"ListItem\",\"position\":4,\"url\":\"daytrip-ouzoud-waterfalls.html\",\"name\":\"Ouzoud Waterfalls Day Trip\"},\r\n    {\"@type\":\"ListItem\",\"position\":5,\"url\":\"daytrip-essaouira-coastal.html\",\"name\":\"Essaouira Coastal Day Trip\"},\r\n    {\"@type\":\"ListItem\",\"position\":6,\"url\":\"daytrip-ait-benhaddou-ouarzazate.html\",\"name\":\"Ait Benhaddou and Ouarzazate Excursion\"},\r\n    {\"@type\":\"ListItem\",\"position\":7,\"url\":\"daytrip-chefchaouen-blue-city.html\",\"name\":\"Chefchaouen Blue City Day Trip\"},\r\n    {\"@type\":\"ListItem\",\"position\":8,\"url\":\"daytrip-meknes-volubilis-moulay-idriss.html\",\"name\":\"Meknes, Volubilis and Moulay Idriss Tour\"},\r\n    {\"@type\":\"ListItem\",\"position\":9,\"url\":\"daytrip-ifrane-cedar-forest.html\",\"name\":\"Ifrane and Middle Atlas Cedar Forest Trip\"},\r\n    {\"@type\":\"ListItem\",\"position\":10,\"url\":\"daytrip-sefrou-bhalil.html\",\"name\":\"Sefrou and Bhalil Hidden Villages Tour\"}\r\n  ]\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Budget Day Trips",
+    "h1": "Shared group day trips from Marrakech &amp; Fes",
+    "lead": "No private-tour price tag, no solo road-tripping logistics — just a shared minivan (or a local guide on foot), and a small group of fellow travelers, out and back the same day. Pick your city to see every route, from €15 per person.",
+    "image": "images/marrakech-jemaa-el-fnaa.jpg"
+  },
+  "sections": [
+    {
+      "kind": "cards",
+      "id": "",
+      "eyebrow": "",
+      "h2": "",
+      "lead": "",
+      "cards": [
+        {
+          "badge": "6 Trips",
+          "title": "Day Trips from Marrakech",
+          "meta": [
+            "📍 Marrakech",
+            "🗓 Daily"
+          ],
+          "blurb": "A medina walking tour, the Atlas Mountains, the Agafay stone desert, Ouzoud Waterfalls, Essaouira, and the Ait Benhaddou kasbah route.",
+          "price": "From €15",
+          "priceSub": "per person",
+          "href": "day-trips-marrakech.html",
+          "cta": "See Marrakech Day Trips",
+          "image": "images/marrakech-jemaa-el-fnaa.jpg",
+          "tone": "dune"
+        },
+        {
+          "badge": "4 Trips",
+          "title": "Day Trips from Fes",
+          "meta": [
+            "📍 Fes",
+            "🗓 Daily"
+          ],
+          "blurb": "The Blue City of Chefchaouen, Roman ruins at Volubilis, the Middle Atlas cedar forest, and the hidden-gem towns of Sefrou &amp; Bhalil.",
+          "price": "From €19",
+          "priceSub": "per person",
+          "href": "day-trips-fes.html",
+          "cta": "See Fes Day Trips",
+          "image": "images/fes-medina-tannery.jpg",
+          "tone": "blue"
+        }
+      ],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    },
+    {
+      "kind": "cards",
+      "id": "",
+      "eyebrow": "Choose your experience",
+      "h2": "10 memorable Morocco excursions, made easy",
+      "lead": "From quick Marrakech experiences to full-day escapes from Fes, these original small-group activities make it simple to see more of Morocco without arranging a private driver.",
+      "cards": [
+        {
+          "badge": "From €15",
+          "title": "Marrakech Medina Walking Tour",
+          "meta": [
+            "📍 Marrakech",
+            "🗓 Half day"
+          ],
+          "blurb": "Discover Jemaa el-Fnaa, souks, Bahia Palace and hidden medina lanes with a local guide.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-marrakech-medina-walking-tour.html",
+          "cta": "View experience",
+          "image": "images/marrakech-jemaa-el-fnaa.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €29",
+          "title": "Ourika Valley &amp; Atlas Mountains",
+          "meta": [
+            "📍 From Marrakech",
+            "🗓 Full day"
+          ],
+          "blurb": "Meet mountain communities, walk beside the river and enjoy the High Atlas foothills.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-ourika-valley.html",
+          "cta": "View experience",
+          "image": "images/daytrip-ourika-valley.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €35",
+          "title": "Agafay Desert Sunset Escape",
+          "meta": [
+            "📍 From Marrakech",
+            "🗓 Half/full day"
+          ],
+          "blurb": "Trade the city for a golden-hour camel ride and a Moroccan dinner beneath the Atlas horizon.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-agafay-desert-sunset.html",
+          "cta": "View experience",
+          "image": "images/daytrip-agafay-desert.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €35",
+          "title": "Ouzoud Waterfalls Day Trip",
+          "meta": [
+            "📍 From Marrakech",
+            "🗓 Full day"
+          ],
+          "blurb": "See Morocco's famous cascades, walk the olive groves and spot Barbary macaques near the falls.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-ouzoud-waterfalls.html",
+          "cta": "View experience",
+          "image": "images/daytrip-ouzoud-waterfalls.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €39",
+          "title": "Essaouira Atlantic Coast",
+          "meta": [
+            "📍 From Marrakech",
+            "🗓 Full day"
+          ],
+          "blurb": "Explore a breezy UNESCO-listed medina, fishing harbor, ramparts and Atlantic seafood.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-essaouira-coastal.html",
+          "cta": "View experience",
+          "image": "images/daytrip-essaouira.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €39",
+          "title": "Ait Benhaddou &amp; Ouarzazate",
+          "meta": [
+            "📍 From Marrakech",
+            "🗓 Full day"
+          ],
+          "blurb": "Cross the High Atlas to a cinematic mud-brick kasbah and the gateway to the desert.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-ait-benhaddou-ouarzazate.html",
+          "cta": "View experience",
+          "image": "images/daytrip-ait-benhaddou.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €39",
+          "title": "Chefchaouen Blue City",
+          "meta": [
+            "📍 From Fes",
+            "🗓 Full day"
+          ],
+          "blurb": "Wander the blue-washed Rif mountain medina, Kasbah Museum and Plaza Uta el-Hammam.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-chefchaouen-blue-city.html",
+          "cta": "View experience",
+          "image": "images/tour-chefchaouen.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €29",
+          "title": "Meknes, Volubilis &amp; Moulay Idriss",
+          "meta": [
+            "📍 From Fes",
+            "🗓 Full day"
+          ],
+          "blurb": "Combine imperial gates, Roman mosaics and the hilltop holy town of Moulay Idriss.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-meknes-volubilis-moulay-idriss.html",
+          "cta": "View experience",
+          "image": "images/daytrip-meknes-volubilis.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €29",
+          "title": "Ifrane &amp; Middle Atlas Cedar Forest",
+          "meta": [
+            "📍 From Fes",
+            "🗓 Full day"
+          ],
+          "blurb": "See a different side of Morocco with alpine scenery, cedar forests and mountain villages.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-ifrane-cedar-forest.html",
+          "cta": "View experience",
+          "image": "images/daytrip-ifrane-cedar-forest.jpg",
+          "tone": ""
+        },
+        {
+          "badge": "From €19",
+          "title": "Sefrou &amp; Bhalil Hidden Villages",
+          "meta": [
+            "📍 From Fes",
+            "🗓 Half/full day"
+          ],
+          "blurb": "Slow down in two characterful Middle Atlas towns known for waterfalls, crafts and local life.",
+          "price": "",
+          "priceSub": "",
+          "href": "daytrip-sefrou-bhalil.html",
+          "cta": "View experience",
+          "image": "images/blog-morocco-countryside.jpg",
+          "tone": ""
+        }
+      ],
+      "steps": [],
+      "faq": [],
+      "chips": []
+    }
+  ],
+  "cta": {
+    "h2": "Flying in soon?",
+    "p": "Skip the taxi-rank haggling — book a fixed-price shared or private airport transfer in Marrakech or Fes.",
+    "href": "airport-transfers.html",
+    "label": "See Airport Transfers"
+  }
+}

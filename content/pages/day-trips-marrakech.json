@@ -1,0 +1,279 @@
+{
+  "file": "day-trips-marrakech.html",
+  "slug": "day-trips-marrakech",
+  "meta": {
+    "title": "Budget Day Trips from Marrakech | Shared Group Tours & Walking Tour",
+    "description": "Shared, budget group day trips from Marrakech — medina walking tour, Ourika Valley, Agafay Desert, Essaouira, Ouzoud Falls and Ait Benhaddou. From €15pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/day-trips-marrakech.html",
+    "ogTitle": "Budget Day Trips from Marrakech | Shared Group Tours & Walking Tour",
+    "ogDescription": "Shared, small-group, fixed-departure day trips from Marrakech — walking tour, Atlas Mountains, desert, coast, and waterfalls. From €15pp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/marrakech-jemaa-el-fnaa.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"ItemList\",\r\n  \"name\": \"Budget Day Trips from Marrakech\",\r\n  \"itemListElement\": [\r\n    { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Marrakech Medina Guided Walking Tour\", \"url\": \"daytrip-marrakech-medina-walking-tour.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"15\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Ourika Valley Day Trip\", \"url\": \"daytrip-ourika-valley.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"29\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Agafay Desert Sunset Day Trip\", \"url\": \"daytrip-agafay-desert-sunset.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"35\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Ouzoud Waterfalls Day Trip\", \"url\": \"daytrip-ouzoud-waterfalls.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"35\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 5, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Essaouira Coastal Day Trip\", \"url\": \"daytrip-essaouira-coastal.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"39\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 6, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Ait Benhaddou & Ouarzazate Day Trip\", \"url\": \"daytrip-ait-benhaddou-ouarzazate.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"39\" } } }\r\n  ]\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Budget Day Trips · Marrakech",
+    "h1": "All shared group day trips from Marrakech",
+    "lead": "Every budget day trip we run from Marrakech, on one page — a medina walking tour, the Atlas Mountains, the stone desert, the Atlantic coast, waterfalls, and the UNESCO kasbah route. Shared small-group transport, fixed daily departures, from €15 per person.",
+    "image": "images/marrakech-jemaa-el-fnaa.jpg"
+  },
+  "trips": [
+    {
+      "id": "walking-tour",
+      "eyebrow": "From €15pp · Half Day · On Foot",
+      "h2": "Marrakech Medina Guided Walking Tour",
+      "route": "Jemaa el-Fnaa → Spice &amp; Dye Souks → Bahia Palace → Koutoubia Mosque → Saadian Tombs",
+      "lead": "≈3 km walking route · no driving",
+      "paras": [
+        "No minivan, no long drive — just a local guide on foot and a small shared group exploring Marrakech's UNESCO-listed medina. This is our cheapest and shortest trip, ideal for your first morning in the city or a low-cost half-day between longer excursions.",
+        "The route winds from the chaos of Jemaa el-Fnaa square through the covered souks (spices, dyers, leather, lanterns), past the 19th-century Bahia Palace, the iconic Koutoubia Mosque minaret, and the beautifully restored Saadian Tombs."
+      ],
+      "chips": [
+        "Jemaa el-Fnaa Square",
+        "Spice & Dye Souks",
+        "Bahia Palace",
+        "Koutoubia Mosque",
+        "Saadian Tombs"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared local guide, all walking-route stops, hotel/riad meeting point. <strong>Not included:</strong> palace &amp; tombs entrance fees (~€7 combined), lunch, tips."
+      ],
+      "price": "From €15",
+      "priceSub": "per person · morning & afternoon slots",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Walking Tour"
+        },
+        {
+          "href": "daytrip-marrakech-medina-walking-tour.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/marrakech-jemaa-el-fnaa.jpg"
+    },
+    {
+      "id": "ourika-valley",
+      "eyebrow": "From €29pp · Full Day · Most Booked",
+      "h2": "Ourika Valley &amp; Atlas Mountains Day Trip",
+      "route": "Marrakech → Argan Co-op → Berber Village → Setti Fatma Waterfalls → Marrakech",
+      "lead": "≈130 km round trip · about 3.5 hrs driving",
+      "paras": [
+        "The easiest budget day trip from Marrakech: a short hop into the High Atlas foothills for mountain air, Berber villages, and a waterfall hike, all in about 7 hours round trip including stops.",
+        "Stops include a women's argan oil cooperative, a scenic drive through terraced Berber villages along the Ourika river, and a guided walk toward the Setti Fatma waterfalls, with free time for lunch by the river."
+      ],
+      "chips": [
+        "Argan Oil Cooperative",
+        "Berber Village",
+        "Setti Fatma Waterfalls"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, English/French driver-guide, hotel/riad pickup. <strong>Not included:</strong> lunch, waterfall hike guide tip, travel insurance."
+      ],
+      "price": "From €29",
+      "priceSub": "per person · departs daily",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Day Trip"
+        },
+        {
+          "href": "daytrip-ourika-valley.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/daytrip-ourika-valley.jpg"
+    },
+    {
+      "id": "agafay-desert",
+      "eyebrow": "From €35pp · Half/Full Day · Sunset Favorite",
+      "h2": "Agafay Desert Sunset Day Trip",
+      "route": "Marrakech → Agafay Stone Desert → Camel Ride → Sunset Point → Marrakech",
+      "lead": "≈75 km round trip · about 1.5 hrs driving",
+      "paras": [
+        "Desert views without the desert-length drive — the Agafay stone desert sits just 30–40 minutes from Marrakech, close enough for a camel ride and full golden-hour sunset in one afternoon, no overnight required.",
+        "A rocky, dune-like plateau with High Atlas backdrops, very different scenery from the Sahara dunes near Merzouga, and one of the best-value sunset experiences near the city."
+      ],
+      "chips": [
+        "Stone Desert Plateau",
+        "Camel Ride",
+        "Sunset Viewpoint",
+        "Mint Tea"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, driver-guide, camel ride, mint tea at sunset, hotel/riad pickup. <strong>Not included:</strong> desert-camp dinner (optional add-on), travel insurance."
+      ],
+      "price": "From €35",
+      "priceSub": "per person · departs daily, timed to sunset",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Day Trip"
+        },
+        {
+          "href": "daytrip-agafay-desert-sunset.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/daytrip-agafay-desert.jpg"
+    },
+    {
+      "id": "ouzoud-waterfalls",
+      "eyebrow": "From €35pp · Full Day · Waterfall",
+      "h2": "Ouzoud Waterfalls Day Trip",
+      "route": "Marrakech → Olive Groves → Ouzoud Falls Hike → Boat Ride → Marrakech",
+      "lead": "≈300 km round trip · about 5 hrs driving",
+      "paras": [
+        "North Africa's tallest waterfall (100m+), reached via a scenic 2.5-hour drive through olive groves and Berber villages. A guided hike leads down through terraced olive trees to the base of the falls, where wild Barbary macaques are a regular sight.",
+        "An optional boat ride gets you right up to the base of the cascade for the classic photo, with free time to swim (seasonal) or relax at a riverside café before the hike back up."
+      ],
+      "chips": [
+        "100m+ Waterfall",
+        "Barbary Macaques",
+        "Boat Ride",
+        "Olive Groves"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, driver-guide, guided hike, hotel/riad pickup. <strong>Not included:</strong> boat ride fee (small cash payment), lunch, travel insurance."
+      ],
+      "price": "From €35",
+      "priceSub": "per person · departs daily",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Day Trip"
+        },
+        {
+          "href": "daytrip-ouzoud-waterfalls.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/daytrip-ouzoud-waterfalls.jpg"
+    },
+    {
+      "id": "essaouira",
+      "eyebrow": "From €39pp · Full Day · Coastal",
+      "h2": "Essaouira Coastal Day Trip",
+      "route": "Marrakech → Argan Forest → Essaouira Medina &amp; Port → Marrakech",
+      "lead": "≈360 km round trip · about 5.5 hrs driving",
+      "paras": [
+        "Trade the medina heat for sea air in Marrakech's favorite coastal escape — a laid-back, UNESCO-listed fishing town with whitewashed ramparts and a noticeably cooler Atlantic breeze, roughly 2.5–3 hours each way.",
+        "A guided walk covers the medina's ramparts (the Skala), art galleries, and woodworking workshops, followed by free time at the fishing port for lunch (fresh grilled seafood is the local specialty) and shopping."
+      ],
+      "chips": [
+        "UNESCO Medina",
+        "Sea Ramparts",
+        "Fishing Port",
+        "Argan Forest"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, driver-guide, guided medina walk, hotel/riad pickup. <strong>Not included:</strong> lunch, optional gallery entrance fees, travel insurance."
+      ],
+      "price": "From €39",
+      "priceSub": "per person · departs daily",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Day Trip"
+        },
+        {
+          "href": "daytrip-essaouira-coastal.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/daytrip-essaouira.jpg"
+    },
+    {
+      "id": "ait-benhaddou",
+      "eyebrow": "From €39pp · Full Day · UNESCO",
+      "h2": "Ait Benhaddou &amp; Ouarzazate Day Trip",
+      "route": "Marrakech → Tizi n'Tichka Pass → Ait Benhaddou Kasbah → Ouarzazate → Marrakech",
+      "lead": "≈420 km round trip · about 7 hrs driving",
+      "paras": [
+        "Our longest day trip and one of Morocco's most iconic routes: cross the dramatic Tizi n'Tichka pass through the High Atlas to reach Ait Benhaddou, a UNESCO-listed fortified kasbah used as a filming location for Gladiator and Game of Thrones.",
+        "The route continues to nearby Ouarzazate, Morocco's \"Hollywood of Africa,\" with an optional stop at the Atlas Film Studios. This route also doubles as day one of our <a href=\"tour-4-day-sahara-desert-group-tour.html\">4-Day Sahara Desert Group Tour</a> if you'd rather continue on to the dunes."
+      ],
+      "chips": [
+        "Tizi n'Tichka Pass",
+        "Ait Benhaddou Kasbah",
+        "Atlas Film Studios"
+      ],
+      "notes": [
+        "<strong>Includes:</strong> shared minivan, driver-guide, guided kasbah walk, hotel/riad pickup. <strong>Not included:</strong> lunch, film studios entrance ticket, travel insurance."
+      ],
+      "price": "From €39",
+      "priceSub": "per person · departs daily",
+      "links": [
+        {
+          "href": "contact.html",
+          "label": "Reserve This Day Trip"
+        },
+        {
+          "href": "daytrip-ait-benhaddou-ouarzazate.html",
+          "label": "Full Details & FAQs"
+        }
+      ],
+      "image": "images/daytrip-ait-benhaddou.jpg"
+    }
+  ],
+  "tail": [
+    {
+      "kind": "faq",
+      "eyebrow": "FAQs",
+      "h2": "Marrakech Day Trip Questions",
+      "items": [
+        {
+          "q": "Are these shared or private tours?",
+          "a": "<p>All the trips above are shared, small-group departures — you'll travel with other budget travelers in the same minivan (or on foot, for the walking tour), which is what keeps prices low. Private versions are available on request for most routes.</p>"
+        },
+        {
+          "q": "How far in advance should I book?",
+          "a": "<p>Most day trips depart daily and can be booked a day ahead. The Agafay sunset trip and the Ait Benhaddou route are our most popular in high season (October–April) and are worth booking a few days early.</p>"
+        },
+        {
+          "q": "Can I book more than one day trip?",
+          "a": "<p>Yes — many travelers combine two or three, for example the walking tour on arrival day, then Ourika Valley or Agafay Desert later in their stay. Let us know your dates and we'll help plan a combination.</p>"
+        },
+        {
+          "q": "Is transport wheelchair or mobility accessible?",
+          "a": "<p>Our standard shared minivans aren't wheelchair-equipped. Contact us before booking so we can advise on the best option for your needs.</p>"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "kind": "cta",
+      "h2": "Prefer a multi-day route instead?",
+      "p": "Browse our fixed-departure group tours across the Sahara, imperial cities, and the Atlas Mountains.",
+      "href": "tours.html",
+      "label": "See Group Tours"
+    }
+  ],
+  "jump": [
+    {
+      "text": "🚶 Medina Walking Tour",
+      "href": "#walking-tour"
+    },
+    {
+      "text": "🏔️ Ourika Valley",
+      "href": "#ourika-valley"
+    },
+    {
+      "text": "🏜️ Agafay Desert",
+      "href": "#agafay-desert"
+    },
+    {
+      "text": "💦 Ouzoud Waterfalls",
+      "href": "#ouzoud-waterfalls"
+    },
+    {
+      "text": "🌊 Essaouira",
+      "href": "#essaouira"
+    },
+    {
+      "text": "🏰 Ait Benhaddou",
+      "href": "#ait-benhaddou"
+    }
+  ]
+}

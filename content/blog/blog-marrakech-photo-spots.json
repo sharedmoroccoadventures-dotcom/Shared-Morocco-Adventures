@@ -1,0 +1,65 @@
+{
+  "file": "blog-marrakech-photo-spots.html",
+  "slug": "blog-marrakech-photo-spots",
+  "meta": {
+    "title": "Top 10 Photo Spots in Marrakech | Shared Morocco Adventures",
+    "description": "The best photo spots in Marrakech, from Koutoubia Mosque to Jardin Majorelle, with timing and lighting tips for each.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-marrakech-photo-spots.html",
+    "ogTitle": "Top 10 Photo Spots in Marrakech",
+    "ogDescription": "The best photo spots in Marrakech, from Koutoubia Mosque to Jardin Majorelle, with timing and lighting tips for each.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-koutoubia-mosque.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "Photography",
+    "h1": "Top 10 Photo Spots in Marrakech",
+    "lead": "From minarets to medina lanterns, here's where and when to shoot the Red City's best angles.",
+    "image": "images/blog-koutoubia-mosque.jpg"
+  },
+  "body": "<p>Marrakech is one of the most photogenic cities in the world, but timing makes all the difference — the same square that looks flat and crowded at noon becomes magic at dusk. Here are ten spots worth building your camera roll around, plus when to show up for the best light.</p>\r\n\r\n      <h2>1. Koutoubia Mosque</h2>\r\n      <p>The city's tallest and most iconic landmark, visible from almost everywhere in the medina. Shoot it from the surrounding gardens in the late afternoon when the sandstone tower turns a deep gold, or come back after dark when it's lit up against the night sky. Non-Muslims can't enter, but the exterior and gardens are more than enough.</p>\r\n\r\n      <h2>2. Jemaa el-Fnaa at Dusk</h2>\r\n      <p>The main square is interesting any time of day, but it transforms at dusk when the food stalls light up, smoke rises from the grills, and the snake charmers and storytellers give way to a completely different energy. Arrive around 6:30–7pm as the light turns pink, and head to one of the rooftop cafés overlooking the square for the classic wide shot before the crowds peak.</p>\r\n\r\n      <h2>3. Bahia Palace Tilework</h2>\r\n      <p>This 19th-century palace is a masterclass in zellige tilework, carved cedar ceilings, and painted stucco. Go right when it opens at 9am to beat the tour groups and get clean shots of the courtyards without dozens of people in frame. The tiled floors and painted ceilings are especially striking in the soft morning light through the open courtyards.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Bring small change (5–10 dirham coins) for tips if you photograph street performers, water sellers in traditional dress, or shop owners — it's polite and often gets you a friendlier photo.</p>\r\n      </div>\r\n\r\n      <h2>4. Jardin Majorelle's Blue Walls</h2>\r\n      <p>Yves Saint Laurent's restored garden is famous for its striking cobalt-blue buildings set against cacti and bamboo. It gets busy fast, so aim to arrive right at opening (8am in high season) for empty walkways and even light. Midday sun can blow out the blue in photos, so overcast mornings actually work in your favor here.</p>\r\n\r\n      <h2>5. Souk Lantern Shops</h2>\r\n      <p>Deep in the souks, entire stalls are dedicated to stacked metal and glass lanterns in every color imaginable. These shops are naturally photogenic thanks to the punched-metal light patterns, and shooting in the late afternoon when shopkeepers switch the lanterns on gives you a warm, glowing frame with almost no editing needed.</p>\r\n\r\n      <h2>6. Rooftop Cafés</h2>\r\n      <p>Marrakech's flat medina rooftops are its secret photography weapon — most riads and cafés let non-guests up for the price of a mint tea. Look for terraces near Jemaa el-Fnaa or in the Kasbah district for layered views of satellite dishes, minarets, and the Atlas Mountains on a clear day.</p>\r\n\r\n      <h2>7. Saadian Tombs</h2>\r\n      <p>Rediscovered in 1917 and beautifully restored, these royal tombs are packed with intricate marble and gold detailing in a small, atmospheric space. Because the site is compact, it fills up fast — arriving within the first hour of opening is the only reliable way to get uncrowded frames.</p>\r\n\r\n      <h2>Getting Around for Your Shots</h2>\r\n      <p>Most of these spots sit within a 20-minute walk of each other inside or near the medina, which is exactly the kind of ground a guided walking tour is built to cover efficiently — hitting the light-sensitive spots (Jardin Majorelle in the morning, Jemaa el-Fnaa at dusk) at the right time of day instead of wasting golden hour figuring out directions. Traveling with a small shared group also means someone's usually happy to take your photo in the frame, not just take photos of the sights.</p>",
+  "cta": {
+    "h2": "See Marrakech Through a Local's Lens",
+    "p": "Join our guided walking tour and hit every one of these spots with perfect timing.",
+    "href": "daytrip-marrakech-medina-walking-tour.html",
+    "label": "Explore the Walking Tour"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "A Backpacker's Guide to the Marrakech Medina",
+      "meta": [],
+      "blurb": "Get your bearings in the maze of alleys and souks.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-marrakech-medina-guide.html",
+      "cta": "Read Article",
+      "image": "images/marrakech-medina-souk.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How to Bargain in Moroccan Souks",
+      "meta": [],
+      "blurb": "Get a fair price on lanterns, leather, and more.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-how-to-bargain-souks.html",
+      "cta": "Read Article",
+      "image": "images/blog-souk-lanterns.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Solo Female Travel in Morocco",
+      "meta": [],
+      "blurb": "A group tour guide to exploring confidently and safely.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-solo-female-travel-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-solo-female-traveler.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

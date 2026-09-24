@@ -1,0 +1,67 @@
+{
+  "file": "blog-how-fixed-departure-tours-work.html",
+  "slug": "blog-how-fixed-departure-tours-work",
+  "meta": {
+    "title": "How Fixed-Departure Group Tours Work in Morocco | Shared Morocco Adventures",
+    "description": "What does a fixed-departure Morocco tour actually mean? How groups form, who you will travel with, and why it keeps small-group tours affordable.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-how-fixed-departure-tours-work.html",
+    "ogTitle": "How Fixed-Departure Group Tours Work in Morocco",
+    "ogDescription": "What a fixed departure actually means, how groups form, and why it keeps small-group Morocco tours affordable.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-group-travelers-morocco.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"Article\",\r\n  \"headline\": \"How Fixed-Departure Group Tours Actually Work\",\r\n  \"description\": \"What a fixed departure actually means, how groups form, what happens if a departure doesn't fill up, and who books these trips.\",\r\n  \"author\": { \"@type\": \"Organization\", \"name\": \"Shared Morocco Adventures\" },\r\n  \"publisher\": {\r\n    \"@type\": \"Organization\",\r\n    \"name\": \"Shared Morocco Adventures\",\r\n    \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.sharedmoroccoadventures.com/images/logo-full-transparent.png\" }\r\n  },\r\n  \"mainEntityOfPage\": \"https://www.sharedmoroccoadventures.com/blog-how-fixed-departure-tours-work.html\"\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Group Travel",
+    "h1": "How Fixed-Departure Group Tours Actually Work",
+    "lead": "What \"fixed departure\" really means, how a group actually comes together, and what happens if a trip doesn't sell out.",
+    "image": "images/blog-group-travelers-morocco.jpg"
+  },
+  "body": "<p>\"Fixed-departure group tour\" gets used a lot in Morocco travel listings, but it's rarely explained clearly — and it's worth understanding before you book, because it changes how your trip actually runs. Here's what the term actually means, how a group comes together, and the honest answer to the question everyone asks: what happens if not enough people sign up.</p>\r\n\r\n      <h2>Fixed Departure vs. Private or Custom Tour</h2>\r\n      <p>A private or custom tour is built around one traveler or group: you set the dates, you set the pace, and the price is yours alone to cover. A fixed-departure tour runs the other way — the route, the dates, and the price are set in advance, and any traveler can book a seat on that specific departure. You're not building an itinerary from scratch; you're joining one that's already scheduled to run, alongside whoever else has booked the same dates.</p>\r\n      <p>That's the trade that makes shared tours affordable: transport, the driver-guide, and the shared accommodation are priced per seat rather than per vehicle, so the cost gets split across everyone traveling that day instead of falling on one traveler or one family.</p>\r\n\r\n      <h2>How a Group Actually Comes Together</h2>\r\n      <p>Departures are scheduled on a fixed weekly or set-day cadence — check each tour page for the exact day it runs. From there, travelers book individually, in couples, or in small friend groups, and the departure fills up seat by seat as bookings come in. Our departures typically run with 6 to 16 travelers on board, which is enough people for the trip to feel social without turning into a large coach-tour crowd — you'll usually recognize everyone's face by day two.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>If you'd rather know exactly who else is likely to be on your departure before you book, ask when you enquire — we can usually tell you how many seats are already reserved for a given date.</p>\r\n      </div>\r\n\r\n      <h2>What Happens If a Departure Doesn't Fill Up</h2>\r\n      <p>This is the question that stops a lot of people from booking a shared tour, so here's the straight answer: our departures run on their scheduled date regardless of how many seats are booked. Unlike some operators who cancel or reschedule a trip that hasn't hit a minimum headcount, a fixed departure that's confirmed on the calendar goes ahead — even if you end up being one of only a handful of travelers on board that day. The trade-off is the one above: you don't get to move the date to suit you, because the date was set before you booked.</p>\r\n\r\n      <h2>Who Actually Books These Trips</h2>\r\n      <p>The travelers on a typical departure are a genuine mix — solo travelers in their 20s and 30s looking to meet people, couples who'd rather split the cost and logistics of a private car, and small friend groups who want the route handled for them. Solo travelers are usually the largest single group, since a fixed departure solves the two things that make solo travel harder: finding people to share the cost with, and not having to plan the route alone. If you're weighing a group tour against planning the same route yourself, our <a href=\"tour-4-day-sahara-desert-group-tour.html\">4-Day Sahara Desert Group Tour</a> is a good example to look at — it's fully scheduled, priced per seat, and shows exactly what's included.</p>\r\n\r\n      <h2>The Short Version</h2>\r\n      <p>Fixed departure means the trip is already scheduled and priced — you're booking a seat on it, not commissioning it. That's what keeps the price down, and it's also why the date on the tour page is the date you're actually signing up for. If you have questions about a specific departure before booking, our <a href=\"faqs.html\">FAQs</a> page covers the most common ones, or you can ask us directly.</p>",
+  "cta": {
+    "h2": "See Upcoming Fixed Departures",
+    "p": "Every shared tour we run, with routes, durations, and starting prices.",
+    "href": "tours.html",
+    "label": "View Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Shared vs Private Tours in Morocco: Which Saves More",
+      "meta": [],
+      "blurb": "A real cost comparison between the two tour styles.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-shared-vs-private-tours.html",
+      "cta": "Read Article",
+      "image": "images/marrakech-jemaa-el-fnaa.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Group Travel Etiquette: Making Friends on the Road",
+      "meta": [],
+      "blurb": "Getting the most out of a shared group departure.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-group-travel-etiquette.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "How Much Does a Trip to Morocco Cost?",
+      "meta": [],
+      "blurb": "A full budget breakdown covering every stage of a trip.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-trip-cost-budget-breakdown.html",
+      "cta": "Read Article",
+      "image": "images/blog-moroccan-spices-souk.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

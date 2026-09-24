@@ -1,0 +1,98 @@
+{
+  "file": "daytrip-marrakech-medina-walking-tour.html",
+  "slug": "daytrip-marrakech-medina-walking-tour",
+  "meta": {
+    "title": "Marrakech Medina Guided Walking Tour | Shared Morocco Adventures",
+    "description": "A half-day shared walking tour through Marrakech's medina — Jemaa el-Fnaa, the souks, Bahia Palace, Koutoubia Mosque and the Saadian Tombs. From €15pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/daytrip-marrakech-medina-walking-tour.html",
+    "ogTitle": "Marrakech Medina Guided Walking Tour",
+    "ogDescription": "A shared half-day walking tour through Marrakech's UNESCO-listed medina. From €15pp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/marrakech-jemaa-el-fnaa.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Marrakech Medina Guided Walking Tour\",\r\n  \"description\": \"A shared, half-day walking tour through Marrakech's UNESCO-listed medina, covering Jemaa el-Fnaa, the souks, Bahia Palace, Koutoubia Mosque, and the Saadian Tombs.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"15\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Day Trip · From Marrakech",
+    "h1": "Marrakech Medina Guided Walking Tour",
+    "lead": "Jemaa el-Fnaa → Spice &amp; Dye Souks → Bahia Palace → Koutoubia Mosque → Saadian Tombs",
+    "image": "images/marrakech-jemaa-el-fnaa.jpg"
+  },
+  "back": {
+    "href": "day-trips-marrakech.html",
+    "label": "All Day Trips from Marrakech"
+  },
+  "overview": {
+    "eyebrow": "About This Trip",
+    "h2": "Marrakech's medina, on foot with a local guide",
+    "paras": [
+      "No minivan, no long drive — just a local guide on foot and a small shared group exploring Marrakech's UNESCO-listed medina. This is our cheapest and shortest trip, ideal for your first morning in the city or a low-cost half-day between longer excursions.",
+      "The route winds from the chaos of Jemaa el-Fnaa square through the covered souks (spices, dyers, leather, lanterns), past the 19th-century Bahia Palace, the iconic Koutoubia Mosque minaret, and the beautifully restored Saadian Tombs."
+    ],
+    "chips": [
+      "📍 Marrakech",
+      "🚶 ≈3 km walking · no driving",
+      "🗓 Morning & afternoon slots daily"
+    ],
+    "image": "images/marrakech-jemaa-el-fnaa.jpg"
+  },
+  "highlights": {
+    "eyebrow": "Highlights",
+    "h2": "What you'll see",
+    "chips": [
+      "Jemaa el-Fnaa Square",
+      "Spice & Dye Souks",
+      "Bahia Palace",
+      "Koutoubia Mosque",
+      "Saadian Tombs"
+    ]
+  },
+  "includes": [
+    "Shared local guide",
+    "All walking-route stops",
+    "Hotel/riad meeting point"
+  ],
+  "excludes": [
+    "Palace &amp; tombs entrance fees (~€7 combined)",
+    "Lunch",
+    "Tips for the guide"
+  ],
+  "price": {
+    "from": "From",
+    "amount": "€15",
+    "sub": "per person · morning &amp; afternoon slots",
+    "ctaHref": "contact.html?trip=Marrakech%20Medina%20Guided%20Walking%20Tour",
+    "ctaText": "Reserve This Walking Tour"
+  },
+  "good": {
+    "eyebrow": "Good to Know",
+    "h2": "Our cheapest and easiest trip",
+    "paras": [
+      "Groups are small and sociable — a great way to get orientated on your first day, or to meet other travelers before a longer group tour.",
+      "<strong>Booking terms:</strong> Send an enquiry first; we confirm the time, final price, and meeting point by email. No payment is taken through this website."
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQs",
+    "h2": "Walking Tour Questions",
+    "items": [
+      {
+        "q": "How much walking is involved?",
+        "a": "<p>Around 3 km at an easy pace over 2.5–3 hours, with regular stops. Comfortable, closed-toe walking shoes are recommended for the uneven medina lanes.</p>"
+      },
+      {
+        "q": "Is this suitable for children or older travelers?",
+        "a": "<p>Yes — the pace is relaxed with plenty of stops, though the medina can be crowded and streets are cobbled/uneven in places.</p>"
+      },
+      {
+        "q": "Can I combine this with another day trip?",
+        "a": "<p>Yes — many travelers do this walking tour on arrival day, then a longer trip like <a href=\"daytrip-agafay-desert-sunset.html\">Agafay Desert</a> or <a href=\"daytrip-ourika-valley.html\">Ourika Valley</a> later in their stay.</p>"
+      },
+      {
+        "q": "Do I need to pay any entrance fees on the day?",
+        "a": "<p>Yes, a small combined fee (~€7) for the Bahia Palace and Saadian Tombs is payable on-site in cash — this isn't included in the trip price.</p>"
+      }
+    ],
+    "extra": []
+  }
+}

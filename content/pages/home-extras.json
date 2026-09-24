@@ -1,0 +1,37 @@
+{
+  "testimonials": [
+    {
+      "quote": "\"Booked the Sahara trip solo and left with four new friends. The desert camp night was unforgettable and it cost half what a private tour quoted me.\"",
+      "name": "Priya S.",
+      "trip": "4-Day Sahara Desert Group Tour"
+    },
+    {
+      "quote": "\"Our driver and guide were fantastic and the group of 12 clicked instantly. Great value for everything that was packed into 7 days.\"",
+      "name": "Marco & Julie",
+      "trip": "7-Day Morocco Highlights Group Tour"
+    },
+    {
+      "quote": "\"As a solo backpacker this was exactly what I needed — affordable, sociable, and I didn't have to plan a single logistic myself.\"",
+      "name": "Daniel K.",
+      "trip": "4-Day Sahara Desert Group Tour"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Pick a route",
+      "text": "Browse fixed-date group departures and find one that fits your dates."
+    },
+    {
+      "title": "Reserve your seat",
+      "text": "Secure your spot with a small deposit — no need to fill the group yourself."
+    },
+    {
+      "title": "Meet the group",
+      "text": "We'll add you to a pre-departure chat so you can meet your travel companions."
+    },
+    {
+      "title": "Hit the road",
+      "text": "A local guide and driver handle the logistics — you just show up and enjoy it."
+    }
+  ]
+}

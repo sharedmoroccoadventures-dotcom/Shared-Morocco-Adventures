@@ -1,0 +1,272 @@
+{
+  "file": "tour-10-day-morocco-grand-circuit-tour.html",
+  "slug": "tour-10-day-morocco-grand-circuit-tour",
+  "meta": {
+    "title": "10-Day Morocco Grand Circuit Group Tour | Shared Morocco Adventures",
+    "description": "A 10-day shared group tour from Casablanca to Marrakech — imperial cities, Chefchaouen, the Sahara desert and the High Atlas. From €749pp.",
+    "canonical": "https://www.sharedmoroccoadventures.com/tour-10-day-morocco-grand-circuit-tour.html",
+    "ogTitle": "10-Day Morocco Grand Circuit Group Tour",
+    "ogDescription": "A shared, fixed-date group tour covering Morocco's imperial cities, Chefchaouen, the Sahara desert, and the High Atlas. From €749pp.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-morocco-countryside.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"10-Day Morocco Grand Circuit Group Tour\",\r\n  \"description\": \"A shared, fixed-date group tour from Casablanca to Marrakech covering Morocco's imperial cities, Chefchaouen, the Sahara desert, and the High Atlas.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Casablanca arrival\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Casablanca to Meknes via Rabat\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Meknes to Fes via Volubilis\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Fes medina exploration\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Fes to Chefchaouen\" },\r\n      { \"@type\": \"ListItem\", \"position\": 6, \"name\": \"Chefchaouen to Midelt\" },\r\n      { \"@type\": \"ListItem\", \"position\": 7, \"name\": \"Midelt to Merzouga Sahara camp\" },\r\n      { \"@type\": \"ListItem\", \"position\": 8, \"name\": \"Sahara camp to Ouarzazate\" },\r\n      { \"@type\": \"ListItem\", \"position\": 9, \"name\": \"Ouarzazate to Marrakech via Ait Benhaddou\" },\r\n      { \"@type\": \"ListItem\", \"position\": 10, \"name\": \"Departure from Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"749\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Group Tour · 10 Days",
+    "h1": "10-Day Morocco Grand Circuit Group Tour",
+    "lead": "Casablanca → Rabat → Fes → Chefchaouen → Sahara Desert → Marrakech",
+    "image": "images/blog-morocco-countryside.jpg"
+  },
+  "overview": {
+    "eyebrow": "Trip Overview",
+    "h2": "Morocco's essentials, without rushing",
+    "paras": [
+      "Our longest and most complete route — imperial cities, mountain passes, the blue lanes of Chefchaouen, a night in the Sahara, and Marrakech's medina, all in one shared circuit with enough days built in that no leg feels like a race against the clock.",
+      "Total driving distance is around 1,530 km over ten days, the most ground we cover on any single itinerary."
+    ],
+    "chips": [
+      "📍 Casablanca to Marrakech",
+      "👥 Max 16 travelers",
+      "🗓 Departs every other Sunday"
+    ],
+    "image": "images/blog-morocco-countryside.jpg"
+  },
+  "itinerary": {
+    "eyebrow": "Day by Day",
+    "h2": "Itinerary",
+    "days": [
+      {
+        "num": "Day 1",
+        "label": "Arrive",
+        "title": "Casablanca arrival",
+        "lead": "",
+        "paras": [
+          "Group welcome in Casablanca with a stop at the Hassan II Mosque. Evening free on the seafront corniche. Overnight in Casablanca."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 2",
+        "label": "Rabat",
+        "title": "Casablanca to Meknes via Rabat",
+        "lead": "≈230 km total · about 3 hrs driving",
+        "paras": [
+          "Morning stop in Rabat (≈90 km/1 hr) for the Kasbah of the Udayas and Hassan Tower, then on to Meknes (≈140 km/2 hrs) for the night."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 3",
+        "label": "Volubilis",
+        "title": "Meknes to Fes via Volubilis",
+        "lead": "≈90 km total · about 1.5 hrs driving",
+        "paras": [
+          "Morning tour of Meknes' royal stables, a stop at the Roman ruins of Volubilis (≈30 km/30 min), then on to Fes (≈60 km/1 hr) for the night."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 4",
+        "label": "Fes",
+        "title": "Fes medina exploration",
+        "lead": "",
+        "paras": [
+          "Full guided day through the Fes el-Bali medina — tanneries, souks, and the Bou Inania Madrasa. Overnight in Fes."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 5",
+        "label": "Chefchaouen",
+        "title": "Fes to Chefchaouen",
+        "lead": "≈200 km · about 3.5 hrs driving",
+        "paras": [
+          "Scenic drive north through the Rif Mountains. Afternoon free to wander the blue medina, with an optional sunset hike to the Spanish Mosque viewpoint. Overnight in Chefchaouen."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 6",
+        "label": "Transfer",
+        "title": "Chefchaouen to Midelt",
+        "lead": "≈350 km · about 5.5 hrs driving",
+        "paras": [
+          "Long but scenic drive south through the Middle Atlas cedar forests near Ifrane (look out for Barbary macaques) to the mountain gateway town of Midelt. Overnight in Midelt."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 7",
+        "label": "Desert",
+        "title": "Midelt to Merzouga Sahara camp",
+        "lead": "≈120 km · about 2 hrs driving",
+        "paras": [
+          "Short, dramatic drive down through the Ziz Valley gorge to Merzouga. Camel trek into the Erg Chebbi dunes for a night at the shared desert camp."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 8",
+        "label": "Return",
+        "title": "Sahara camp to Ouarzazate",
+        "lead": "≈330 km · about 5 hrs driving",
+        "paras": [
+          "Optional sunrise over the dunes, then a scenic drive back across the Atlas via Tinghir and the Todra and Dades Gorges, arriving in Ouarzazate for the night."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 9",
+        "label": "Marrakech",
+        "title": "Ouarzazate to Marrakech via Ait Benhaddou",
+        "lead": "≈210 km · about 3.5 hrs driving",
+        "paras": [
+          "Stop at the UNESCO-listed Ait Benhaddou kasbah before crossing the High Atlas to Marrakech, arriving with the evening free in the medina. Overnight in Marrakech."
+        ],
+        "extra": []
+      },
+      {
+        "num": "Day 10",
+        "label": "Depart",
+        "title": "Departure from Marrakech",
+        "lead": "",
+        "paras": [
+          "Free morning before your group transfer to Marrakech airport or onward accommodation. Trip ends."
+        ],
+        "extra": []
+      }
+    ]
+  },
+  "stay": {
+    "eyebrow": "Where You'll Stay",
+    "h2": "Accommodation on this route",
+    "intro": [
+      "Nine nights, shared throughout. Expect the same style and price bracket as these real budget properties in each city."
+    ],
+    "cards": [
+      {
+        "icon": "🏙️",
+        "title": "Night 1 · Casablanca",
+        "html": [
+          "A simple city hostel comparable to <strong>Aya House</strong> or <strong>Medina Guesthouse - Hostel</strong> — shared or twin rooms, from roughly €15–25/night."
+        ]
+      },
+      {
+        "icon": "🏛️",
+        "title": "Night 2 · Meknes",
+        "html": [
+          "A small, no-frills hotel near the medina, in the same bracket as Meknes' budget listings from around €14–20/night."
+        ]
+      },
+      {
+        "icon": "🏨",
+        "title": "Nights 3–4 · Fes",
+        "html": [
+          "A budget medina hostel comparable to <strong>Moroccan Dream Hostel</strong> or <strong>Riad Verus</strong> — traditional courtyard house, shared or twin rooms."
+        ]
+      },
+      {
+        "icon": "💙",
+        "title": "Night 5 · Chefchaouen",
+        "html": [
+          "A small blue-medina guesthouse similar to <strong>Bleu Home</strong> or <strong>Pension Soukia</strong>."
+        ]
+      },
+      {
+        "icon": "🏔️",
+        "title": "Night 6 · Midelt",
+        "html": [
+          "A simple mountain-gateway guesthouse — basic twin rooms, used as an overnight stop before the Ziz Valley descent."
+        ]
+      },
+      {
+        "icon": "⛺",
+        "title": "Night 7 · Merzouga desert camp",
+        "html": [
+          "<strong>Ideal Desert Camp</strong>, half board (HB) — dorm tents, shared bathrooms, dinner and breakfast included."
+        ]
+      },
+      {
+        "icon": "🏰",
+        "title": "Night 8 · Ouarzazate",
+        "html": [
+          "A budget guesthouse near the medina, similar to <strong>Le Petit Riad</strong>."
+        ]
+      },
+      {
+        "icon": "🕍",
+        "title": "Night 9 · Marrakech",
+        "html": [
+          "A medina riad comparable to <strong>Riad Jennah Rouge</strong> or <strong>Riad les Oliviers</strong> — dorm beds from around €15, near Jemaa el-Fnaa."
+        ]
+      },
+      {
+        "icon": "🛏️",
+        "title": "Private upgrade",
+        "html": [
+          "Private rooms are available on every night as a paid upgrade — let us know at booking, subject to availability."
+        ]
+      }
+    ],
+    "notes": []
+  },
+  "includes": [
+    "Shared transport in an air-conditioned minivan",
+    "English/French-speaking driver-guide throughout",
+    "9 nights' accommodation (shared twin/dorm rooms)",
+    "Camel trek and 1 night at the desert camp",
+    "Guided walking tours in Rabat, Meknes, Fes and Marrakech",
+    "Breakfast daily and 5 dinners"
+  ],
+  "excludes": [
+    "Flights and travel insurance",
+    "Hassan II Mosque interior tour ticket (optional add-on)",
+    "Lunches and remaining dinners",
+    "Tips for driver and guide",
+    "Private rooms (available on request, extra cost)"
+  ],
+  "price": {
+    "from": "From",
+    "amount": "€749",
+    "sub": "per person, shared twin/dorm room",
+    "ctaHref": "contact.html?trip=10-Day%20Morocco%20Grand%20Circuit%20Group%20Tour",
+    "ctaText": "Check Dates & Availability"
+  },
+  "good": {
+    "eyebrow": "Good to Know",
+    "h2": "Our most complete route",
+    "paras": [
+      "Groups are capped at 16 travelers. Departures run every other Sunday year-round — this route sells out fastest in October–April, so book a few weeks ahead in peak season.",
+      "Prefer a shorter version focused on either the Sahara and Fes or the desert and coast? See our <a href=\"tour-8-day-marrakech-sahara-fes-chefchaouen-tour.html\">8-Day Marrakech, Sahara, Fes &amp; Chefchaouen Tour</a> or <a href=\"tour-8-day-morocco-desert-atlantic-coast-tour.html\">8-Day Desert &amp; Coast Tour</a>.",
+      "<strong>Booking terms:</strong> Send an enquiry first; we confirm the departure, final price, and payment instructions by email. No payment is taken through this website."
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQs",
+    "h2": "10-Day Grand Circuit Questions",
+    "items": [
+      {
+        "q": "Is this trip too much driving?",
+        "a": "<p>It's our longest route in total distance, but it's spread over ten days with full free days in Fes and rest built into the schedule — no day exceeds about 5.5 hours of driving.</p>"
+      },
+      {
+        "q": "Can I join partway through, e.g. skip the imperial cities?",
+        "a": "<p>Yes — let us know at booking if you'd like to join in Fes or Marrakech instead of Casablanca. Pricing is adjusted accordingly.</p>"
+      },
+      {
+        "q": "Is accommodation shared for all 9 nights?",
+        "a": "<p>Yes, the €749 price is based on shared twin/dorm rooms throughout. A private room upgrade is available on request, subject to availability.</p>"
+      },
+      {
+        "q": "What should I pack for the desert night?",
+        "a": "<p>Desert nights get cold even in summer — bring a warm layer, plus sunscreen, a scarf or hat for wind and sun, and comfortable walking shoes.</p>"
+      },
+      {
+        "q": "What if the group doesn't fill up?",
+        "a": "<p>Departures run on fixed dates regardless of group size — your trip runs even if only a few seats are booked.</p>"
+      }
+    ],
+    "extra": []
+  }
+}

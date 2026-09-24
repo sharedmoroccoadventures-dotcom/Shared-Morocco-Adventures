@@ -1,0 +1,65 @@
+{
+  "file": "blog-essaouira-coastal-guide.html",
+  "slug": "blog-essaouira-coastal-guide",
+  "meta": {
+    "title": "Essaouira Guide: Morocco's Windy Coastal Escape | Shared Morocco Adventures",
+    "description": "A budget guide to Essaouira: the fishing port, Skala ramparts, seafood grills, and how to visit as a day trip from Marrakech.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-essaouira-coastal-guide.html",
+    "ogTitle": "Essaouira Guide: Morocco's Windy Coastal Escape",
+    "ogDescription": "A budget guide to Essaouira: the fishing port, Skala ramparts, seafood grills, and how to visit as a day trip from Marrakech.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-essaouira.jpg",
+    "jsonld": []
+  },
+  "hero": {
+    "eyebrow": "City Guide",
+    "h1": "Essaouira Guide: Morocco's Windy Coastal Escape",
+    "lead": "Blue-and-white fishing boats, crashing Atlantic waves, and grilled sardines — Essaouira is Marrakech's perfect cool-down.",
+    "image": "images/daytrip-essaouira.jpg"
+  },
+  "body": "<p>About two and a half hours west of Marrakech, Essaouira feels like a different country. The medina is smaller and calmer, the buildings are whitewashed instead of red, and a constant Atlantic breeze keeps the temperature noticeably cooler even in the height of summer. It's one of the most popular day trips from Marrakech for exactly that reason — a full change of pace without adding an overnight stay to your itinerary.</p>\r\n\r\n      <h2>The Fishing Port</h2>\r\n      <p>Essaouira's working port is the heart of the town, and it's genuinely active — you'll see brightly painted blue fishing boats unloading the day's catch, seagulls fighting over scraps, and fishermen mending nets right on the dock. It doesn't feel staged for tourists because it isn't; this is still a real working harbor, and wandering along it in the late morning when boats are coming in is one of the best free things to do in the whole town.</p>\r\n\r\n      <h2>The Skala Ramparts</h2>\r\n      <p>The Skala de la Ville, Essaouira's 18th-century sea bastion, is the town's signature photo spot — rows of old bronze and iron cannons lined up along the ramparts with the Atlantic crashing below. Walking the walls takes maybe 30-45 minutes and it's free to access. Go in the late afternoon for the best light, when the sun is lower and the walls glow a warm gold against the blue water.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">💡</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Bring a light jacket or windbreaker even in July and August — Essaouira's nickname is \"the Windy City\" for a reason, and it can feel 8-10°C cooler than Marrakech.</p>\r\n      </div>\r\n\r\n      <h2>Seafood Grills and Budget Eats</h2>\r\n      <p>Right at the port entrance you'll find a row of open-air seafood stalls where you pick your fish straight from the ice and they grill it in front of you — a full plate of fresh sardines, calamari, or prawns with bread and salad typically runs €6–10, making it one of the best-value meals in the whole country. For something more low-key, the food stalls scattered through the medina sell grilled corn, msemen, and fresh orange juice for a couple of euros.</p>\r\n      <p>Essaouira's medina is also known for thuya wood carving workshops — small artisan shops where you can watch craftsmen turn fragrant local wood into bowls, boxes, and chess sets. Prices are generally more relaxed and less aggressively bargained than in Marrakech's souks, which makes for a nice, low-pressure browsing experience.</p>\r\n\r\n      <h2>Why It's Cooler Than Marrakech (Literally and Figuratively)</h2>\r\n      <p>Because Essaouira sits directly on the Atlantic with almost nothing to block the wind, temperatures stay noticeably milder year-round than inland Marrakech, which is a big part of its appeal in the hot summer months. The town also has a laid-back, artsy energy — smaller crowds, fewer motorbikes weaving through alleys, and a strong surf and windsurf culture along the beach south of the medina walls.</p>\r\n\r\n      <h2>Visiting as a Budget Day Trip</h2>\r\n      <p>Because it's a fairly long drive each way, Essaouira is best visited as part of an organized day trip rather than a rushed solo dash on public transport, which can eat up your whole day in transit alone. A shared group day trip splits the transport cost between everyone in the van, which brings the price down significantly compared to a private taxi or tour, while still getting you there and back in a single comfortable day.</p>",
+  "cta": {
+    "h2": "Ready for the Coast",
+    "p": "Join our shared day trip to Essaouira and swap the medina heat for sea breeze and fresh seafood.",
+    "href": "daytrip-essaouira-coastal.html",
+    "label": "See the Essaouira Day Trip"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "Best Moroccan Street Food for Budget Travelers",
+      "meta": [],
+      "blurb": "Where to eat well without spending much.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-moroccan-street-food-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-street-food-marrakech.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Shared vs Private Tours in Morocco",
+      "meta": [],
+      "blurb": "Which style actually saves you the most money.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-shared-vs-private-tours.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Best Time to Visit Morocco for Budget Travelers",
+      "meta": [],
+      "blurb": "Seasons, weather, and prices across the country.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-best-time-to-visit-morocco.html",
+      "cta": "Read Article",
+      "image": "images/blog-morocco-countryside.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 3
+}

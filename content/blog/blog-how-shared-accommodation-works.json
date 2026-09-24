@@ -1,0 +1,67 @@
+{
+  "file": "blog-how-shared-accommodation-works.html",
+  "slug": "blog-how-shared-accommodation-works",
+  "meta": {
+    "title": "How Shared Accommodation Works on Group Tours | Shared Morocco Adventures",
+    "description": "How shared twin, dorm and desert-camp accommodation actually works on a Morocco group tour, and what a private-room upgrade costs if you want one.",
+    "canonical": "https://www.sharedmoroccoadventures.com/blog-how-shared-accommodation-works.html",
+    "ogTitle": "How Shared Accommodation Works on a Morocco Group Tour",
+    "ogDescription": "What shared twin rooms, desert-camp tents and half board actually mean on a Morocco group tour, and how to upgrade to a private room.",
+    "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-riad-courtyard.jpg",
+    "jsonld": [
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"Article\",\r\n  \"headline\": \"How Shared Accommodation Actually Works on These Tours\",\r\n  \"description\": \"What shared twin/dorm rooms, desert-camp tents and half board actually mean on a Morocco group tour, and how to upgrade to a private room.\",\r\n  \"author\": { \"@type\": \"Organization\", \"name\": \"Shared Morocco Adventures\" },\r\n  \"publisher\": {\r\n    \"@type\": \"Organization\",\r\n    \"name\": \"Shared Morocco Adventures\",\r\n    \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.sharedmoroccoadventures.com/images/logo-full-transparent.png\" }\r\n  },\r\n  \"mainEntityOfPage\": \"https://www.sharedmoroccoadventures.com/blog-how-shared-accommodation-works.html\"\r\n}"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Accommodation",
+    "h1": "How Shared Accommodation Actually Works on These Tours",
+    "lead": "What a shared room, a desert-camp tent, and \"half board\" actually mean before you book.",
+    "image": "images/blog-riad-courtyard.jpg"
+  },
+  "body": "<p>\"Shared accommodation\" is one of those phrases that sounds fine in the abstract and then raises questions the moment you're actually booking — shared with who, what's the room like, is there a way out of it. Here's exactly what it means on our tours, room by room.</p>\r\n\r\n      <h2>Shared Twin and Dorm Rooms in Riads and Guesthouses</h2>\r\n      <p>Most nights on our tours are spent in traditional riads or kasbah-style guesthouses, in a shared twin room — two beds, one room, usually with a shared or ensuite bathroom depending on the property. In Marrakech, for example, our tours use riads like Riad Dia, right next to Jemaa el-Fnaa; in Fes, Riad Fez Mahal or La Perle de la Medina; in the Dades Gorges, Luxury Dades Riad or Auberge Tissadrin. These are real guesthouses, not hostel dorms with bunk beds stacked six to a room — you're sharing a room with one other traveler, not a dozen.</p>\r\n      <p>If you're traveling solo, you'll be paired with a same-gender roommate rather than left to find one yourself or pay for a private room by default. We've covered exactly how that matching works in a separate guide: <a href=\"blog-morocco-tours-solo-travelers.html\">Morocco Tours for Solo Travelers: What to Expect</a>.</p>\r\n\r\n      <h2>What a Desert-Camp Tent Is Actually Like</h2>\r\n      <p>The desert-camp night is the one accommodation that looks genuinely different from a hotel room. Our standard desert camps, like Ideal Desert Camp near Merzouga, use Berber-style dorm tents at the edge of the Erg Chebbi dunes — simple bedded tents with shared bathroom facilities nearby, built for the experience (campfire dinner, music, a properly dark sky) rather than hotel-grade comfort. On our 8-Day Marrakech, Sahara, Fes &amp; Chefchaouen Tour specifically, that night is upgraded to a private, luxury camp instead, with a private en-suite tent and proper beds — the one route where the desert night is priced as a genuine upgrade rather than the standard shared setup.</p>\r\n\r\n      <div class=\"mini-card\" style=\"margin:28px 0;\">\r\n        <div class=\"icon-badge\">🛏️</div>\r\n        <h3>Quick Tip</h3>\r\n        <p>Desert-camp nights get cold even in summer once the sun's down — pack a warm layer regardless of which camp your tour uses.</p>\r\n      </div>\r\n\r\n      <h2>What \"Half Board\" Actually Means</h2>\r\n      <p>You'll see \"half board\" or \"HB\" mentioned on nights where dinner is included along with breakfast — typically the Dades Gorges and desert-camp nights, where there's often little else nearby and a set group dinner is simply the practical option. On nights without half board, breakfast is included but dinner is on you, which gives you the freedom to pick your own spot in a city with plenty of options, like Marrakech or Fes. Check the \"What's Included\" section on your specific tour page for the exact count of half-board nights — it varies by route.</p>\r\n\r\n      <h2>The Private-Room Upgrade</h2>\r\n      <p>If sharing isn't for you, a private room is available on every tour as a paid upgrade, subject to availability — just ask when you enquire. There's no single flat add-on price we can quote here since it depends on the specific route and which nights you want privately, so it's worth asking early, especially in peak season (October–April) when rooms sell out faster.</p>",
+  "cta": {
+    "h2": "See Accommodation Details for Every Route",
+    "p": "Each tour page lists exactly where you'll stay, night by night.",
+    "href": "tours.html",
+    "label": "View Group Tours"
+  },
+  "related": [
+    {
+      "badge": "",
+      "title": "A Guide to Riads: Budget-Friendly Accommodation",
+      "meta": [],
+      "blurb": "How riads work for independent travelers in Morocco.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-riads-budget-accommodation.html",
+      "cta": "Read Article",
+      "image": "images/blog-riad-courtyard.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Sahara Desert Camp: Sleeping Under the Stars",
+      "meta": [],
+      "blurb": "What the overnight desert camp is actually like.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-sahara-desert-camp-guide.html",
+      "cta": "Read Article",
+      "image": "images/blog-desert-camp-tents.jpg",
+      "tone": ""
+    },
+    {
+      "badge": "",
+      "title": "Morocco Tours for Solo Travelers: What to Expect",
+      "meta": [],
+      "blurb": "How roommate matching and meeting people actually works.",
+      "price": "",
+      "priceSub": "",
+      "href": "blog-morocco-tours-solo-travelers.html",
+      "cta": "Read Article",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "tone": ""
+    }
+  ],
+  "minutes": 2
+}
