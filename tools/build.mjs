@@ -533,18 +533,31 @@ ${related.length ? `<section class="section t-sand"><div class="wrap"><div class
 function buildAbout() {
   const a = P.about;
   const values = [
-    ['🎒', 'Budget-first, not budget-cut', 'Lower cost comes from sharing, not from skipping the highlights. Every route hits the same landmarks a private tour would.'],
-    ['🧭', 'Fixed departures, always', 'Our trips run on schedule whether the group is 4 people or 16. You never have to wait for a minimum headcount.'],
-    ['🌍', 'Local guides and drivers', 'Every group travels with a Morocco-based driver-guide who knows the routes, the history and the best tea stops.'],
+    ['🎒', 'Budget first, never budget cut', 'The price is lower because we share the costs, not because we skip the highlights. Every route visits the same landmarks a private tour would.'],
+    ['🧭', 'Fixed departures, always', 'Trips leave on schedule whether the group is 4 people or 16. No minimum headcount, no last minute cancellations because the group is too small.'],
+    ['🌍', 'Local people, real connections', 'Every group travels with a Moroccan driver guide, and every trip ends with new friends from around the world.'],
   ];
+  const company = { ice: '002790820000079', ifNum: '50151441' };
+  const orgLd = { '@context': 'https://schema.org', '@type': 'TravelAgency', name: 'Shared Morocco Adventures', url: 'https://www.sharedmoroccoadventures.com/', email: EMAIL, taxID: company.ifNum,
+    identifier: { '@type': 'PropertyValue', propertyID: 'ICE', value: company.ice },
+    address: { '@type': 'PostalAddress', addressLocality: 'Marrakech', addressCountry: 'MA' }, areaServed: 'Morocco' };
   const body = `${phero({ image: 'images/blog-group-travelers-morocco.jpg', eyebrow: 'About us', title: a.hero.h1, lead: a.hero.lead, crumbList: [['index.html', 'Home'], ['', 'About']] })}
-<section class="section t-cream"><div class="wrap--narrow"><p class="big-quote">Morocco’s Sahara, mountains and medinas have long been sold at private-tour prices. We think the best way to see them is together.</p></div></section>
-<section class="section t-sand"><div class="wrap"><div class="split">
+<section class="section t-cream"><div class="wrap--narrow"><p class="big-quote">You arrive as a stranger in a minivan. Three days later you’re sharing mint tea under the Sahara stars with friends from five countries. That’s the trip we build.</p></div></section>
+<section class="section t-sand"><div class="wrap"><div class="split" style="align-items:start">
   <div><span class="eyebrow eyebrow--dune">Our story</span><h2 class="h1" data-r="words">Built for <span class="serif hl">travelers,</span> not just tourists</h2>
-    <p class="lede">A dedicated car and guide for every traveler is great if you can afford it, but it locks a lot of people out.</p>
-    <p>Shared Morocco Adventures runs the same iconic routes on a shared model instead: one vehicle, one guide, one desert camp, split across a small group. The result is a trip that costs a fraction of the private price, and comes with a group of fellow travelers along for the ride.</p>
-    <p>We keep groups small (never more than 16), departures frequent and fixed, and the itineraries focused on what backpackers actually want to see.</p></div>
-  <div class="split-img" data-r="mask" data-p>${img('images/blog-camel-trek-closeup.jpg', 'Travelers on a camel trek in the Sahara')}</div>
+    <p class="lede">Every week in Marrakech we see the same thing. A traveler steps out of the medina with a dream of the Sahara, then walks straight into a private tour price made for honeymooners. Or they end up alone in the back of a car for ten hours, watching the most beautiful roads in North Africa pass by with nobody to share them with.</p>
+    <p>We started Shared Morocco Adventures to change that. The idea is simple: one vehicle, one local guide, one desert camp, shared by a small group of people who have never met. Everyone pays a fair share, and nobody travels alone.</p>
+    <p>It works because Morocco is a country made for sharing. Tea is poured for everyone at the table. Tagines are eaten from the same plate. At the desert camp, the drums come out and the whole group ends up around one fire. Our trips follow that same spirit. A solo backpacker from Canada, a couple from Brazil and two friends from Japan climb into the same minivan in Marrakech. By the time they reach the dunes of Merzouga, they have a group chat, a dozen inside jokes and plans to meet again somewhere else in the world.</p>
+    <p>We keep groups small, never more than 16 travelers. Departures are fixed and run every week, so you never have to wait for enough people to sign up. Our guides and drivers are Moroccan, born and raised here. They know which café on the Tizi n’Tichka pass has the best view, which family in the valley makes the best bread, and how to turn a long drive into the best part of the day.</p>
+    <p>We’re not a booking website, and we’re not a big foreign agency. We’re a team on the ground in Marrakech, and every trip we sell is one we run ourselves.</p></div>
+  <div class="split-img" data-r="mask" data-p style="position:sticky;top:calc(var(--hdr-h) + 30px)">${img('images/blog-camel-trek-closeup.jpg', 'Travelers on a camel trek in the Sahara')}</div>
+</div></div></section>
+<section class="section t-cream"><div class="wrap"><div class="split">
+  <div><span class="eyebrow eyebrow--dune">Registered and local</span><h2 class="h1" data-r="words">A real Moroccan company, on the ground in <span class="serif hl">Marrakech</span></h2>
+    <p class="lede">Shared Morocco Adventures is a company officially registered in Marrakech, Morocco. We operate under Moroccan law with our own local team, guides and drivers, so your money stays with the people who actually make your trip happen.</p>
+    <p>Before you book, you deal directly with us. We confirm your dates, your seat and the final price by email, and nothing is charged until everything is agreed.</p></div>
+  <div class="value" data-r="up" style="padding:clamp(24px,3vw,36px)"><span class="value__icon" aria-hidden="true">🏛️</span><h3>Company details</h3>
+    <dl class="company-facts"><div><dt>Registered in</dt><dd>Marrakech, Morocco</dd></div><div><dt>ICE</dt><dd>${company.ice}</dd></div><div><dt>Identifiant Fiscal (IF)</dt><dd>${company.ifNum}</dd></div><div><dt>Email</dt><dd><a href="mailto:${EMAIL}">${EMAIL}</a></dd></div></dl></div>
 </div></div></section>
 <section class="section t-dark grain"><div class="wrap">
   <div class="stats" style="margin-bottom:clamp(44px,5.4vw,80px);background:rgba(255,255,255,.1)">
@@ -556,8 +569,8 @@ function buildAbout() {
   <div class="head"><span class="eyebrow">What we stand for</span><h2 class="h1" data-r="words">Our approach to group travel</h2></div>
   <div class="grid g-3" data-stagger="up">${values.map(([ic, h, t]) => `<div class="value"><span class="value__icon" aria-hidden="true">${ic}</span><h3>${h}</h3><p>${t}</p></div>`).join('')}</div>
 </div></section>
-${band({ title: a.cta?.h2 || 'Come travel with the group', text: a.cta?.p, href: 'tours.html', label: 'Browse group tours' })}`;
-  out('about.html', page({ ...common, meta: a.meta, section: 'about', body, preload: 'images/blog-group-travelers-morocco.jpg', extraLd: [breadcrumbLd([['index.html', 'Home'], ['about.html', 'About']])] }));
+${band({ title: 'Come travel with the group', text: 'Pick a route, grab a seat, and meet your travel companions in Marrakech or Fes. We’ll handle the roads, the riads and the camp.', href: 'tours.html', label: 'Browse group tours' })}`;
+  out('about.html', page({ ...common, meta: a.meta, section: 'about', body, preload: 'images/blog-group-travelers-morocco.jpg', extraLd: [breadcrumbLd([['index.html', 'Home'], ['about.html', 'About']]), orgLd] }));
 }
 
 /* ================= FAQS ================= */

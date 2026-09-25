@@ -829,3 +829,9 @@ a.chip:hover { background: var(--dune); color: #fff; transform: translateY(-3px)
 .off-screen, .off-screen * { animation-play-state: paused !important; }
 .xp__tile, .tcard, .ecard, .day__card { contain: layout paint; }
 @media print { .hdr, .ftr, .mdock, .cursor, .rail, .progress { display: none !important; } .js [data-r] { opacity: 1 !important; transform: none !important; clip-path: none !important; } }
+/* ---------- 31. Company facts (About) ---------- */
+.company-facts { margin: 6px 0 0; display: grid; gap: 0; }
+.company-facts > div { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 16px; padding: 12px 0; border-top: 1px solid var(--line); }
+.company-facts dt { font-size: .76rem; font-weight: 650; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-soft); }
+.company-facts dd { margin: 0; font-weight: 650; font-variant-numeric: tabular-nums; letter-spacing: .01em; }
+.company-facts a { color: var(--dune); text-decoration: none; word-break: break-all; }
