@@ -119,9 +119,9 @@ ${meta.canonical ? `<meta property="og:url" content="${attr(meta.canonical)}">` 
 <link rel="preload" as="style" href="${FONTS}" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="${FONTS}"></noscript>
 ${preload ? preloadTag(preload) : ''}
+<link rel="icon" href="favicon.ico" sizes="48x48">
 <link rel="icon" type="image/svg+xml" href="images/logo-mark.svg">
-<link rel="icon" type="image/png" href="images/logo-icon.png">
-<link rel="apple-touch-icon" href="images/logo-icon.png">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="stylesheet" href="css/site.css">
 <script>document.documentElement.classList.add('js')</script>
 <script src="js/site.js" defer></script>

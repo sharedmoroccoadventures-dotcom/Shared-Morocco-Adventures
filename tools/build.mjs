@@ -632,7 +632,7 @@ function buildContact() {
     </form>
   </div>
   <div class="contact-side">
-    <div class="contact-photo" data-r="up">${img('images/marrakech-koutoubia-palms.jpg', 'The Koutoubia Mosque minaret and palm trees in Marrakech')}<span class="contact-photo__badge"><img class="contact-photo__logo" src="images/logo-icon.png" alt="" width="44" height="44"><span><b>Shared Morocco Adventures</b>Based in Marrakech · Registered local company</span></span></div>
+    <div class="contact-photo" data-r="up">${img('images/marrakech-koutoubia-palms.jpg', 'The Koutoubia Mosque minaret and palm trees in Marrakech')}<span class="contact-photo__badge"><img class="contact-photo__logo" src="images/logo-mark.svg" alt="" width="44" height="44"><span><b>Shared Morocco Adventures</b>Based in Marrakech · Registered local company</span></span></div>
     <span class="eyebrow eyebrow--dune">Other ways to reach us</span>
     <h2 class="h2" data-r="words">We’re here to <span class="serif hl">help</span></h2>
     <p class="muted">Ready to book or still weighing your options? Drop us a line and we’ll help you pick the right route and departure date.</p>
