@@ -47,7 +47,7 @@
   },
   "includes": [
     "Shared minivan",
-    "English/French driver-guide",
+    "English/Spanish/French driver-guide",
     "Hotel/riad pickup"
   ],
   "excludes": [
