@@ -604,7 +604,15 @@ ${band({ title: f.cta?.h2 || 'Still have questions?', text: f.cta?.p, href: f.ct
 /* ================= CONTACT ================= */
 function buildContact() {
   const pill = (name, list) => `<div class="pills" role="radiogroup">${list.map(([v, l], i) => `<input type="radio" id="${name}-${i}" name="${name}" value="${attr(v)}"${i === 0 ? ' checked' : ''}><label for="${name}-${i}">${l}</label>`).join('')}</div>`;
-  const body = `${phero({ eyebrow: 'Contact', title: 'Reserve your seat or <span class="serif" style="color:var(--saffron)">ask a question</span>', lead: 'We reply within 24 hours with departure dates, availability and the final price.', crumbList: [['index.html', 'Home'], ['', 'Contact']] })}
+  const nextSteps = [
+    ['Send your message', 'Tell us the trip, your dates and how many of you are traveling. It takes two minutes.'],
+    ['We reply within 24 hours', 'A real person from our Marrakech team confirms availability, your seat and the final price by email.'],
+    ['Secure your seat', 'A deposit holds your place and the balance is due before departure. Nothing is charged until everything is agreed.'],
+    ['Meet your group', 'We add you to a pre departure chat so you can say hello to your travel companions before day one.'],
+  ];
+  const ideas = ['tour-4-day-sahara-desert-group-tour.html', 'tour-4-day-fes-chefchaouen-volubilis-tour.html', 'tour-3-day-atlas-mountains-agafay-group-escape.html', 'tour-8-day-morocco-desert-atlantic-coast-tour.html'].map(tourBy).filter(Boolean);
+  const quickFaq = (P.faqs.categories[0]?.items || []).slice(0, 4);
+  const body = `${phero({ image: 'images/blog-koutoubia-mosque.jpg', short: true, eyebrow: 'Contact', title: 'Reserve your seat or <span class="serif" style="color:var(--saffron)">ask a question</span>', lead: 'We reply within 24 hours with departure dates, availability and the final price. Every message is answered by our team in Marrakech.', crumbList: [['index.html', 'Home'], ['', 'Contact']] })}
 <section class="section t-cream"><div class="wrap"><div class="split" style="align-items:start">
   <div class="form-card" data-r="up">
     <h2 class="h3">Send us a message</h2>
@@ -623,17 +631,33 @@ function buildContact() {
       <div><button type="submit" class="btn btn--dune"><span>Check dates &amp; availability</span><span class="ico">${I.arrow}</span></button></div>
     </form>
   </div>
-  <div style="position:sticky;top:calc(var(--hdr-h) + 30px)">
+  <div class="contact-side">
+    <div class="contact-photo" data-r="up">${img('images/marrakech-medina-souk.jpg', 'The souks of the Marrakech medina')}<span class="contact-photo__badge"><b>Based in Marrakech</b>Registered local company</span></div>
     <span class="eyebrow eyebrow--dune">Other ways to reach us</span>
-    <h2 class="h1" data-r="words">We’re here to <span class="serif hl">help</span></h2>
-    <p class="lede muted">Whether you’re ready to book or just weighing your options, drop us a line. We’re happy to help you pick the right route and departure date.</p>
-    <div class="grid" style="margin-top:30px" data-stagger="up">
-      <a class="value" href="mailto:${EMAIL}" style="text-decoration:none"><span class="value__icon" style="width:34px">${I.mail}</span><h3 style="font-size:1.05rem;word-break:break-all">${EMAIL}</h3><p>Email us any time</p></a>
-      <div class="value"><span class="value__icon" style="width:34px">${I.clock}</span><h3 style="font-size:1.05rem">Response within 24 hours</h3><p>Every enquiry is answered by a person, not a bot.</p></div>
-      <div class="value"><span class="value__icon" style="width:34px">${I.check}</span><h3 style="font-size:1.05rem">How booking works</h3><p>Send your preferred dates and group details. We confirm availability, price and payment instructions by email before anything is charged.</p></div>
-    </div>
+    <h2 class="h2" data-r="words">We’re here to <span class="serif hl">help</span></h2>
+    <p class="muted">Ready to book or still weighing your options? Drop us a line and we’ll help you pick the right route and departure date.</p>
+    <ul class="contact-list" data-stagger="up">
+      <li><span class="contact-list__ico">${I.mail}</span><div><small>Email us any time</small><a href="mailto:${EMAIL}">${EMAIL}</a></div></li>
+      <li><span class="contact-list__ico">${I.clock}</span><div><small>Response time</small><b>Within 24 hours, by a real person</b></div></li>
+      <li><span class="contact-list__ico">${I.check}</span><div><small>Guides speak</small><b>English, Spanish and French</b></div></li>
+    </ul>
+    <p class="contact-legal">Shared Morocco Adventures · Marrakech, Morocco · ICE 002790820000079 · IF 50151441</p>
   </div>
-</div></div></section>`;
+</div></div></section>
+<section class="section t-dark grain"><div class="wrap">
+  <div class="head head--row"><div><span class="eyebrow">What happens next</span><h2 class="h2" data-r="words">From first message to <span class="serif hl">day one</span></h2></div><p class="muted" style="max-width:38ch;margin:0">No payment on the website, no pressure. Here is exactly how it works.</p></div>
+  <div class="steps" data-stagger="up">${nextSteps.map(([h, t], i) => `<div class="step"><div class="step__n">0${i + 1}</div><h3>${h}</h3><p>${t}</p></div>`).join('')}</div>
+</div></section>
+<section class="section t-cream"><div class="wrap">
+  <div class="head head--row"><div><span class="eyebrow eyebrow--dune">Need inspiration?</span><h2 class="h2" data-r="words">Where your message could <span class="serif hl">take you</span></h2></div>${btn('tours.html', 'All group tours')}</div>
+  <div class="grid contact-ideas" data-stagger="up">${ideas.map(t => `<a class="xp__tile" href="${t.file}" data-cursor="View">${img(t.image, '')}<span class="xp__num">${t.days} days</span><h3>${esc(strip(t.short))}</h3><p class="contact-ideas__price">From €${t.price} per person</p></a>`).join('')}</div>
+</div></section>
+${quickFaq.length ? `<section class="section t-sand"><div class="wrap"><div class="faq-split">
+  <aside class="faq-aside"><div class="faq-aside__img" data-r="up">${img('images/blog-mint-tea.jpg', '')}<span class="faq-aside__icon" aria-hidden="true">💬</span></div>
+    <span class="eyebrow eyebrow--dune">Before you write</span><h2 class="h2" data-r="words">Quick answers</h2>
+    <p class="muted">The questions we hear most about booking. There are more on our <a href="faqs.html">FAQs page</a>.</p></aside>
+  <div>${faqList(quickFaq)}<p style="margin-top:22px">${btn('faqs.html', 'See all FAQs', 'btn--ghost')}</p></div>
+</div></div></section>` : ''}`;
   out('contact.html', page({ ...common, meta: P.contact.meta, section: 'contact', body, extraLd: [breadcrumbLd([['index.html', 'Home'], ['contact.html', 'Contact']])] }));
 }
 
