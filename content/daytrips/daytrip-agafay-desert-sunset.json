@@ -3,13 +3,13 @@
   "slug": "daytrip-agafay-desert-sunset",
   "meta": {
     "title": "Agafay Desert Sunset Day Trip | Shared Morocco Adventures",
-    "description": "A half/full-day shared trip from Marrakech to the Agafay stone desert — camel ride and golden-hour sunset, no overnight required. From €46pp.",
+    "description": "A half/full-day shared trip from Marrakech to the Agafay stone desert — camel ride and golden-hour sunset, no overnight required. From €41pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-agafay-desert-sunset.html",
     "ogTitle": "Agafay Desert Sunset Day Trip",
-    "ogDescription": "A shared day trip from Marrakech to the Agafay stone desert for a camel ride and sunset. From €46pp.",
+    "ogDescription": "A shared day trip from Marrakech to the Agafay stone desert for a camel ride and sunset. From €41pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-agafay-desert.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Agafay Desert Sunset Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech to the Agafay stone desert for a camel ride and golden-hour sunset, with no overnight required.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"46\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Agafay Desert Sunset Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech to the Agafay stone desert for a camel ride and golden-hour sunset, with no overnight required.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"41\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -59,7 +59,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€46",
+    "amount": "€41",
     "sub": "per person · departs daily, timed to sunset",
     "ctaHref": "contact.html?trip=Agafay%20Desert%20Sunset%20Day%20Trip",
     "ctaText": "Reserve This Day Trip"

@@ -3,13 +3,13 @@
   "slug": "daytrip-meknes-volubilis-moulay-idriss",
   "meta": {
     "title": "Meknes, Volubilis & Moulay Idriss Day Trip | Shared Morocco Adventures",
-    "description": "A full-day shared trip from Fes to Meknes, the Roman ruins of Volubilis, and the holy hillside town of Moulay Idriss Zerhoun. From €38pp.",
+    "description": "A full-day shared trip from Fes to Meknes, the Roman ruins of Volubilis, and the holy hillside town of Moulay Idriss Zerhoun. From €34pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-meknes-volubilis-moulay-idriss.html",
     "ogTitle": "Meknes, Volubilis & Moulay Idriss Day Trip",
-    "ogDescription": "A shared day trip from Fes covering Meknes, Volubilis and Moulay Idriss Zerhoun. From €38pp.",
+    "ogDescription": "A shared day trip from Fes covering Meknes, Volubilis and Moulay Idriss Zerhoun. From €34pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-meknes-volubilis.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Meknes, Volubilis and Moulay Idriss Day Trip\",\r\n  \"description\": \"A shared day trip from Fes to the imperial city of Meknes, the Roman ruins of Volubilis, and the hillside holy town of Moulay Idriss Zerhoun.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"38\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Meknes, Volubilis and Moulay Idriss Day Trip\",\r\n  \"description\": \"A shared day trip from Fes to the imperial city of Meknes, the Roman ruins of Volubilis, and the hillside holy town of Moulay Idriss Zerhoun.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"34\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -58,7 +58,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€38",
+    "amount": "€34",
     "sub": "per person · departs daily",
     "ctaHref": "contact.html?trip=Meknes%20Volubilis%20and%20Moulay%20Idriss%20Day%20Trip",
     "ctaText": "Reserve This Day Trip"

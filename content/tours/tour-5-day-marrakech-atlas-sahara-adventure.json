@@ -3,13 +3,13 @@
   "slug": "tour-5-day-marrakech-atlas-sahara-adventure",
   "meta": {
     "title": "5-Day Marrakech, Atlas & Sahara Adventure | Shared Morocco Adventures",
-    "description": "A 5-day shared group tour from Marrakech to the Sahara at a slower pace — Ait Benhaddou, the Valley of Roses, Dades & Todra Gorges. From €428pp.",
+    "description": "A 5-day shared group tour from Marrakech to the Sahara at a slower pace — Ait Benhaddou, the Valley of Roses, Dades & Todra Gorges. From €385pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/tour-5-day-marrakech-atlas-sahara-adventure.html",
     "ogTitle": "5-Day Marrakech, Atlas & Sahara Adventure",
-    "ogDescription": "A shared, fixed-date group tour from Marrakech to the Sahara desert with extra time in the Berber valleys along the way. From €428pp.",
+    "ogDescription": "A shared, fixed-date group tour from Marrakech to the Sahara desert with extra time in the Berber valleys along the way. From €385pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-ourika-valley.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"5-Day Marrakech, Atlas and Sahara Adventure\",\r\n  \"description\": \"A shared, fixed-date group tour from Marrakech to the Sahara desert at a slower pace, with extra time in the Berber valleys of the High Atlas.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Marrakech to Skoura via Ait Benhaddou\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Skoura to Dades Gorge via the Valley of Roses\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Dades Gorge to Merzouga via Todra Gorge\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Sahara camp to Ouarzazate\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Ouarzazate back to Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"428\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"5-Day Marrakech, Atlas and Sahara Adventure\",\r\n  \"description\": \"A shared, fixed-date group tour from Marrakech to the Sahara desert at a slower pace, with extra time in the Berber valleys of the High Atlas.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Marrakech to Skoura via Ait Benhaddou\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Skoura to Dades Gorge via the Valley of Roses\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Dades Gorge to Merzouga via Todra Gorge\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Sahara camp to Ouarzazate\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Ouarzazate back to Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"385\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
     ]
   },
   "hero": {
@@ -135,7 +135,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€428",
+    "amount": "€385",
     "sub": "per person, shared twin/dorm room",
     "ctaHref": "contact.html?trip=5-Day%20Marrakech%20Atlas%20and%20Sahara%20Adventure",
     "ctaText": "Check Dates & Availability"
@@ -159,7 +159,7 @@
       },
       {
         "q": "Is accommodation shared?",
-        "a": "<p>Yes — the €428 price is based on shared twin or dorm-style rooms throughout. A private room upgrade is available on request for an additional cost.</p>"
+        "a": "<p>Yes — the €385 price is based on shared twin or dorm-style rooms throughout. A private room upgrade is available on request for an additional cost.</p>"
       },
       {
         "q": "What should I pack for the desert night?",

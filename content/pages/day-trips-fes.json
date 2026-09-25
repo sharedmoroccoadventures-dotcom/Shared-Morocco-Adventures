@@ -3,25 +3,25 @@
   "slug": "day-trips-fes",
   "meta": {
     "title": "Budget Day Trips from Fes | Shared Group Tours Morocco",
-    "description": "Shared, budget group day trips from Fes — Chefchaouen Blue City, Meknes & Volubilis, Ifrane cedar forest, and Sefrou & Bhalil. From €25pp.",
+    "description": "Shared, budget group day trips from Fes — Chefchaouen Blue City, Meknes & Volubilis, Ifrane cedar forest, and Sefrou & Bhalil. From €23pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/day-trips-fes.html",
     "ogTitle": "Budget Day Trips from Fes | Shared Group Tours Morocco",
-    "ogDescription": "Shared, small-group, fixed-departure day trips from Fes — Chefchaouen, Roman ruins, cedar forest, and hidden-gem towns. From €25pp.",
+    "ogDescription": "Shared, small-group, fixed-departure day trips from Fes — Chefchaouen, Roman ruins, cedar forest, and hidden-gem towns. From €23pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/tour-chefchaouen.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"ItemList\",\r\n  \"name\": \"Budget Day Trips from Fes\",\r\n  \"itemListElement\": [\r\n    { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Sefrou & Bhalil Half-Day Trip\", \"url\": \"daytrip-sefrou-bhalil.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"25\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Meknes, Volubilis & Moulay Idriss Day Trip\", \"url\": \"daytrip-meknes-volubilis-moulay-idriss.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"38\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Ifrane & Middle Atlas Cedar Forest Day Trip\", \"url\": \"daytrip-ifrane-cedar-forest.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"38\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Chefchaouen Blue City Day Trip\", \"url\": \"daytrip-chefchaouen-blue-city.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"51\" } } }\r\n  ]\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"ItemList\",\r\n  \"name\": \"Budget Day Trips from Fes\",\r\n  \"itemListElement\": [\r\n    { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Sefrou & Bhalil Half-Day Trip\", \"url\": \"daytrip-sefrou-bhalil.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"23\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Meknes, Volubilis & Moulay Idriss Day Trip\", \"url\": \"daytrip-meknes-volubilis-moulay-idriss.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"34\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 3, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Ifrane & Middle Atlas Cedar Forest Day Trip\", \"url\": \"daytrip-ifrane-cedar-forest.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"34\" } } },\r\n    { \"@type\": \"ListItem\", \"position\": 4, \"item\": { \"@type\": \"TouristTrip\", \"name\": \"Chefchaouen Blue City Day Trip\", \"url\": \"daytrip-chefchaouen-blue-city.html\", \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"46\" } } }\r\n  ]\r\n}"
     ]
   },
   "hero": {
     "eyebrow": "Budget Day Trips · Fes",
     "h1": "All shared group day trips from Fes",
-    "lead": "Every budget day trip we run from Fes, on one page — the Blue City of Chefchaouen, Roman ruins at Volubilis, alpine Ifrane, and the hidden-gem towns of Sefrou and Bhalil. Shared small-group transport, fixed daily departures, from €25 per person.",
+    "lead": "Every budget day trip we run from Fes, on one page — the Blue City of Chefchaouen, Roman ruins at Volubilis, alpine Ifrane, and the hidden-gem towns of Sefrou and Bhalil. Shared small-group transport, fixed daily departures, from €23 per person.",
     "image": "images/tour-chefchaouen.jpg"
   },
   "trips": [
     {
       "id": "chefchaouen",
-      "eyebrow": "From €51pp · Full Day · Best Seller",
+      "eyebrow": "From €46pp · Full Day · Best Seller",
       "h2": "Chefchaouen Blue City Day Trip",
       "route": "Fes → Rif Mountains → Chefchaouen Medina → Free Time → Fes",
       "lead": "≈400 km round trip · about 7 hrs driving",
@@ -37,7 +37,7 @@
       "notes": [
         "<strong>Includes:</strong> shared minivan, English/Spanish/French driver-guide, guided medina walk, hotel/riad pickup. <strong>Not included:</strong> lunch, Kasbah Museum entrance fee, travel insurance."
       ],
-      "price": "From €51",
+      "price": "From €46",
       "priceSub": "per person · departs daily, book ahead in high season",
       "links": [
         {
@@ -53,7 +53,7 @@
     },
     {
       "id": "meknes-volubilis",
-      "eyebrow": "From €38pp · Full Day · Best Value",
+      "eyebrow": "From €34pp · Full Day · Best Value",
       "h2": "Meknes, Volubilis &amp; Moulay Idriss Day Trip",
       "route": "Fes → Meknes → Volubilis Roman Ruins → Moulay Idriss Zerhoun → Fes",
       "lead": "≈190 km round trip · about 3.5 hrs driving",
@@ -69,7 +69,7 @@
       "notes": [
         "<strong>Includes:</strong> shared minivan, driver-guide, guided stops at all three sites, hotel/riad pickup. <strong>Not included:</strong> Volubilis entrance fee, lunch, travel insurance."
       ],
-      "price": "From €38",
+      "price": "From €34",
       "priceSub": "per person · departs daily",
       "links": [
         {
@@ -85,7 +85,7 @@
     },
     {
       "id": "ifrane-cedar-forest",
-      "eyebrow": "From €38pp · Full Day · Nature",
+      "eyebrow": "From €34pp · Full Day · Nature",
       "h2": "Ifrane &amp; Middle Atlas Cedar Forest Day Trip",
       "route": "Fes → Ifrane → Azrou Cedar Forest → Barbary Macaques → Fes",
       "lead": "≈145 km round trip · about 2.5 hrs driving",
@@ -101,7 +101,7 @@
       "notes": [
         "<strong>Includes:</strong> shared minivan, driver-guide, guided stops in Ifrane and the cedar forest, hotel/riad pickup. <strong>Not included:</strong> lunch, travel insurance."
       ],
-      "price": "From €38",
+      "price": "From €34",
       "priceSub": "per person · departs daily",
       "links": [
         {
@@ -117,7 +117,7 @@
     },
     {
       "id": "sefrou-bhalil",
-      "eyebrow": "From €25pp · Half Day · Hidden Gem",
+      "eyebrow": "From €23pp · Half Day · Hidden Gem",
       "h2": "Sefrou &amp; Bhalil Half-Day Trip",
       "route": "Fes → Bhalil Cave Houses → Sefrou Old Town → Fes",
       "lead": "≈65 km round trip · about 1.5 hrs driving",
@@ -133,7 +133,7 @@
       "notes": [
         "<strong>Includes:</strong> shared minivan, driver-guide, guided visits to Bhalil and Sefrou, hotel/riad pickup. <strong>Not included:</strong> lunch, travel insurance."
       ],
-      "price": "From €25",
+      "price": "From €23",
       "priceSub": "per person · departs daily",
       "links": [
         {

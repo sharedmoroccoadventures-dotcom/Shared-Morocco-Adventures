@@ -3,13 +3,13 @@
   "slug": "tour-3-day-atlas-mountains-agafay-group-escape",
   "meta": {
     "title": "3-Day Atlas Mountains & Agafay Group Escape | Shared Morocco Adventures",
-    "description": "A 3-day shared group escape from Marrakech into the High Atlas foothills and Agafay stone desert, with a sunset camel ride and desert camp night. From €285pp.",
+    "description": "A 3-day shared group escape from Marrakech into the High Atlas foothills and Agafay stone desert, with a sunset camel ride and desert camp night. From €257pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/tour-3-day-atlas-mountains-agafay-group-escape.html",
     "ogTitle": "3-Day Atlas Mountains & Agafay Group Escape",
-    "ogDescription": "A shared, fixed-date group escape from Marrakech — Atlas Mountain villages, a valley walk, and a sunset camel ride and camp night in the Agafay desert. From €285pp.",
+    "ogDescription": "A shared, fixed-date group escape from Marrakech — Atlas Mountain villages, a valley walk, and a sunset camel ride and camp night in the Agafay desert. From €257pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-agafay-desert.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"3-Day Atlas Mountains and Agafay Group Escape\",\r\n  \"description\": \"A shared, fixed-date group escape from Marrakech into the High Atlas foothills, followed by a sunset camel ride and overnight camp in the Agafay stone desert.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Marrakech to the High Atlas foothills\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Atlas foothills to the Agafay stone desert\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Agafay desert back to Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"285\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"3-Day Atlas Mountains and Agafay Group Escape\",\r\n  \"description\": \"A shared, fixed-date group escape from Marrakech into the High Atlas foothills, followed by a sunset camel ride and overnight camp in the Agafay stone desert.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Marrakech to the High Atlas foothills\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Atlas foothills to the Agafay stone desert\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Agafay desert back to Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"257\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
     ]
   },
   "hero": {
@@ -114,7 +114,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€285",
+    "amount": "€257",
     "sub": "per person, shared twin/dorm room",
     "ctaHref": "contact.html?trip=3-Day%20Atlas%20Mountains%20and%20Agafay%20Group%20Escape",
     "ctaText": "Check Dates & Availability"

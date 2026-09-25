@@ -3,13 +3,13 @@
   "slug": "daytrip-marrakech-medina-walking-tour",
   "meta": {
     "title": "Marrakech Medina Guided Walking Tour | Shared Morocco Adventures",
-    "description": "A half-day shared walking tour through Marrakech's medina — Jemaa el-Fnaa, the souks, Bahia Palace, Koutoubia Mosque and the Saadian Tombs. From €20pp.",
+    "description": "A half-day shared walking tour through Marrakech's medina — Jemaa el-Fnaa, the souks, Bahia Palace, Koutoubia Mosque and the Saadian Tombs. From €18pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-marrakech-medina-walking-tour.html",
     "ogTitle": "Marrakech Medina Guided Walking Tour",
-    "ogDescription": "A shared half-day walking tour through Marrakech's UNESCO-listed medina. From €20pp.",
+    "ogDescription": "A shared half-day walking tour through Marrakech's UNESCO-listed medina. From €18pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/marrakech-jemaa-el-fnaa.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Marrakech Medina Guided Walking Tour\",\r\n  \"description\": \"A shared, half-day walking tour through Marrakech's UNESCO-listed medina, covering Jemaa el-Fnaa, the souks, Bahia Palace, Koutoubia Mosque, and the Saadian Tombs.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"20\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Marrakech Medina Guided Walking Tour\",\r\n  \"description\": \"A shared, half-day walking tour through Marrakech's UNESCO-listed medina, covering Jemaa el-Fnaa, the souks, Bahia Palace, Koutoubia Mosque, and the Saadian Tombs.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"18\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -59,7 +59,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€20",
+    "amount": "€18",
     "sub": "per person · morning &amp; afternoon slots",
     "ctaHref": "contact.html?trip=Marrakech%20Medina%20Guided%20Walking%20Tour",
     "ctaText": "Reserve This Walking Tour"

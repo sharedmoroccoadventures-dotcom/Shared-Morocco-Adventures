@@ -3,13 +3,13 @@
   "slug": "daytrip-ait-benhaddou-ouarzazate",
   "meta": {
     "title": "Ait Benhaddou & Ouarzazate Day Trip | Shared Morocco Adventures",
-    "description": "A full-day shared trip from Marrakech across the Tizi n'Tichka pass to the UNESCO kasbah of Ait Benhaddou and Ouarzazate's film studios. From €51pp.",
+    "description": "A full-day shared trip from Marrakech across the Tizi n'Tichka pass to the UNESCO kasbah of Ait Benhaddou and Ouarzazate's film studios. From €46pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-ait-benhaddou-ouarzazate.html",
     "ogTitle": "Ait Benhaddou & Ouarzazate Day Trip",
-    "ogDescription": "A shared day trip from Marrakech to the UNESCO-listed Ait Benhaddou kasbah and Ouarzazate. From €51pp.",
+    "ogDescription": "A shared day trip from Marrakech to the UNESCO-listed Ait Benhaddou kasbah and Ouarzazate. From €46pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-ait-benhaddou.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ait Benhaddou and Ouarzazate Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech across the Tizi n'Tichka pass to the UNESCO-listed Ait Benhaddou kasbah and the film-studio town of Ouarzazate.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"51\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ait Benhaddou and Ouarzazate Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech across the Tizi n'Tichka pass to the UNESCO-listed Ait Benhaddou kasbah and the film-studio town of Ouarzazate.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"46\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -58,7 +58,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€51",
+    "amount": "€46",
     "sub": "per person · departs daily",
     "ctaHref": "contact.html?trip=Ait%20Benhaddou%20and%20Ouarzazate%20Day%20Trip",
     "ctaText": "Reserve This Day Trip"

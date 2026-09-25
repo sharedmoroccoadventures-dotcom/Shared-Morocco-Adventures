@@ -3,13 +3,13 @@
   "slug": "daytrip-sefrou-bhalil",
   "meta": {
     "title": "Sefrou & Bhalil Half-Day Trip | Shared Morocco Adventures",
-    "description": "A half-day shared trip from Fes to the cave houses of Bhalil and the walled medina of Sefrou. Our cheapest day trip, from €25pp.",
+    "description": "A half-day shared trip from Fes to the cave houses of Bhalil and the walled medina of Sefrou. Our cheapest day trip, from €23pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-sefrou-bhalil.html",
     "ogTitle": "Sefrou & Bhalil Half-Day Trip",
-    "ogDescription": "A shared half-day trip from Fes to the cave houses of Bhalil and the old town of Sefrou. From €25pp.",
+    "ogDescription": "A shared half-day trip from Fes to the cave houses of Bhalil and the old town of Sefrou. From €23pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/fes-medina-tannery.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Sefrou and Bhalil Half-Day Trip\",\r\n  \"description\": \"A shared half-day trip from Fes to the troglodyte cave houses of Bhalil and the walled medina of Sefrou.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"25\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Sefrou and Bhalil Half-Day Trip\",\r\n  \"description\": \"A shared half-day trip from Fes to the troglodyte cave houses of Bhalil and the walled medina of Sefrou.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"23\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -57,7 +57,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€25",
+    "amount": "€23",
     "sub": "per person · departs daily",
     "ctaHref": "contact.html?trip=Sefrou%20and%20Bhalil%20Half-Day%20Trip",
     "ctaText": "Reserve This Half-Day Trip"

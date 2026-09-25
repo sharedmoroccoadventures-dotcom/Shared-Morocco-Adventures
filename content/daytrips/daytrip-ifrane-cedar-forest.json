@@ -3,13 +3,13 @@
   "slug": "daytrip-ifrane-cedar-forest",
   "meta": {
     "title": "Ifrane & Middle Atlas Cedar Forest Day Trip | Shared Morocco Adventures",
-    "description": "A full-day shared trip from Fes to Ifrane and the Middle Atlas cedar forest near Azrou, home to wild Barbary macaques. From €38pp.",
+    "description": "A full-day shared trip from Fes to Ifrane and the Middle Atlas cedar forest near Azrou, home to wild Barbary macaques. From €34pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-ifrane-cedar-forest.html",
     "ogTitle": "Ifrane & Middle Atlas Cedar Forest Day Trip",
-    "ogDescription": "A shared day trip from Fes to alpine Ifrane and the Azrou cedar forest. From €38pp.",
+    "ogDescription": "A shared day trip from Fes to alpine Ifrane and the Azrou cedar forest. From €34pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-ifrane-cedar-forest.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ifrane and Middle Atlas Cedar Forest Day Trip\",\r\n  \"description\": \"A shared day trip from Fes to the alpine town of Ifrane and the Middle Atlas cedar forest near Azrou, home to wild Barbary macaques.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"38\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ifrane and Middle Atlas Cedar Forest Day Trip\",\r\n  \"description\": \"A shared day trip from Fes to the alpine town of Ifrane and the Middle Atlas cedar forest near Azrou, home to wild Barbary macaques.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"34\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -57,7 +57,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€38",
+    "amount": "€34",
     "sub": "per person · departs daily",
     "ctaHref": "contact.html?trip=Ifrane%20and%20Middle%20Atlas%20Cedar%20Forest%20Day%20Trip",
     "ctaText": "Reserve This Day Trip"

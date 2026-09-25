@@ -234,7 +234,7 @@ function buildHome() {
   const dayPicks = ['daytrip-marrakech-medina-walking-tour.html', 'daytrip-ourika-valley.html', 'daytrip-agafay-desert-sunset.html', 'daytrip-chefchaouen-blue-city.html'].map(h => daytrips.find(d => d.href === h)).filter(Boolean);
   const dayTrips = `<section class="section t-sand" aria-labelledby="dt-h">
   <div class="wrap">
-    <div class="head head--row"><div><span class="eyebrow eyebrow--dune">Short on time?</span><h2 class="h2" id="dt-h" data-r="words">Shared day trips from Marrakech &amp; Fes, from €20</h2></div>${btn('day-trips.html', 'All day trips')}</div>
+    <div class="head head--row"><div><span class="eyebrow eyebrow--dune">Short on time?</span><h2 class="h2" id="dt-h" data-r="words">Shared day trips from Marrakech &amp; Fes, from €18</h2></div>${btn('day-trips.html', 'All day trips')}</div>
     <div class="grid g-4">${dayPicks.map(d => ecard({ href: d.href, image: d.image, title: d.title, blurb: d.blurb }, { tag: d.badge, meta: [noEmoji(d.meta[0]), d.length] })).join('')}</div>
   </div>
 </section>`;
