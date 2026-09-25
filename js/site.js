@@ -84,6 +84,16 @@
   W.addEventListener('scroll', request, { passive: true });
   W.addEventListener('resize', () => { vh = W.innerHeight; vw = W.innerWidth; resizers.forEach(f => f()); request(); });
   const resizers = [];
+
+  /* clip-path reveals (mask, wipe): IntersectionObserver treats a fully clipped
+     target as never visible, so these are revealed from their position instead. */
+  const clipReveal = new Set(reduce ? [] : [...$$('[data-r="mask"], [data-r="wipe"]')]);
+  clipReveal.forEach(el => revealIO.unobserve(el));
+  const checkClip = () => clipReveal.forEach(el => {
+    const r = el.getBoundingClientRect();
+    if (r.top < vh * 0.9 && r.bottom > 0) { el.classList.add('is-in'); clipReveal.delete(el); }
+  });
+  if (clipReveal.size) { handlers.push(checkClip); checkClip(); W.addEventListener('load', checkClip); }
   // only do per-frame work for things that are near the viewport
   const near = new WeakSet();
   const nearIO = new IntersectionObserver(es => es.forEach(e => e.isIntersecting ? near.add(e.target) : near.delete(e.target)), { rootMargin: '60% 0px' });
