@@ -2,71 +2,213 @@
   "file": "faqs.html",
   "meta": {
     "title": "FAQs | Shared Morocco Adventures",
-    "description": "Answers to common questions about booking a shared group tour in Morocco: group sizes, accommodation, pricing, and what to pack.",
+    "description": "Answers to the most asked questions about shared group tours in Morocco: prices, departure days, the Sahara desert camp, accommodation, meals, visas, safety and airport transfers.",
     "canonical": "https://www.sharedmoroccoadventures.com/faqs.html",
     "ogTitle": "FAQs",
-    "ogDescription": "Answers to common questions about booking a shared group tour in Morocco: group sizes, accommodation, pricing, and what to pack.",
+    "ogDescription": "Answers to the most asked questions about shared group tours in Morocco: prices, departure days, the Sahara desert camp, accommodation, meals, visas, safety and airport transfers.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-atlas-mountains-toubkal.jpg",
     "jsonld": []
   },
   "hero": {
     "eyebrow": "FAQs",
     "h1": "Frequently asked questions",
-    "lead": "",
-    "image": "images/blog-atlas-mountains-toubkal.jpg"
+    "lead": "Booking, prices, the Sahara, where you sleep and who you travel with. Everything travelers ask before joining a shared group tour in Morocco.",
+    "image": "images/marrakech-jemaa-el-fnaa.jpg"
   },
   "categories": [
     {
+      "key": "booking",
       "eyebrow": "Booking",
+      "icon": "📝",
       "h2": "Reservations &amp; Payment",
+      "image": "images/marrakech-medina-souk.jpg",
+      "intro": "How to reserve a seat, when you pay and what happens if plans change.",
       "items": [
         {
-          "q": "How do I book a spot?",
-          "a": "<p>Pick a trip from our <a href=\"tours.html\">Group Tours</a> page and reach out through the <a href=\"contact.html\">contact form</a> with your preferred departure date. We'll confirm availability and send payment instructions.</p>"
+          "q": "How do I book a spot on a group tour?",
+          "a": "<p>Pick a trip on our <a href=\"tours.html\">Group Tours page</a> and send us your preferred departure date through the <a href=\"contact.html\">contact form</a>. We reply within 24 hours to confirm availability, the final price and payment instructions by email.</p>"
+        },
+        {
+          "q": "Can I pay online on the website?",
+          "a": "<p>No payment is taken through this website. You send an enquiry first, we confirm your seat and the final price by email, and nothing is charged until everything is agreed.</p>"
         },
         {
           "q": "Do I need to pay the full amount upfront?",
-          "a": "<p>No — a deposit secures your seat, with the balance due before departure. Full details are sent with your booking confirmation.</p>"
+          "a": "<p>No. A deposit secures your seat and the balance is due before departure. Full details are sent with your booking confirmation.</p>"
         },
         {
-          "q": "What's your cancellation policy?",
-          "a": "<p>Deposits are refundable up to 14 days before departure. Cancellations within 14 days are handled case-by-case — contact us and we'll do our best to help.</p>"
+          "q": "What is your cancellation policy?",
+          "a": "<p>Deposits are refundable up to 14 days before departure. Cancellations within 14 days are handled case by case, so contact us and we will do our best to help.</p>"
+        },
+        {
+          "q": "How far in advance should I book?",
+          "a": "<p>October to April is our busiest season and popular routes sell out, so booking a few weeks ahead is a good idea. Outside peak season you can often join with shorter notice. Just ask us about your dates.</p>"
+        },
+        {
+          "q": "Is Shared Morocco Adventures a registered company?",
+          "a": "<p>Yes. We are a local company officially registered in Marrakech, Morocco (ICE 002790820000079, IF 50151441), with our own Moroccan guides and drivers. You deal directly with our team, not a middleman. Read more <a href=\"about.html\">about us</a>.</p>"
         }
       ]
     },
     {
-      "eyebrow": "On The Road",
-      "h2": "Groups &amp; Accommodation",
+      "key": "shared",
+      "eyebrow": "Shared Tours Explained",
+      "icon": "🚐",
+      "h2": "How shared group tours work",
+      "image": "images/blog-group-travelers-morocco.jpg",
+      "intro": "One vehicle, one guide, one desert camp, split across a small group. Here is how it works.",
+      "items": [
+        {
+          "q": "What is a shared group tour in Morocco?",
+          "a": "<p>A shared group tour is a fixed date trip where a small group of travelers who book separately share the same minivan, driver guide and accommodation. You see the same highlights as a private tour, such as the Sahara, the Atlas Mountains and the imperial cities, while splitting the cost. See <a href=\"blog-how-fixed-departure-tours-work.html\">how fixed departure tours work</a>.</p>"
+        },
+        {
+          "q": "Why is a shared tour cheaper than a private tour?",
+          "a": "<p>On a private tour you pay for the whole vehicle, guide and camp yourself. On a shared tour those costs are split across up to 16 travelers, so each person pays a fraction of the private price for the same route. Compare both in our guide to <a href=\"blog-shared-vs-private-tours.html\">shared vs private tours</a>.</p>"
+        },
+        {
+          "q": "How much does a group tour in Morocco cost?",
+          "a": "<p>Our multi day group tours start from €135 per person for the 5 Day Shared Marrakech Adventure, with the popular <a href=\"tour-4-day-sahara-desert-group-tour.html\">4 Day Sahara Desert Group Tour</a> from €249 and longer routes up to €830 for the 8 day Sahara, Fes and Chefchaouen tour with a luxury desert camp. Day trips start from €15. See the <a href=\"blog-morocco-group-tour-cost-2026.html\">full 2026 cost breakdown</a>.</p>"
+        },
+        {
+          "q": "Which days do the tours depart?",
+          "a": "<p>Every route runs on fixed dates year round. The 4 Day Sahara, 6 Day Marrakech to Fes and the 8 day routes leave on Saturdays, the 5 Day Atlas and Sahara on Tuesdays, the 7 Day Highlights on Sundays, the 3 Day Atlas Escape on Fridays, the 4 Day Fes and Chefchaouen on Mondays, and the 10 Day Grand Circuit every other Sunday. Each <a href=\"tours.html\">tour page</a> shows its schedule.</p>"
+        },
+        {
+          "q": "What happens if the group does not fill up?",
+          "a": "<p>Your trip still runs. Our departures leave on their fixed dates even if only a few seats are booked, so you never have to wait for a minimum group size.</p>"
+        },
+        {
+          "q": "Can I join as a solo traveler?",
+          "a": "<p>Yes, and most of our travelers arrive solo. You will be paired with a roommate of the same gender for shared rooms unless you choose a private room upgrade. Read our guide for <a href=\"blog-morocco-tours-solo-travelers.html\">solo travelers</a>.</p>"
+        }
+      ]
+    },
+    {
+      "key": "stay",
+      "eyebrow": "On the Road",
+      "icon": "🛏️",
+      "h2": "Groups, rooms &amp; meals",
+      "image": "images/blog-riad-courtyard.jpg",
+      "intro": "Who you will travel with, where you will sleep and what is on the table.",
       "items": [
         {
           "q": "How big are the groups?",
-          "a": "<p>Most departures run between 6 and 16 travelers — small enough to stay sociable and personal, large enough to keep prices low.</p>"
+          "a": "<p>Groups are capped at 16 travelers, and most departures run with between 6 and 16 people. Small enough to stay sociable and personal, large enough to keep prices low.</p>"
+        },
+        {
+          "q": "Who travels on these trips?",
+          "a": "<p>A mix of solo travelers, couples and groups of friends from all over the world, mostly in their 20s to 40s, looking for an affordable and sociable way to see Morocco.</p>"
+        },
+        {
+          "q": "Where will I sleep?",
+          "a": "<p>In well rated hostels and riads in the cities, kasbah style guesthouses in the mountains and valleys, and a Berber style camp at the edge of the Erg Chebbi dunes on Sahara routes. Each tour page names the exact places. See <a href=\"blog-how-shared-accommodation-works.html\">how shared accommodation works</a>.</p>"
         },
         {
           "q": "Is accommodation private or shared?",
-          "a": "<p>Our listed prices are based on shared twin or dorm-style rooms. If you'd prefer a private room, let us know when booking — it's available as a paid upgrade, subject to availability.</p>"
+          "a": "<p>Listed prices are based on shared twin or dorm style rooms, and a shared tent at the desert camp. A private room is available on every tour as a paid upgrade, subject to availability. Just ask when you enquire.</p>"
         },
         {
-          "q": "What's the typical traveler on these trips like?",
-          "a": "<p>A mix of solo travelers, couples, and friend groups, mostly in their 20s to 40s, looking for an affordable, sociable way to see Morocco.</p>"
+          "q": "Are meals included?",
+          "a": "<p>Breakfast is included every day, and dinner is included on half board nights such as the Dades Gorges and the desert camp. Lunches and the remaining dinners are paid locally, which lets you choose anything from street food to a restaurant. Each tour page lists exactly which meals are included.</p>"
+        },
+        {
+          "q": "What languages do the guides speak?",
+          "a": "<p>Our driver guides speak English and French. They are Moroccan, born and raised here, and know the routes and stories well.</p>"
         }
       ]
     },
     {
-      "eyebrow": "Practical",
-      "h2": "Packing &amp; Logistics",
+      "key": "sahara",
+      "eyebrow": "The Sahara",
+      "icon": "🐪",
+      "h2": "Desert tours &amp; camps",
+      "image": "images/blog-desert-camp-tents.jpg",
+      "intro": "Everything about the trip to Merzouga, the camel ride and a night under the stars.",
       "items": [
         {
-          "q": "What should I pack?",
-          "a": "<p>Layers — Morocco's temperature swings a lot between day and night, especially in the desert and mountains. Bring sun protection, comfortable walking shoes, and a warm layer for desert camp nights.</p>"
+          "q": "What is the best Sahara desert tour from Marrakech?",
+          "a": "<p>For most travelers it is the <a href=\"tour-4-day-sahara-desert-group-tour.html\">4 Day Sahara Desert Group Tour</a>: Ait Benhaddou, the Dades Gorges, a camel trek and a night at a desert camp in Merzouga, from €249. If you prefer a slower pace choose the <a href=\"tour-5-day-marrakech-atlas-sahara-adventure.html\">5 Day Marrakech, Atlas and Sahara Adventure</a>, and if you want to finish in Fes choose the <a href=\"tour-6-day-imperial-cities-chefchaouen-tour.html\">6 Day Marrakech, Sahara and Fes Tour</a>.</p>"
+        },
+        {
+          "q": "How long is the drive from Marrakech to the Sahara?",
+          "a": "<p>Merzouga is roughly 445 km from Marrakech, about 8 hours of driving before stops, over the Tizi n'Tichka pass and through the valleys. That is why our tours split it over two days with a night in the Dades Gorges. See the <a href=\"blog-marrakech-to-merzouga-group-tour-route.html\">day by day route</a>.</p>"
+        },
+        {
+          "q": "Is the camel ride included?",
+          "a": "<p>Yes. Every Sahara route includes a camel ride into the Erg Chebbi dunes and one night at the desert camp. Here is <a href=\"blog-camel-trekking-merzouga.html\">what the camel trek is like</a>.</p>"
+        },
+        {
+          "q": "What is the desert camp like?",
+          "a": "<p>A Berber style camp at the edge of the dunes with shared tents, dinner and breakfast included, campfire music and a sky full of stars. Facilities are simple by design. The 8 day Sahara, Fes and Chefchaouen tour uses a private luxury camp with en suite tents. Read the <a href=\"blog-sahara-desert-camp-guide.html\">desert camp guide</a>.</p>"
+        },
+        {
+          "q": "Is it cold in the desert at night?",
+          "a": "<p>Yes, even in summer the desert cools down fast after sunset, and winter nights can be close to freezing. Bring a warm layer, a scarf or hat for sun and wind, and comfortable shoes. See our <a href=\"blog-sahara-desert-packing-list.html\">Sahara packing list</a>.</p>"
+        },
+        {
+          "q": "When is the best time to visit the Sahara?",
+          "a": "<p>October to April is the most comfortable season, with warm days and cool nights. Summer days can be very hot, so tours still run but the best moments are sunrise and sunset. Read the <a href=\"blog-best-time-sahara-desert.html\">month by month guide</a>.</p>"
+        }
+      ]
+    },
+    {
+      "key": "getting",
+      "eyebrow": "Getting Around",
+      "icon": "✈️",
+      "h2": "Transfers &amp; day trips",
+      "image": "images/daytrip-ourika-valley.jpg",
+      "intro": "Getting from the airport to your riad, and short trips when you only have a day.",
+      "items": [
+        {
+          "q": "Where do the tours start and end?",
+          "a": "<p>Most routes start in Marrakech, and some start in Fes or Casablanca. Several tours include airport pick up on day one and drop you at your accommodation at the end. The details are on each tour page, or ask us if you need a different city.</p>"
+        },
+        {
+          "q": "Do you offer airport transfers?",
+          "a": "<p>Yes, from Marrakech Menara and Fes Saiss airports. In Marrakech a shared shuttle is from €12 per person and a private transfer from €30 per vehicle. In Fes a shared shuttle is from €25 per person and a private transfer from €40 per vehicle. See <a href=\"airport-transfers.html\">airport transfers</a>.</p>"
+        },
+        {
+          "q": "Do you run day trips from Marrakech and Fes?",
+          "a": "<p>Yes. Shared <a href=\"day-trips-marrakech.html\">day trips from Marrakech</a> start from €15 and include the Ourika Valley, the Agafay Desert, Essaouira, Ouzoud Waterfalls and Ait Benhaddou. <a href=\"day-trips-fes.html\">Day trips from Fes</a> start from €19 and include Chefchaouen, Meknes and Volubilis, and Ifrane.</p>"
+        },
+        {
+          "q": "How much luggage can I bring?",
+          "a": "<p>One large suitcase and one carry on per person. On routes with a desert night we suggest a small overnight bag for the camp, and on some tours your main luggage can stay stored at the Marrakech hostel. Tell us about extra luggage when booking.</p>"
+        }
+      ]
+    },
+    {
+      "key": "practical",
+      "eyebrow": "Practical",
+      "icon": "🎒",
+      "h2": "Packing, visas &amp; safety",
+      "image": "images/blog-morocco-packing-list.jpg",
+      "intro": "The practical things to sort out before you fly.",
+      "items": [
+        {
+          "q": "What should I pack for a Morocco group tour?",
+          "a": "<p>Layers, because temperatures swing a lot between day and night in the desert and mountains. Bring sun protection, comfortable walking shoes, a warm layer for desert nights and clothes that cover shoulders and knees for towns and villages. Here is our <a href=\"blog-morocco-packing-list.html\">complete packing list</a>.</p>"
+        },
+        {
+          "q": "Do I need a visa for Morocco?",
+          "a": "<p>Citizens of more than 60 countries, including the EU, UK, US, Canada and Australia, can visit Morocco visa free for up to 90 days. You get a passport stamp on arrival, with no visa to arrange in advance. Always check the rules for your nationality before you travel. See our <a href=\"blog-morocco-visa-requirements.html\">visa guide</a>.</p>"
         },
         {
           "q": "Do I need travel insurance?",
           "a": "<p>Yes, travel insurance is required for all our trips and is not included in the trip price.</p>"
         },
         {
-          "q": "Where do trips start and end?",
-          "a": "<p>Pickup and drop-off points vary by route — check the specific tour page for details, or ask us if you need a different city.</p>"
+          "q": "Is Morocco safe for travelers?",
+          "a": "<p>Morocco is one of the safer countries in North Africa for tourism and violent crime against travelers is rare. The main issues are hassle from touts and a few well known scams, which a local guide helps you avoid. Read <a href=\"blog-is-morocco-safe.html\">is Morocco safe</a> and our guide for <a href=\"blog-solo-female-travel-morocco.html\">solo female travelers</a>.</p>"
+        },
+        {
+          "q": "How much cash should I bring?",
+          "a": "<p>Bring some cash in Moroccan dirhams for lunches, entrance fees, tips and small purchases, since many places in the countryside do not take cards. ATMs are easy to find in the cities. See our guide to <a href=\"blog-money-in-morocco-guide.html\">money in Morocco</a>.</p>"
+        },
+        {
+          "q": "What is the best time to visit Morocco?",
+          "a": "<p>Spring (March to May) and autumn (September to November) bring the most comfortable weather across the country. Winter is great for the desert and cities, while summer is hot inland but pleasant on the coast. Read the <a href=\"blog-best-time-to-visit-morocco.html\">best time to visit Morocco</a>.</p>"
         }
       ]
     }

@@ -579,14 +579,24 @@ function buildFaqs() {
   const all = f.categories.flatMap(c => c.items);
   const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: all.map(it => ({ '@type': 'Question', name: strip(it.q), acceptedAnswer: { '@type': 'Answer', text: strip(it.a) } })) };
   const hasFaqLd = (f.meta.jsonld || []).some(s => /FAQPage/.test(s));
-  const body = `${phero({ eyebrow: 'FAQs', title: f.hero.h1, lead: 'Booking, payments, what to pack, who you will travel with. Everything in one place.', crumbList: [['index.html', 'Home'], ['', 'FAQs']] })}
-<section class="section t-cream"><div class="wrap--narrow">
-  <label class="sr" for="faq-q">Search the FAQs</label>
-  <input id="faq-q" class="faq-search" type="search" placeholder="Search questions, e.g. deposit, desert, solo" autocomplete="off">
-  <p class="faq-empty muted" hidden style="margin-top:22px">No matching questions. <a href="contact.html">Ask us directly</a>, we reply within 24 hours.</p>
-  <div class="chips" style="margin:26px 0 10px">${f.categories.map(c => `<a class="chip" href="#${slug(c.h2)}">${esc(strip(c.h2))}</a>`).join('')}</div>
-  ${f.categories.map(c => `<div data-faq-cat id="${slug(c.h2)}" style="margin-top:clamp(40px,4.4vw,56px)"><span class="eyebrow eyebrow--dune">${esc(c.eyebrow)}</span><h2 class="h2" data-r="words">${c.h2}</h2>${faqList(c.items)}</div>`).join('')}
+  const facts = [['👥', 'Max 16 travelers'], ['📅', 'Fixed weekly departures'], ['💶', `Tours from €${minPrice}`], ['⏱️', 'Replies within 24 hours']];
+  const body = `${phero({ image: f.hero.image, short: true, eyebrow: 'FAQs', title: f.hero.h1, lead: f.hero.lead, crumbList: [['index.html', 'Home'], ['', 'FAQs']] })}
+<section class="section t-cream faq-top"><div class="wrap">
+  <div class="head head--row"><div><span class="eyebrow eyebrow--dune">Find your answer</span><h2 class="h2" data-r="words">${all.length} questions, <span class="serif hl">answered</span></h2></div>
+    <div class="faq-top__search"><label class="sr" for="faq-q">Search the FAQs</label><input id="faq-q" class="faq-search" type="search" placeholder="Search, e.g. deposit, desert, solo, visa" autocomplete="off"></div></div>
+  <p class="faq-empty muted" hidden style="margin:0 0 24px">No matching questions. <a href="contact.html">Ask us directly</a>, we reply within 24 hours.</p>
+  <ul class="faq-facts" aria-label="Quick facts">${facts.map(([i, t]) => `<li><span aria-hidden="true">${i}</span>${t}</li>`).join('')}</ul>
+  <div class="grid faq-cats" data-stagger="up">${f.categories.map(c => `<a class="xp__tile faq-cat" href="#${c.key}" data-cursor="Open">${img(c.image, '')}<span class="xp__num">${c.items.length} questions</span><span class="faq-cat__icon" aria-hidden="true">${c.icon}</span><h3>${esc(strip(c.h2))}</h3></a>`).join('')}</div>
 </div></section>
+${f.categories.map((c, i) => `<section class="section faq-sec ${i % 2 ? 't-cream' : 't-sand'}" data-faq-cat id="${c.key}" aria-labelledby="h-${c.key}"><div class="wrap"><div class="faq-split">
+  <aside class="faq-aside">
+    <div class="faq-aside__img" data-r="up">${img(c.image, '')}<span class="faq-aside__icon" aria-hidden="true">${c.icon}</span></div>
+    <span class="eyebrow eyebrow--dune">${esc(c.eyebrow)}</span>
+    <h2 class="h2" id="h-${c.key}" data-r="words">${c.h2}</h2>
+    <p class="muted">${esc(c.intro)}</p>
+  </aside>
+  <div>${faqList(c.items)}</div>
+</div></div></section>`).join('\n')}
 ${band({ title: f.cta?.h2 || 'Still have questions?', text: f.cta?.p, href: f.cta?.href || 'contact.html', label: f.cta?.label || 'Contact us' })}`;
   out('faqs.html', page({ ...common, meta: f.meta, section: 'faqs', body, solid: false, extraLd: [...(hasFaqLd ? [] : [faqLd]), breadcrumbLd([['index.html', 'Home'], ['faqs.html', 'FAQs']])] }));
 }
