@@ -133,7 +133,7 @@ function buildHome() {
   <div class="hero__media">${img('images/blog-camel-trek-closeup.jpg', 'A small group riding camels in a line across the Sahara dunes', { eager: true, h: 933 })}</div>
   <div class="hero__sun" data-depth="-30" aria-hidden="true"></div>
   <div class="hero__dunes" aria-hidden="true" data-depth="12">
-    <svg viewBox="0 0 1440 260" preserveAspectRatio="none" style="height:clamp(120px,18vw,260px)"><path class="d2" fill="#16222f" fill-opacity=".85" d="M0 150C180 90 320 110 480 130s280-60 480-40c160 15 300 60 480 30v140H0z"/><path class="d1" fill="#0b141d" d="M0 200c200-40 380-10 560-25 200-17 320 25 520 15 160-8 260-30 360-20v90H0z"/></svg>
+    <svg viewBox="0 0 1440 260" preserveAspectRatio="none" style="height:clamp(110px,15vw,220px)"><path class="d2" fill="#16222f" fill-opacity=".85" d="M0 150C180 90 320 110 480 130s280-60 480-40c160 15 300 60 480 30v140H0z"/><path class="d1" fill="#0b141d" d="M0 200c200-40 380-10 560-25 200-17 320 25 520 15 160-8 260-30 360-20v90H0z"/></svg>
     ${caravan}
   </div>
   <div class="wrap hero__inner">
@@ -398,7 +398,7 @@ ${mdock(d.price.amount, d.price.sub, d.price.ctaHref)}`;
 
 /* ================= DAY TRIPS ================= */
 function buildDayTrips() {
-  const hubCard = h => `<a class="xp__tile" href="${h.href}" data-cursor="Open" style="min-height:420px" data-r="mask">${img(h.image, '')}<span class="tag" style="position:absolute;top:22px;left:22px">${esc(h.badge)}</span><h3 style="font-size:var(--fs-2)">${h.title}</h3><p style="max-height:none">${h.blurb}</p><span class="link-arrow" style="margin-top:14px;color:var(--saffron)">${esc(h.price)} · See all ${I.arrow}</span></a>`;
+  const hubCard = h => `<a class="xp__tile" href="${h.href}" data-cursor="Open" style="min-height:clamp(340px,30vw,400px)" data-r="mask">${img(h.image, '')}<span class="tag" style="position:absolute;top:22px;left:22px">${esc(h.badge)}</span><h3 style="font-size:var(--fs-2)">${h.title}</h3><p style="max-height:none">${h.blurb}</p><span class="link-arrow" style="margin-top:14px;color:var(--saffron)">${esc(h.price)} · See all ${I.arrow}</span></a>`;
   const f = (items) => items.map(([v, l], i) => `<button type="button" class="fbtn" data-group="from" data-value="${v}" aria-pressed="${i === 0}">${l}</button>`).join('');
   const body = `${phero({ image: P.dt.hero.image, eyebrow: P.dt.hero.eyebrow, title: P.dt.hero.h1, lead: P.dt.hero.lead, crumbList: [['index.html', 'Home'], ['', 'Day Trips']] })}
 <section class="section t-cream"><div class="wrap">
@@ -502,7 +502,7 @@ function buildBlog() {
   const [first, ...rest] = posts;
   const body = `${phero({ image: P.blog.hero.image, eyebrow: P.blog.hero.eyebrow || 'Blog', title: P.blog.hero.h1, lead: P.blog.hero.lead, crumbList: [['index.html', 'Home'], ['', 'Blog']], short: true })}
 <section class="section t-cream"><div class="wrap">
-  <div class="grid" style="margin-bottom:clamp(60px,8vw,110px)">${ecard({ href: first.href, image: first.image, title: first.title, blurb: first.blurb }, { feature: true, tag: 'Latest · ' + first.cat, meta: [first.mins] })}</div>
+  <div class="grid" style="margin-bottom:clamp(44px,5.4vw,80px)">${ecard({ href: first.href, image: first.image, title: first.title, blurb: first.blurb }, { feature: true, tag: 'Latest · ' + first.cat, meta: [first.mins] })}</div>
   <div class="filters" data-filters="#post-grid" role="group" aria-label="Filter articles"><span class="filters__label">Topic</span>
     <button type="button" class="fbtn" data-group="cat" data-value="" aria-pressed="true">All</button>${cats.map(c => `<button type="button" class="fbtn" data-group="cat" data-value="${slug(c)}" aria-pressed="false">${esc(c)}</button>`).join('')}
     <span class="fcount" aria-live="polite">${rest.length} articles</span></div>
@@ -547,7 +547,7 @@ function buildAbout() {
   <div class="split-img" data-r="mask" data-p>${img('images/blog-camel-trek-closeup.jpg', 'Travelers on a camel trek in the Sahara')}</div>
 </div></div></section>
 <section class="section t-dark grain"><div class="wrap">
-  <div class="stats" style="margin-bottom:clamp(60px,8vw,110px);background:rgba(255,255,255,.1)">
+  <div class="stats" style="margin-bottom:clamp(44px,5.4vw,80px);background:rgba(255,255,255,.1)">
     <div class="stat"><b data-count="16">16</b><span>Travelers max per group</span></div>
     <div class="stat"><b data-count="${tours.length}">${tours.length}</b><span>Multi-day routes</span></div>
     <div class="stat"><b data-count="${daytrips.length}">${daytrips.length}</b><span>Shared day trips</span></div>
@@ -572,7 +572,7 @@ function buildFaqs() {
   <input id="faq-q" class="faq-search" type="search" placeholder="Search questions, e.g. deposit, desert, solo" autocomplete="off">
   <p class="faq-empty muted" hidden style="margin-top:22px">No matching questions. <a href="contact.html">Ask us directly</a>, we reply within 24 hours.</p>
   <div class="chips" style="margin:26px 0 10px">${f.categories.map(c => `<a class="chip" href="#${slug(c.h2)}">${esc(strip(c.h2))}</a>`).join('')}</div>
-  ${f.categories.map(c => `<div data-faq-cat id="${slug(c.h2)}" style="margin-top:60px"><span class="eyebrow eyebrow--dune">${esc(c.eyebrow)}</span><h2 class="h2" data-r="words">${c.h2}</h2>${faqList(c.items)}</div>`).join('')}
+  ${f.categories.map(c => `<div data-faq-cat id="${slug(c.h2)}" style="margin-top:clamp(40px,4.4vw,56px)"><span class="eyebrow eyebrow--dune">${esc(c.eyebrow)}</span><h2 class="h2" data-r="words">${c.h2}</h2>${faqList(c.items)}</div>`).join('')}
 </div></section>
 ${band({ title: f.cta?.h2 || 'Still have questions?', text: f.cta?.p, href: f.cta?.href || 'contact.html', label: f.cta?.label || 'Contact us' })}`;
   out('faqs.html', page({ ...common, meta: f.meta, section: 'faqs', body, solid: false, extraLd: [...(hasFaqLd ? [] : [faqLd]), breadcrumbLd([['index.html', 'Home'], ['faqs.html', 'FAQs']])] }));
