@@ -586,9 +586,12 @@ function buildContact() {
   <div class="form-card" data-r="up">
     <h2 class="h3">Send us a message</h2>
     <p class="trip-note chip" hidden style="margin-bottom:20px">Enquiring about: <b></b></p>
-    <form class="form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="thank-you.html">
-      <input type="hidden" name="form-name" value="contact">
-      <p class="hp"><label>Don't fill this out if you're human: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+    <form class="form" name="contact" method="POST" action="https://formsubmit.co/${EMAIL}">
+      <input type="hidden" name="_subject" value="New enquiry from sharedmoroccoadventures.com">
+      <input type="hidden" name="_next" value="https://www.sharedmoroccoadventures.com/thank-you.html">
+      <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_captcha" value="false">
+      <p class="hp"><label>Don't fill this out if you're human: <input name="_honey" tabindex="-1" autocomplete="off"></label></p>
       <div class="form__row"><div class="field"><label for="name">Full name</label><input type="text" id="name" name="name" autocomplete="name" required></div><div class="field"><label for="email">Email</label><input type="email" id="email" name="email" autocomplete="email" required></div></div>
       <div class="form__row"><div class="field"><label for="trip">Trip of interest</label><select id="trip" name="trip">${tripOptions.map(o => `<option value="${attr(o.value)}">${esc(o.label)}</option>`).join('')}</select></div><div class="field"><label for="date">Preferred departure date</label><input type="date" id="date" name="date"></div></div>
       <div class="field"><span class="field__label" style="font-size:.8rem;font-weight:650;letter-spacing:.08em;text-transform:uppercase">Number of travelers</span>${pill('travelers', [['1', 'Just me'], ['2', '2 travelers'], ['3-4', '3 to 4'], ['5+', '5+']])}</div>
