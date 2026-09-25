@@ -3,13 +3,13 @@
   "slug": "tour-8-day-morocco-desert-atlantic-coast-tour",
   "meta": {
     "title": "8-Day Morocco Desert & Atlantic Coast Tour | Shared Morocco Adventures",
-    "description": "An 8-day shared group tour from Marrakech combining the Sahara desert, Marrakech city time, and the Atlantic port of Essaouira. From €579pp.",
+    "description": "An 8-day shared group tour from Marrakech combining the Sahara desert, Marrakech city time, and the Atlantic port of Essaouira. From €753pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/tour-8-day-morocco-desert-atlantic-coast-tour.html",
     "ogTitle": "8-Day Morocco Desert & Atlantic Coast Tour",
-    "ogDescription": "A shared, fixed-date group tour combining the Sahara desert, Marrakech, and the Atlantic coast at Essaouira. From €579pp.",
+    "ogDescription": "A shared, fixed-date group tour combining the Sahara desert, Marrakech, and the Atlantic coast at Essaouira. From €753pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-essaouira.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"8-Day Morocco Desert and Atlantic Coast Tour\",\r\n  \"description\": \"A shared, fixed-date group tour from Marrakech combining a Sahara desert camp, Marrakech city time, and the Atlantic port town of Essaouira.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Marrakech to Dades Valley via Ait Benhaddou\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Dades Valley to Merzouga Sahara camp\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Sahara camp to Ouarzazate\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Ouarzazate back to Marrakech\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Free day in Marrakech\" },\r\n      { \"@type\": \"ListItem\", \"position\": 6, \"name\": \"Marrakech to Essaouira\" },\r\n      { \"@type\": \"ListItem\", \"position\": 7, \"name\": \"Essaouira free day\" },\r\n      { \"@type\": \"ListItem\", \"position\": 8, \"name\": \"Essaouira back to Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"579\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"8-Day Morocco Desert and Atlantic Coast Tour\",\r\n  \"description\": \"A shared, fixed-date group tour from Marrakech combining a Sahara desert camp, Marrakech city time, and the Atlantic port town of Essaouira.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Marrakech to Dades Valley via Ait Benhaddou\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Dades Valley to Merzouga Sahara camp\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Sahara camp to Ouarzazate\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Ouarzazate back to Marrakech\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Free day in Marrakech\" },\r\n      { \"@type\": \"ListItem\", \"position\": 6, \"name\": \"Marrakech to Essaouira\" },\r\n      { \"@type\": \"ListItem\", \"position\": 7, \"name\": \"Essaouira free day\" },\r\n      { \"@type\": \"ListItem\", \"position\": 8, \"name\": \"Essaouira back to Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"753\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
     ]
   },
   "hero": {
@@ -187,7 +187,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€579",
+    "amount": "€753",
     "sub": "per person, shared twin/dorm room",
     "ctaHref": "contact.html?trip=8-Day%20Morocco%20Desert%20and%20Atlantic%20Coast%20Tour",
     "ctaText": "Check Dates & Availability"
@@ -215,7 +215,7 @@
       },
       {
         "q": "Is accommodation shared for all 7 nights?",
-        "a": "<p>Yes, the €579 price is based on shared twin/dorm rooms throughout. A private room upgrade is available on request, subject to availability.</p>"
+        "a": "<p>Yes, the €753 price is based on shared twin/dorm rooms throughout. A private room upgrade is available on request, subject to availability.</p>"
       },
       {
         "q": "What should I pack for the desert night?",

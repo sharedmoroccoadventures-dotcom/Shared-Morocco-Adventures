@@ -2,7 +2,7 @@
   "file": "index.html",
   "meta": {
     "title": "Shared Morocco Adventures | Budget Group Tours Across Morocco",
-    "description": "Join a small group and explore Morocco without the private-tour price tag — fixed departures, sociable travelers, Sahara desert camps. From €249.",
+    "description": "Join a small group and explore Morocco without the private-tour price tag — fixed departures, sociable travelers, Sahara desert camps. From €324.",
     "canonical": "https://www.sharedmoroccoadventures.com/",
     "ogTitle": "Shared Morocco Adventures | Budget Group Tours Across Morocco",
     "ogDescription": "Join a small group and explore Morocco without the private-tour price tag. Fixed-date departures, sociable travelers, Sahara desert camps, and imperial cities.",
@@ -88,7 +88,7 @@
             "🗓 4 Days"
           ],
           "blurb": "Ait Benhaddou, Dades &amp; Todra Gorges, a camel trek into the dunes, and a night under the stars at a shared desert camp.",
-          "price": "From €249",
+          "price": "From €324",
           "priceSub": "per person",
           "href": "tour-4-day-sahara-desert-group-tour.html",
           "cta": "View Trip",
@@ -103,7 +103,7 @@
             "🗓 7 Days"
           ],
           "blurb": "Marrakech, the High Atlas, Sahara dunes, Fes medina, and the blue lanes of Chefchaouen — Morocco's greatest hits in one loop.",
-          "price": "From €499",
+          "price": "From €649",
           "priceSub": "per person",
           "href": "tour-7-day-morocco-highlights-group-tour.html",
           "cta": "View Trip",
@@ -135,7 +135,7 @@
       "id": "",
       "eyebrow": "Budget Day Trips",
       "h2": "Shared group day trips from Marrakech &amp; Fes",
-      "lead": "Short on time or budget? Join a shared minivan day trip — or just a shared local guide on foot — instead. Same small-group savings, no overnight required. Departs daily from €15.",
+      "lead": "Short on time or budget? Join a shared minivan day trip — or just a shared local guide on foot — instead. Same small-group savings, no overnight required. Departs daily from €20.",
       "cards": [
         {
           "badge": "Cheapest · Marrakech",
@@ -145,7 +145,7 @@
             "🗓 Half Day"
           ],
           "blurb": "Jemaa el-Fnaa, the souks, Bahia Palace, and the Koutoubia Mosque with a local guide, on foot.",
-          "price": "From €15",
+          "price": "From €20",
           "priceSub": "per person",
           "href": "daytrip-marrakech-medina-walking-tour.html",
           "cta": "View Walking Tour",
@@ -160,7 +160,7 @@
             "🗓 Full Day"
           ],
           "blurb": "Morocco's iconic blue-washed streets in the Rif Mountains, our most-booked day trip from Fes.",
-          "price": "From €39",
+          "price": "From €51",
           "priceSub": "per person",
           "href": "daytrip-chefchaouen-blue-city.html",
           "cta": "View Day Trip",
@@ -175,7 +175,7 @@
             "🗓 Half/Full Day"
           ],
           "blurb": "Camel ride and golden-hour views over the stone desert, just 40 minutes from the city.",
-          "price": "From €35",
+          "price": "From €46",
           "priceSub": "per person",
           "href": "daytrip-agafay-desert-sunset.html",
           "cta": "View Day Trip",

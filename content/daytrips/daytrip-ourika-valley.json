@@ -3,13 +3,13 @@
   "slug": "daytrip-ourika-valley",
   "meta": {
     "title": "Ourika Valley & Atlas Mountains Day Trip | Shared Morocco Adventures",
-    "description": "A full-day shared trip from Marrakech to the Ourika Valley — an argan cooperative, Berber villages, and the Setti Fatma waterfalls. From €29pp.",
+    "description": "A full-day shared trip from Marrakech to the Ourika Valley — an argan cooperative, Berber villages, and the Setti Fatma waterfalls. From €38pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-ourika-valley.html",
     "ogTitle": "Ourika Valley & Atlas Mountains Day Trip",
-    "ogDescription": "A shared day trip from Marrakech into the High Atlas foothills — argan cooperative, Berber villages, and Setti Fatma waterfalls. From €29pp.",
+    "ogDescription": "A shared day trip from Marrakech into the High Atlas foothills — argan cooperative, Berber villages, and Setti Fatma waterfalls. From €38pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-ourika-valley.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ourika Valley and Atlas Mountains Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech to the Ourika Valley, including an argan oil cooperative, a Berber village, and the Setti Fatma waterfalls.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"29\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ourika Valley and Atlas Mountains Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech to the Ourika Valley, including an argan oil cooperative, a Berber village, and the Setti Fatma waterfalls.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"38\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -57,7 +57,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€29",
+    "amount": "€38",
     "sub": "per person · departs daily",
     "ctaHref": "contact.html?trip=Ourika%20Valley%20Day%20Trip",
     "ctaText": "Reserve This Day Trip"

@@ -3,13 +3,13 @@
   "slug": "daytrip-ouzoud-waterfalls",
   "meta": {
     "title": "Ouzoud Waterfalls Day Trip | Shared Morocco Adventures",
-    "description": "A full-day shared trip from Marrakech to Ouzoud Falls — North Africa's tallest waterfall, Barbary macaques and an optional boat ride. From €35pp.",
+    "description": "A full-day shared trip from Marrakech to Ouzoud Falls — North Africa's tallest waterfall, Barbary macaques and an optional boat ride. From €46pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-ouzoud-waterfalls.html",
     "ogTitle": "Ouzoud Waterfalls Day Trip",
-    "ogDescription": "A shared day trip from Marrakech to Ouzoud Falls, North Africa's tallest waterfall. From €35pp.",
+    "ogDescription": "A shared day trip from Marrakech to Ouzoud Falls, North Africa's tallest waterfall. From €46pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-ouzoud-waterfalls.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ouzoud Waterfalls Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech to Ouzoud Falls, North Africa's tallest waterfall, with a guided hike and optional boat ride.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"35\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Ouzoud Waterfalls Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech to Ouzoud Falls, North Africa's tallest waterfall, with a guided hike and optional boat ride.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"46\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -59,7 +59,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€35",
+    "amount": "€46",
     "sub": "per person · departs daily",
     "ctaHref": "contact.html?trip=Ouzoud%20Waterfalls%20Day%20Trip",
     "ctaText": "Reserve This Day Trip"

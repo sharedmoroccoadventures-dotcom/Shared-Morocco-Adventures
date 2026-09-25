@@ -3,13 +3,13 @@
   "slug": "daytrip-essaouira-coastal",
   "meta": {
     "title": "Essaouira Coastal Day Trip | Shared Morocco Adventures",
-    "description": "A full-day shared trip from Marrakech to Essaouira — UNESCO-listed medina, sea ramparts and the Atlantic fishing port. From €39pp.",
+    "description": "A full-day shared trip from Marrakech to Essaouira — UNESCO-listed medina, sea ramparts and the Atlantic fishing port. From €51pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-essaouira-coastal.html",
     "ogTitle": "Essaouira Coastal Day Trip",
-    "ogDescription": "A shared day trip from Marrakech to the Atlantic port town of Essaouira. From €39pp.",
+    "ogDescription": "A shared day trip from Marrakech to the Atlantic port town of Essaouira. From €51pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/daytrip-essaouira.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Essaouira Coastal Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech to the Atlantic port town of Essaouira, with a guided walk through its UNESCO-listed medina and sea ramparts.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"39\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Essaouira Coastal Day Trip\",\r\n  \"description\": \"A shared day trip from Marrakech to the Atlantic port town of Essaouira, with a guided walk through its UNESCO-listed medina and sea ramparts.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"51\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -59,7 +59,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€39",
+    "amount": "€51",
     "sub": "per person · departs daily",
     "ctaHref": "contact.html?trip=Essaouira%20Coastal%20Day%20Trip",
     "ctaText": "Reserve This Day Trip"

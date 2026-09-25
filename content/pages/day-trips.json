@@ -2,7 +2,7 @@
   "file": "day-trips.html",
   "meta": {
     "title": "10 Morocco Day Trips & Excursions | Marrakech and Fes",
-    "description": "Explore 10 small-group Morocco day trips from Marrakech and Fes: Sahara sunsets, Atlas Mountains, Chefchaouen, Essaouira, Ouzoud Falls and more. From €15.",
+    "description": "Explore 10 small-group Morocco day trips from Marrakech and Fes: Sahara sunsets, Atlas Mountains, Chefchaouen, Essaouira, Ouzoud Falls and more. From €20.",
     "canonical": "https://www.sharedmoroccoadventures.com/day-trips.html",
     "ogTitle": "Budget Day Trips from Marrakech & Fes | Shared Group Day Tours Morocco",
     "ogDescription": "Small-group, fixed-departure day trips from Marrakech and Fes at budget prices — shared transport, shared guide, real savings.",
@@ -14,7 +14,7 @@
   "hero": {
     "eyebrow": "Budget Day Trips",
     "h1": "Shared group day trips from Marrakech &amp; Fes",
-    "lead": "No private-tour price tag, no solo road-tripping logistics — just a shared minivan (or a local guide on foot), and a small group of fellow travelers, out and back the same day. Pick your city to see every route, from €15 per person.",
+    "lead": "No private-tour price tag, no solo road-tripping logistics — just a shared minivan (or a local guide on foot), and a small group of fellow travelers, out and back the same day. Pick your city to see every route, from €20 per person.",
     "image": "images/marrakech-jemaa-el-fnaa.jpg"
   },
   "sections": [
@@ -33,7 +33,7 @@
             "🗓 Daily"
           ],
           "blurb": "A medina walking tour, the Atlas Mountains, the Agafay stone desert, Ouzoud Waterfalls, Essaouira, and the Ait Benhaddou kasbah route.",
-          "price": "From €15",
+          "price": "From €20",
           "priceSub": "per person",
           "href": "day-trips-marrakech.html",
           "cta": "See Marrakech Day Trips",
@@ -48,7 +48,7 @@
             "🗓 Daily"
           ],
           "blurb": "The Blue City of Chefchaouen, Roman ruins at Volubilis, the Middle Atlas cedar forest, and the hidden-gem towns of Sefrou &amp; Bhalil.",
-          "price": "From €19",
+          "price": "From €25",
           "priceSub": "per person",
           "href": "day-trips-fes.html",
           "cta": "See Fes Day Trips",
@@ -68,7 +68,7 @@
       "lead": "From quick Marrakech experiences to full-day escapes from Fes, these original small-group activities make it simple to see more of Morocco without arranging a private driver.",
       "cards": [
         {
-          "badge": "From €15",
+          "badge": "From €20",
           "title": "Marrakech Medina Walking Tour",
           "meta": [
             "📍 Marrakech",
@@ -83,7 +83,7 @@
           "tone": ""
         },
         {
-          "badge": "From €29",
+          "badge": "From €38",
           "title": "Ourika Valley &amp; Atlas Mountains",
           "meta": [
             "📍 From Marrakech",
@@ -98,7 +98,7 @@
           "tone": ""
         },
         {
-          "badge": "From €35",
+          "badge": "From €46",
           "title": "Agafay Desert Sunset Escape",
           "meta": [
             "📍 From Marrakech",
@@ -113,7 +113,7 @@
           "tone": ""
         },
         {
-          "badge": "From €35",
+          "badge": "From €46",
           "title": "Ouzoud Waterfalls Day Trip",
           "meta": [
             "📍 From Marrakech",
@@ -128,7 +128,7 @@
           "tone": ""
         },
         {
-          "badge": "From €39",
+          "badge": "From €51",
           "title": "Essaouira Atlantic Coast",
           "meta": [
             "📍 From Marrakech",
@@ -143,7 +143,7 @@
           "tone": ""
         },
         {
-          "badge": "From €39",
+          "badge": "From €51",
           "title": "Ait Benhaddou &amp; Ouarzazate",
           "meta": [
             "📍 From Marrakech",
@@ -158,7 +158,7 @@
           "tone": ""
         },
         {
-          "badge": "From €39",
+          "badge": "From €51",
           "title": "Chefchaouen Blue City",
           "meta": [
             "📍 From Fes",
@@ -173,7 +173,7 @@
           "tone": ""
         },
         {
-          "badge": "From €29",
+          "badge": "From €38",
           "title": "Meknes, Volubilis &amp; Moulay Idriss",
           "meta": [
             "📍 From Fes",
@@ -188,7 +188,7 @@
           "tone": ""
         },
         {
-          "badge": "From €29",
+          "badge": "From €38",
           "title": "Ifrane &amp; Middle Atlas Cedar Forest",
           "meta": [
             "📍 From Fes",
@@ -203,7 +203,7 @@
           "tone": ""
         },
         {
-          "badge": "From €19",
+          "badge": "From €25",
           "title": "Sefrou &amp; Bhalil Hidden Villages",
           "meta": [
             "📍 From Fes",

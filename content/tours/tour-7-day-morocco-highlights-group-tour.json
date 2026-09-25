@@ -3,13 +3,13 @@
   "slug": "tour-7-day-morocco-highlights-group-tour",
   "meta": {
     "title": "7-Day Morocco Highlights Group Tour | Shared Morocco Adventures",
-    "description": "A 7-day shared group tour from Casablanca to Fes — Marrakech, the High Atlas, Sahara desert camp, and Chefchaouen's blue streets. From €499pp.",
+    "description": "A 7-day shared group tour from Casablanca to Fes — Marrakech, the High Atlas, Sahara desert camp, and Chefchaouen's blue streets. From €649pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/tour-7-day-morocco-highlights-group-tour.html",
     "ogTitle": "7-Day Morocco Highlights Group Tour",
-    "ogDescription": "A shared, fixed-date group tour covering Marrakech, the Sahara, Fes, and Chefchaouen. From €499pp.",
+    "ogDescription": "A shared, fixed-date group tour covering Marrakech, the Sahara, Fes, and Chefchaouen. From €649pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/tour-chefchaouen.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"7-Day Morocco Highlights Group Tour\",\r\n  \"description\": \"A shared, fixed-date group tour from Casablanca to Fes covering Marrakech, the High Atlas, the Sahara desert, and Chefchaouen.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Casablanca to Marrakech\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Marrakech city exploration\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Marrakech to Dades Valley via Atlas Mountains\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Dades Valley to Merzouga Sahara camp\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Merzouga to Fes via Ziz Valley\" },\r\n      { \"@type\": \"ListItem\", \"position\": 6, \"name\": \"Fes medina exploration and day trip to Chefchaouen\" },\r\n      { \"@type\": \"ListItem\", \"position\": 7, \"name\": \"Departure from Fes\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"499\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"7-Day Morocco Highlights Group Tour\",\r\n  \"description\": \"A shared, fixed-date group tour from Casablanca to Fes covering Marrakech, the High Atlas, the Sahara desert, and Chefchaouen.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Casablanca to Marrakech\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Marrakech city exploration\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Marrakech to Dades Valley via Atlas Mountains\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Dades Valley to Merzouga Sahara camp\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Merzouga to Fes via Ziz Valley\" },\r\n      { \"@type\": \"ListItem\", \"position\": 6, \"name\": \"Fes medina exploration and day trip to Chefchaouen\" },\r\n      { \"@type\": \"ListItem\", \"position\": 7, \"name\": \"Departure from Fes\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"649\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
     ]
   },
   "hero": {
@@ -178,7 +178,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€499",
+    "amount": "€649",
     "sub": "per person, shared twin/dorm room",
     "ctaHref": "contact.html?trip=7-Day%20Morocco%20Highlights%20Group%20Tour",
     "ctaText": "Check Dates & Availability"
@@ -210,7 +210,7 @@
       },
       {
         "q": "Is accommodation shared for all 6 nights?",
-        "a": "<p>Yes, the €499 price is based on shared twin/dorm rooms throughout. A private room upgrade is available on request, subject to availability.</p>"
+        "a": "<p>Yes, the €649 price is based on shared twin/dorm rooms throughout. A private room upgrade is available on request, subject to availability.</p>"
       },
       {
         "q": "What's the group size like on this route?",

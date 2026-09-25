@@ -342,5 +342,23 @@
       960,
       1400
     ]
+  },
+  "contact-hero-sahara-sunset.jpg": {
+    "w": 1400,
+    "h": 933,
+    "sizes": [
+      480,
+      960,
+      1400
+    ]
+  },
+  "marrakech-koutoubia-palms.jpg": {
+    "w": 1400,
+    "h": 875,
+    "sizes": [
+      480,
+      960,
+      1400
+    ]
   }
 }

@@ -3,13 +3,13 @@
   "slug": "daytrip-chefchaouen-blue-city",
   "meta": {
     "title": "Chefchaouen Blue City Day Trip | Shared Morocco Adventures",
-    "description": "A full-day shared trip from Fes to Chefchaouen's blue-washed medina, the Kasbah Museum, and Plaza Uta el-Hammam. From €39pp.",
+    "description": "A full-day shared trip from Fes to Chefchaouen's blue-washed medina, the Kasbah Museum, and Plaza Uta el-Hammam. From €51pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/daytrip-chefchaouen-blue-city.html",
     "ogTitle": "Chefchaouen Blue City Day Trip",
-    "ogDescription": "A shared day trip from Fes to the blue-washed streets of Chefchaouen. From €39pp.",
+    "ogDescription": "A shared day trip from Fes to the blue-washed streets of Chefchaouen. From €51pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/tour-chefchaouen.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Chefchaouen Blue City Day Trip\",\r\n  \"description\": \"A shared day trip from Fes to Chefchaouen's blue-washed medina, the Kasbah Museum, and the main square.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"39\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"Chefchaouen Blue City Day Trip\",\r\n  \"description\": \"A shared day trip from Fes to Chefchaouen's blue-washed medina, the Kasbah Museum, and the main square.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"offers\": { \"@type\": \"Offer\", \"priceCurrency\": \"EUR\", \"price\": \"51\", \"availability\": \"https://schema.org/InStock\" }\r\n}"
     ]
   },
   "hero": {
@@ -58,7 +58,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€39",
+    "amount": "€51",
     "sub": "per person · departs daily, book ahead in high season",
     "ctaHref": "contact.html?trip=Chefchaouen%20Blue%20City%20Day%20Trip",
     "ctaText": "Reserve This Day Trip"

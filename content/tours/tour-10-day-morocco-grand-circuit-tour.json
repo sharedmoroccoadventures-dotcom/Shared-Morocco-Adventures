@@ -3,13 +3,13 @@
   "slug": "tour-10-day-morocco-grand-circuit-tour",
   "meta": {
     "title": "10-Day Morocco Grand Circuit Group Tour | Shared Morocco Adventures",
-    "description": "A 10-day shared group tour from Casablanca to Marrakech — imperial cities, Chefchaouen, the Sahara desert and the High Atlas. From €749pp.",
+    "description": "A 10-day shared group tour from Casablanca to Marrakech — imperial cities, Chefchaouen, the Sahara desert and the High Atlas. From €974pp.",
     "canonical": "https://www.sharedmoroccoadventures.com/tour-10-day-morocco-grand-circuit-tour.html",
     "ogTitle": "10-Day Morocco Grand Circuit Group Tour",
-    "ogDescription": "A shared, fixed-date group tour covering Morocco's imperial cities, Chefchaouen, the Sahara desert, and the High Atlas. From €749pp.",
+    "ogDescription": "A shared, fixed-date group tour covering Morocco's imperial cities, Chefchaouen, the Sahara desert, and the High Atlas. From €974pp.",
     "ogImage": "https://www.sharedmoroccoadventures.com/images/blog-morocco-countryside.jpg",
     "jsonld": [
-      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"10-Day Morocco Grand Circuit Group Tour\",\r\n  \"description\": \"A shared, fixed-date group tour from Casablanca to Marrakech covering Morocco's imperial cities, Chefchaouen, the Sahara desert, and the High Atlas.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Casablanca arrival\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Casablanca to Meknes via Rabat\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Meknes to Fes via Volubilis\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Fes medina exploration\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Fes to Chefchaouen\" },\r\n      { \"@type\": \"ListItem\", \"position\": 6, \"name\": \"Chefchaouen to Midelt\" },\r\n      { \"@type\": \"ListItem\", \"position\": 7, \"name\": \"Midelt to Merzouga Sahara camp\" },\r\n      { \"@type\": \"ListItem\", \"position\": 8, \"name\": \"Sahara camp to Ouarzazate\" },\r\n      { \"@type\": \"ListItem\", \"position\": 9, \"name\": \"Ouarzazate to Marrakech via Ait Benhaddou\" },\r\n      { \"@type\": \"ListItem\", \"position\": 10, \"name\": \"Departure from Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"749\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
+      "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"TouristTrip\",\r\n  \"name\": \"10-Day Morocco Grand Circuit Group Tour\",\r\n  \"description\": \"A shared, fixed-date group tour from Casablanca to Marrakech covering Morocco's imperial cities, Chefchaouen, the Sahara desert, and the High Atlas.\",\r\n  \"touristType\": \"Budget travelers, backpackers, solo travelers\",\r\n  \"itinerary\": {\r\n    \"@type\": \"ItemList\",\r\n    \"itemListElement\": [\r\n      { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Casablanca arrival\" },\r\n      { \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Casablanca to Meknes via Rabat\" },\r\n      { \"@type\": \"ListItem\", \"position\": 3, \"name\": \"Meknes to Fes via Volubilis\" },\r\n      { \"@type\": \"ListItem\", \"position\": 4, \"name\": \"Fes medina exploration\" },\r\n      { \"@type\": \"ListItem\", \"position\": 5, \"name\": \"Fes to Chefchaouen\" },\r\n      { \"@type\": \"ListItem\", \"position\": 6, \"name\": \"Chefchaouen to Midelt\" },\r\n      { \"@type\": \"ListItem\", \"position\": 7, \"name\": \"Midelt to Merzouga Sahara camp\" },\r\n      { \"@type\": \"ListItem\", \"position\": 8, \"name\": \"Sahara camp to Ouarzazate\" },\r\n      { \"@type\": \"ListItem\", \"position\": 9, \"name\": \"Ouarzazate to Marrakech via Ait Benhaddou\" },\r\n      { \"@type\": \"ListItem\", \"position\": 10, \"name\": \"Departure from Marrakech\" }\r\n    ]\r\n  },\r\n  \"offers\": {\r\n    \"@type\": \"Offer\",\r\n    \"priceCurrency\": \"EUR\",\r\n    \"price\": \"974\",\r\n    \"availability\": \"https://schema.org/InStock\"\r\n  }\r\n}"
     ]
   },
   "hero": {
@@ -228,7 +228,7 @@
   ],
   "price": {
     "from": "From",
-    "amount": "€749",
+    "amount": "€974",
     "sub": "per person, shared twin/dorm room",
     "ctaHref": "contact.html?trip=10-Day%20Morocco%20Grand%20Circuit%20Group%20Tour",
     "ctaText": "Check Dates & Availability"
@@ -256,7 +256,7 @@
       },
       {
         "q": "Is accommodation shared for all 9 nights?",
-        "a": "<p>Yes, the €749 price is based on shared twin/dorm rooms throughout. A private room upgrade is available on request, subject to availability.</p>"
+        "a": "<p>Yes, the €974 price is based on shared twin/dorm rooms throughout. A private room upgrade is available on request, subject to availability.</p>"
       },
       {
         "q": "What should I pack for the desert night?",

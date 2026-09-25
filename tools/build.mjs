@@ -234,7 +234,7 @@ function buildHome() {
   const dayPicks = ['daytrip-marrakech-medina-walking-tour.html', 'daytrip-ourika-valley.html', 'daytrip-agafay-desert-sunset.html', 'daytrip-chefchaouen-blue-city.html'].map(h => daytrips.find(d => d.href === h)).filter(Boolean);
   const dayTrips = `<section class="section t-sand" aria-labelledby="dt-h">
   <div class="wrap">
-    <div class="head head--row"><div><span class="eyebrow eyebrow--dune">Short on time?</span><h2 class="h2" id="dt-h" data-r="words">Shared day trips from Marrakech &amp; Fes, from €15</h2></div>${btn('day-trips.html', 'All day trips')}</div>
+    <div class="head head--row"><div><span class="eyebrow eyebrow--dune">Short on time?</span><h2 class="h2" id="dt-h" data-r="words">Shared day trips from Marrakech &amp; Fes, from €20</h2></div>${btn('day-trips.html', 'All day trips')}</div>
     <div class="grid g-4">${dayPicks.map(d => ecard({ href: d.href, image: d.image, title: d.title, blurb: d.blurb }, { tag: d.badge, meta: [noEmoji(d.meta[0]), d.length] })).join('')}</div>
   </div>
 </section>`;
@@ -612,7 +612,7 @@ function buildContact() {
   ];
   const ideas = ['tour-4-day-sahara-desert-group-tour.html', 'tour-4-day-fes-chefchaouen-volubilis-tour.html', 'tour-3-day-atlas-mountains-agafay-group-escape.html', 'tour-8-day-morocco-desert-atlantic-coast-tour.html'].map(tourBy).filter(Boolean);
   const quickFaq = (P.faqs.categories[0]?.items || []).slice(0, 4);
-  const body = `${phero({ image: 'images/blog-koutoubia-mosque.jpg', short: true, eyebrow: 'Contact', title: 'Reserve your seat or <span class="serif" style="color:var(--saffron)">ask a question</span>', lead: 'We reply within 24 hours with departure dates, availability and the final price. Every message is answered by our team in Marrakech.', crumbList: [['index.html', 'Home'], ['', 'Contact']] })}
+  const body = `${phero({ image: 'images/contact-hero-sahara-sunset.jpg', short: true, eyebrow: 'Contact', title: 'Reserve your seat or <span class="serif" style="color:var(--saffron)">ask a question</span>', lead: 'We reply within 24 hours with departure dates, availability and the final price. Every message is answered by our team in Marrakech.', crumbList: [['index.html', 'Home'], ['', 'Contact']] })}
 <section class="section t-cream"><div class="wrap"><div class="split" style="align-items:start">
   <div class="form-card" data-r="up">
     <h2 class="h3">Send us a message</h2>
@@ -632,7 +632,7 @@ function buildContact() {
     </form>
   </div>
   <div class="contact-side">
-    <div class="contact-photo" data-r="up">${img('images/marrakech-medina-souk.jpg', 'The souks of the Marrakech medina')}<span class="contact-photo__badge"><b>Based in Marrakech</b>Registered local company</span></div>
+    <div class="contact-photo" data-r="up">${img('images/marrakech-koutoubia-palms.jpg', 'The Koutoubia Mosque minaret and palm trees in Marrakech')}<span class="contact-photo__badge"><img class="contact-photo__logo" src="images/logo-icon.png" alt="" width="44" height="44"><span><b>Shared Morocco Adventures</b>Based in Marrakech · Registered local company</span></span></div>
     <span class="eyebrow eyebrow--dune">Other ways to reach us</span>
     <h2 class="h2" data-r="words">We’re here to <span class="serif hl">help</span></h2>
     <p class="muted">Ready to book or still weighing your options? Drop us a line and we’ll help you pick the right route and departure date.</p>
