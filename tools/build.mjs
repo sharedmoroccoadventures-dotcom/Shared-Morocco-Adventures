@@ -212,7 +212,7 @@ function buildHome() {
   };
   const xps = [
     { size: 'big', title: 'The Sahara', text: 'Sunset over Erg Chebbi, silence, stars. The trip everyone talks about.', img: 'images/hero-sahara-dunes.jpg', art: 'dunes', href: 'tour-4-day-sahara-desert-group-tour.html' },
-    { title: 'Camel treks', text: 'Ride out into the dunes in a line of friends, just like the caravans did.', img: 'images/blog-group-travelers-morocco.jpg', art: 'camel', href: 'blog-camel-trekking-merzouga.html' },
+    { title: 'Camel treks', text: 'Ride out into the dunes in a line of friends, just like the caravans did.', img: 'images/blog-camel-trek-closeup.jpg', art: 'camel', href: 'blog-camel-trekking-merzouga.html' },
     { title: 'Desert camps', text: 'Berber tents, a campfire, live drums and a sky full of stars.', img: 'images/blog-desert-camp-tents.jpg', art: 'camp', href: 'blog-sahara-desert-camp-guide.html' },
     { size: 'wide', title: 'Sandboarding', text: 'Throw yourself down the slopes of Erg Chebbi. Ask about boards at the desert camp.', bg: 'var(--dune)', art: 'board', href: 'blog-camel-trekking-merzouga.html' },
     { title: 'Mountains', text: 'Atlas passes, valley walks and Toubkal, North Africa’s highest peak.', img: 'images/blog-toubkal-summit.jpg', art: 'peaks', href: 'blog-atlas-mountains-hiking.html' },
@@ -220,7 +220,7 @@ function buildHome() {
     { size: 'wide', title: 'Street food', text: 'Tagines, msemen, snail soup if you dare. Eating together is half the trip.', img: 'images/blog-street-food-marrakech.jpg', art: 'tagine', href: 'blog-moroccan-street-food-guide.html' },
     { title: 'Medinas', text: 'Lantern-lit souks, spice pyramids and alleys made for getting lost.', img: 'images/blog-souk-lanterns.jpg', art: 'lantern', href: 'blog-marrakech-medina-guide.html' },
     { title: 'Waterfalls', text: 'Ouzoud’s 110 m falls, rainbows and the local Barbary macaques.', img: 'images/daytrip-ouzoud-waterfalls.jpg', art: 'water', href: 'daytrip-ouzoud-waterfalls.html' },
-    { size: 'wide', title: 'Shared travel', text: 'Most travelers arrive solo and leave with a group chat full of friends.', bg: 'var(--majorelle)', art: 'people', href: 'blog-morocco-tours-solo-travelers.html' },
+    { size: 'wide', title: 'Shared travel', text: 'Most travelers arrive solo and leave with a group chat full of friends.', img: 'images/blog-group-travelers-morocco.jpg', art: 'people', href: 'blog-morocco-tours-solo-travelers.html' },
   ];
   const experiences = `<section class="section t-cream" data-stage="Experience" aria-labelledby="xp-h">
   <div class="wrap">
