@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { SITE, EMAIL, I, esc, attr, strip, noEmoji, emojiOf, chipIcon, btn, page, img, routeChain, crumbs, breadcrumbLd, faqList, band, tcard, ecard } from './lib/ui.mjs';
+import { SITE, EMAIL, WA_LINK, WA_DISPLAY, I, esc, attr, strip, noEmoji, emojiOf, chipIcon, btn, page, img, routeChain, crumbs, breadcrumbLd, faqList, band, tcard, ecard } from './lib/ui.mjs';
 import { moroccoMap } from './lib/map.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -110,7 +110,7 @@ function dock({ amount, sub, bullets, href, label, note }) {
 }
 const mdock = (amount, sub, href) => `<div class="mdock"><div><small>From</small><b>${esc(amount)}</b> <small style="display:inline">per person</small></div>${btn(href, 'Check dates', 'btn--dune btn--sm')}</div>`;
 
-const bookingNote = 'Send an enquiry first. We confirm the departure, final price and payment by email. No payment is taken on this website.';
+const bookingNote = 'Send an enquiry or message us on WhatsApp first. We confirm the departure, final price and payment by email. No payment is taken on this website.';
 
 /* ================= HOME ================= */
 function buildHome() {
@@ -214,7 +214,7 @@ function buildHome() {
     { size: 'big', title: 'The Sahara', text: 'Sunset over Erg Chebbi, silence, stars. The trip everyone talks about.', img: 'images/hero-sahara-dunes.jpg', art: 'dunes', href: 'tour-4-day-sahara-desert-group-tour.html' },
     { title: 'Camel treks', text: 'Ride out into the dunes in a line of friends, just like the caravans did.', img: 'images/blog-camel-trek-closeup.jpg', art: 'camel', href: 'blog-camel-trekking-merzouga.html' },
     { title: 'Desert camps', text: 'Berber tents, a campfire, live drums and a sky full of stars.', img: 'images/blog-desert-camp-tents.jpg', art: 'camp', href: 'blog-sahara-desert-camp-guide.html' },
-    { size: 'wide', title: 'Sandboarding', text: 'Throw yourself down the slopes of Erg Chebbi. Ask about boards at the desert camp.', img: 'images/experience-sandboarding.jpg', art: 'board', href: 'blog-camel-trekking-merzouga.html' },
+    { size: 'wide', title: 'Sandboarding', text: 'Throw yourself down the slopes of Erg Chebbi. Ask about boards at the desert camp.', img: 'images/experience-sandboarding.jpg', art: 'board', href: 'blog-sahara-desert-camp-guide.html' },
     { title: 'Mountains', text: 'Atlas passes, valley walks and Toubkal, North Africa’s highest peak.', img: 'images/blog-toubkal-summit.jpg', art: 'peaks', href: 'blog-atlas-mountains-hiking.html' },
     { title: 'Berber villages', text: 'Terraced valleys, argan co-ops and mint tea with local families.', img: 'images/daytrip-ourika-valley.jpg', art: 'zellige', href: 'daytrip-ourika-valley.html' },
     { size: 'wide', title: 'Street food', text: 'Tagines, msemen, snail soup if you dare. Eating together is half the trip.', img: 'images/blog-street-food-marrakech.jpg', art: 'tagine', href: 'blog-moroccan-street-food-guide.html' },
@@ -382,7 +382,7 @@ function buildTour(t, i) {
       ${d.good ? `<div class="block goodbox" data-r="up"><span class="eyebrow eyebrow--dune">${esc(d.good.eyebrow)}</span><h2 class="h3">${d.good.h2}</h2>${d.good.paras.map(p => `<p>${p}</p>`).join('')}</div>` : ''}
       ${d.faq ? `<div class="block" id="faq"><span class="eyebrow eyebrow--dune">${esc(d.faq.eyebrow)}</span><h2 class="h2" data-r="words">${d.faq.h2}</h2>${faqList(d.faq.items)}${(d.faq.extra || []).join('')}</div>` : ''}
     </div>
-    ${dock({ amount: d.price.amount, sub: d.price.sub, bullets: [`${t.days} days · ${esc(t.routeStr)}`, ...chips.filter(c => !/📍/.test(c)).map(c => esc(noEmoji(c))), 'Local English/French-speaking driver-guide'], href: d.price.ctaHref, label: d.price.ctaText || 'Check dates & availability', note: bookingNote })}
+    ${dock({ amount: d.price.amount, sub: d.price.sub, bullets: [`${t.days} days · ${esc(t.routeStr)}`, ...chips.filter(c => !/📍/.test(c)).map(c => esc(noEmoji(c))), 'Local English/French-speaking driver-guide', 'Deposit refundable up to 14 days before departure'], href: d.price.ctaHref, label: d.price.ctaText || 'Check dates & availability', note: bookingNote })}
   </div>
 </section>
 <section class="section t-sand" aria-labelledby="more-h">
@@ -622,6 +622,7 @@ function buildContact() {
       <input type="hidden" name="_next" value="https://www.sharedmoroccoadventures.com/thank-you.html">
       <input type="hidden" name="_template" value="table">
       <input type="hidden" name="_captcha" value="false">
+      <input type="hidden" name="_cc" value="info@escortedmoroccotours.com">
       <p class="hp"><label>Don't fill this out if you're human: <input name="_honey" tabindex="-1" autocomplete="off"></label></p>
       <div class="form__row"><div class="field"><label for="name">Full name</label><input type="text" id="name" name="name" autocomplete="name" required></div><div class="field"><label for="email">Email</label><input type="email" id="email" name="email" autocomplete="email" required></div></div>
       <div class="form__row"><div class="field"><label for="trip">Trip of interest</label><select id="trip" name="trip">${tripOptions.map(o => `<option value="${attr(o.value)}">${esc(o.label)}</option>`).join('')}</select></div><div class="field"><label for="date">Preferred departure date</label><input type="date" id="date" name="date"></div></div>
@@ -637,6 +638,7 @@ function buildContact() {
     <h2 class="h2" data-r="words">We’re here to <span class="serif hl">help</span></h2>
     <p class="muted">Ready to book or still weighing your options? Drop us a line and we’ll help you pick the right route and departure date.</p>
     <ul class="contact-list" data-stagger="up">
+      <li><span class="contact-list__ico">${I.chat || I.mail}</span><div><small>Fastest reply: WhatsApp</small><a href="${WA_LINK}" target="_blank" rel="noopener">${WA_DISPLAY}</a></div></li>
       <li><span class="contact-list__ico">${I.mail}</span><div><small>Email us any time</small><a href="mailto:${EMAIL}">${EMAIL}</a></div></li>
       <li><span class="contact-list__ico">${I.clock}</span><div><small>Response time</small><b>Within 24 hours, by a real person</b></div></li>
       <li><span class="contact-list__ico">${I.check}</span><div><small>Guides speak</small><b>English, Spanish and French</b></div></li>

@@ -9,6 +9,9 @@ export const SIZES_HALF = '(min-width: 900px) 50vw, 92vw';
 export const preloadTag = src => { const ss = srcsetOf(src); return `<link rel="preload" as="image" href="${attr(src)}"${ss ? ` imagesrcset="${ss}" imagesizes="100vw"` : ''} fetchpriority="high">`; };
 export const SITE = 'https://www.sharedmoroccoadventures.com';
 export const EMAIL = 'sharedmoroccoadventures@gmail.com';
+export const WA_NUMBER = '212623668013';
+export const WA_DISPLAY = '+212 6 23 66 80 13';
+export const WA_LINK = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent('Hello Shared Morocco Adventures, I would like to ask about a group tour.')}`;
 
 export const esc = s => String(s ?? '').replace(/&(?![#a-z0-9]+;)/gi, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 export const attr = s => String(s ?? '').replace(/&(?![#a-z0-9]+;)/gi, '&amp;').replace(/"/g, '&quot;');
@@ -54,14 +57,14 @@ export function header(section, solid = false) {
   return `<a class="skip" href="#main">Skip to content</a>
 <header class="hdr${solid ? ' hdr--solid' : ''}">
   <div class="hdr__bar">
-    <a href="index.html" class="logo" aria-label="Shared Morocco Adventures, home">${logoMark('lgH')}<span>Shared Morocco<small>Adventures</small></span></a>
+    <a href="/" class="logo" aria-label="Shared Morocco Adventures, home">${logoMark('lgH')}<span>Shared Morocco<small>Adventures</small></span></a>
     <nav class="nav" aria-label="Main"><span class="nav__ind" aria-hidden="true"></span>${links}</nav>
     ${btn('contact.html', 'Book a seat', 'btn--dune btn--sm hdr__cta')}
     <button class="burger" type="button" aria-expanded="false" aria-controls="menu" aria-label="Open menu"><span></span><span></span><span></span></button>
   </div>
 </header>
 <div class="menu" id="menu">
-  <ul class="menu__links">${[['index.html', 'Home'], ...NAV.map(([h, l]) => [h, l])].map(([h, l]) => `<li><a href="${h}">${l}</a></li>`).join('')}</ul>
+  <ul class="menu__links">${[['/', 'Home'], ...NAV.map(([h, l]) => [h, l])].map(([h, l]) => `<li><a href="${h}">${l}</a></li>`).join('')}</ul>
   <div class="menu__foot"><a href="mailto:${EMAIL}">${EMAIL}</a><span>Small groups · Fixed departures · Real savings</span></div>
 </div>`;
 }
@@ -72,7 +75,7 @@ export function footer(popular) {
   <div class="wrap">
     <div class="ftr__top">
       <div>
-        <a href="index.html" class="logo" style="margin-bottom:28px">${logoMark('lgF')}<span>Shared Morocco<small>Adventures</small></span></a>
+        <a href="/" class="logo" style="margin-bottom:28px">${logoMark('lgF')}<span>Shared Morocco<small>Adventures</small></span></a>
         <p class="ftr__lead">Budget-friendly small-group tours across Morocco. Fixed departures, sociable travelers, real savings.</p>
         ${btn('tours.html', 'Find your departure', 'btn--dune')}
       </div>
@@ -81,7 +84,7 @@ export function footer(popular) {
       </ul></div>
       <div><h4>Popular Trips</h4><ul>${popular.map(t => `<li><a href="${t.file}">${t.short}</a></li>`).join('')}<li><a href="tours.html">All Group Tours</a></li></ul></div>
       <div><h4>Contact</h4><ul>
-        <li><a href="mailto:${EMAIL}">${EMAIL}</a></li><li><a href="contact.html">Contact form</a></li><li><span style="opacity:.7">Replies within 24 hours</span></li>
+        <li><a href="${WA_LINK}" target="_blank" rel="noopener">WhatsApp ${WA_DISPLAY}</a></li><li><a href="mailto:${EMAIL}">${EMAIL}</a></li><li><a href="contact.html">Contact form</a></li><li><span style="opacity:.7">Replies within 24 hours</span></li>
       </ul></div>
     </div>
     <div class="ftr__word" data-p aria-hidden="true">${word}</div>
@@ -134,6 +137,7 @@ ${rail ? railMarkup() : ''}
 ${body}
 </main>
 ${footer(popular)}
+<a class="wa-float" href="${WA_LINK}" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp"><svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><path fill="#fff" d="M16 3a13 13 0 0 0-11.2 19.6L3 29l6.6-1.7A13 13 0 1 0 16 3zm0 23.6c-2 0-4-.5-5.7-1.6l-.4-.2-3.9 1 1-3.8-.3-.4A10.6 10.6 0 1 1 16 26.6zm5.8-7.9c-.3-.2-1.9-.9-2.2-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7.1a8.7 8.7 0 0 1-4.3-3.8c-.3-.6.3-.5 1-1.7.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6a1.2 1.2 0 0 0-.9.4 3.7 3.7 0 0 0-1.2 2.8 6.5 6.5 0 0 0 1.4 3.4 14.8 14.8 0 0 0 5.7 5c2.1.9 2.9 1 4 .8.7-.1 1.9-.8 2.2-1.5s.3-1.4.2-1.5-.3-.2-.6-.3z"/></svg><span>WhatsApp</span></a>
 </body>
 </html>
 `;
