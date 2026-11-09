@@ -9,8 +9,9 @@ export const SIZES_HALF = '(min-width: 900px) 50vw, 92vw';
 export const preloadTag = src => { const ss = srcsetOf(src); return `<link rel="preload" as="image" href="${attr(src)}"${ss ? ` imagesrcset="${ss}" imagesizes="100vw"` : ''} fetchpriority="high">`; };
 export const SITE = 'https://www.sharedmoroccoadventures.com';
 export const EMAIL = 'sharedmoroccoadventures@gmail.com';
-export const WA_NUMBER = '212623668013';
-export const WA_DISPLAY = '+212 6 23 66 80 13';
+export const WA_NUMBER = '212670707151';
+export const WA_DISPLAY = '+212 670 707 151';
+export const GYG_LINK = 'https://www.getyourguide.com/shared-morocco-adventures-s301929/';
 export const WA_LINK = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent('Hello Shared Morocco Adventures, I would like to ask about a group tour.')}`;
 
 export const esc = s => String(s ?? '').replace(/&(?![#a-z0-9]+;)/gi, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -84,7 +85,7 @@ export function footer(popular) {
       </ul></div>
       <div><h4>Popular Trips</h4><ul>${popular.map(t => `<li><a href="${t.file}">${t.short}</a></li>`).join('')}<li><a href="tours.html">All Group Tours</a></li></ul></div>
       <div><h4>Contact</h4><ul>
-        <li><a href="${WA_LINK}" target="_blank" rel="noopener">WhatsApp ${WA_DISPLAY}</a></li><li><a href="mailto:${EMAIL}">${EMAIL}</a></li><li><a href="contact.html">Contact form</a></li><li><span style="opacity:.7">Replies within 24 hours</span></li>
+        <li><a href="${WA_LINK}" target="_blank" rel="noopener">WhatsApp ${WA_DISPLAY}</a></li><li><a href="mailto:${EMAIL}">${EMAIL}</a></li><li><a href="contact.html">Contact form</a></li><li><a href="${GYG_LINK}" target="_blank" rel="noopener">Book instantly on GetYourGuide</a></li><li><span style="opacity:.7">Replies within 24 hours</span></li>
       </ul></div>
     </div>
     <div class="ftr__word" data-p aria-hidden="true">${word}</div>

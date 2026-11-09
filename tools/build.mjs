@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { SITE, EMAIL, WA_LINK, WA_DISPLAY, I, esc, attr, strip, noEmoji, emojiOf, chipIcon, btn, page, img, routeChain, crumbs, breadcrumbLd, faqList, band, tcard, ecard } from './lib/ui.mjs';
+import { SITE, EMAIL, WA_LINK, WA_DISPLAY, GYG_LINK, I, esc, attr, strip, noEmoji, emojiOf, chipIcon, btn, page, img, routeChain, crumbs, breadcrumbLd, faqList, band, tcard, ecard } from './lib/ui.mjs';
 import { moroccoMap } from './lib/map.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -105,6 +105,7 @@ function dock({ amount, sub, bullets, href, label, note }) {
   <div class="dock__sub">${sub}</div>
   <ul>${bullets.map(b => `<li>${I.check}<span>${b}</span></li>`).join('')}</ul>
   ${btn(href, label, 'btn--dune')}
+  <a class="dock__gyg" href="${GYG_LINK}" target="_blank" rel="noopener">Prefer to book instantly? Book on GetYourGuide</a>
   <p class="dock__note">${note}</p>
 </aside>`;
 }
@@ -640,6 +641,7 @@ function buildContact() {
     <ul class="contact-list" data-stagger="up">
       <li><span class="contact-list__ico">${I.chat || I.mail}</span><div><small>Fastest reply: WhatsApp</small><a href="${WA_LINK}" target="_blank" rel="noopener">${WA_DISPLAY}</a></div></li>
       <li><span class="contact-list__ico">${I.mail}</span><div><small>Email us any time</small><a href="mailto:${EMAIL}">${EMAIL}</a></div></li>
+      <li><span class="contact-list__ico">${I.check}</span><div><small>Prefer instant booking?</small><a href="${GYG_LINK}" target="_blank" rel="noopener">Book our tours on GetYourGuide</a></div></li>
       <li><span class="contact-list__ico">${I.clock}</span><div><small>Response time</small><b>Within 24 hours, by a real person</b></div></li>
       <li><span class="contact-list__ico">${I.check}</span><div><small>Guides speak</small><b>English, Spanish and French</b></div></li>
     </ul>
